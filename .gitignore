@@ -10,3 +10,6 @@ build/
 .pytest_cache/
 exports/
 run.json
+# The gem ledger lives on the gems-feed branch (written by CI), not on main.
+GEMS.md
+data/gems.json
