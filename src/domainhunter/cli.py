@@ -17,6 +17,7 @@ from .generate import build_markov
 from .models import RankedDomain
 from .pipeline import check_domains, run_hunt
 from .score import score_name
+from .wordlists import load_known_words
 
 app = typer.Typer(add_completion=False, no_args_is_help=True,
                   help="Domain Hunter — find cool, cheap, unowned domains.")
@@ -186,7 +187,7 @@ def score(name: str = typer.Argument(..., help="A name (no TLD) to score.")) -> 
     """Show the coolness breakdown for a single name."""
     config = load_config()
     markov = build_markov()
-    value, breakdown = score_name(name, markov, config.min_len, config.max_len)
+    value, breakdown = score_name(name, markov, load_known_words(), config.min_len, config.max_len)
     console.print(f"[bold]{name}[/]  →  coolness [bold cyan]{value:.3f}[/]")
     table = Table(show_header=False, box=None)
     for k, v in breakdown.items():

@@ -29,16 +29,22 @@ def generate_all(
     nouns = list(load_nouns())
 
     enabled = list(dict.fromkeys(config.strategies))
-    share = max(1, config.target_pool // max(1, len(enabled)))
-    out: list[Candidate] = []
+    # Favor short producers (brandable inventions, leet fragments) — short wins.
+    # `words` makes longer compounds, so it gets the smallest share.
+    weights = {"brandable": 0.40, "leet": 0.25, "words": 0.20, "seeds": 0.15}
+    total_w = sum(weights.get(s, 0.25) for s in enabled) or 1.0
 
+    def share(strategy: str) -> int:
+        return max(1, int(config.target_pool * weights.get(strategy, 0.25) / total_w))
+
+    out: list[Candidate] = []
     if "brandable" in enabled:
-        out += brandable.generate(share, markov, rng, config.min_len, config.max_len)
+        out += brandable.generate(share("brandable"), markov, rng, config.min_len, config.max_len)
     if "words" in enabled:
-        out += words_gen.generate(share, adjs, nouns, rng, config.min_len, config.max_len)
+        out += words_gen.generate(share("words"), adjs, nouns, rng, config.min_len, config.max_len)
     if "seeds" in enabled:
-        out += seeds_gen.generate(config.seeds, share, rng, config.min_len, config.max_len)
+        out += seeds_gen.generate(config.seeds, share("seeds"), rng, config.min_len, config.max_len)
     if "leet" in enabled:
-        out += leet.generate(share, adjs + nouns, rng, config.min_len, config.max_len)
+        out += leet.generate(share("leet"), adjs + nouns, rng, config.min_len, config.max_len)
 
     return out

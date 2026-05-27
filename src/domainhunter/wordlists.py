@@ -34,6 +34,12 @@ def load_nouns() -> tuple[str, ...]:
 
 
 @lru_cache(maxsize=1)
+def load_known_words() -> frozenset:
+    """Curated nice words — used to reward real-word + compound names in scoring."""
+    return frozenset(load_adjectives()) | frozenset(load_nouns())
+
+
+@lru_cache(maxsize=1)
 def load_markov_corpus(limit: int = 18000, seed: int = 7) -> tuple[str, ...]:
     """Bundled cool words + a random sample of the system dictionary for breadth."""
     words: set[str] = set(load_adjectives()) | set(load_nouns())

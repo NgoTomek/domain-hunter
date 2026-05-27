@@ -36,8 +36,8 @@ jobs:
         run: |
           mkdir -p data
           [ -f feed/data/gems.json ] && cp feed/data/gems.json data/gems.json || true
-          # All strategies (incl. leet fragments), high volume for max coverage.
-          dh hunt --limit 700 --show 0 --export run.json || true
+          # All strategies, high volume. RDAP for io/me/sh makes this fast now.
+          dh hunt --limit 1200 --show 0 --export run.json || true
           python scripts/merge_gems.py run.json
           mkdir -p feed/data
           cp data/gems.json feed/data/gems.json

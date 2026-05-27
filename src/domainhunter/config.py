@@ -30,6 +30,7 @@ class Config:
     min_coolness: float
     dns_concurrency: int
     rdap_concurrency: int
+    whois_concurrency: int
     porkbun_concurrency: int
     cache_ttl_days: int
     secrets: Secrets
@@ -52,7 +53,8 @@ def load_config(path: Path | None = None) -> Config:
         max_len=int(gen.get("max_len", 12)),
         min_coolness=float(sco.get("min_coolness", 0.5)),
         dns_concurrency=int(net.get("dns_concurrency", 40)),
-        rdap_concurrency=int(net.get("rdap_concurrency", 12)),
+        rdap_concurrency=int(net.get("rdap_concurrency", 20)),
+        whois_concurrency=int(net.get("whois_concurrency", 5)),
         porkbun_concurrency=int(net.get("porkbun_concurrency", 3)),
         cache_ttl_days=int(net.get("cache_ttl_days", 7)),
         secrets=Secrets(),

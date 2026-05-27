@@ -16,6 +16,7 @@ from .models import Candidate, RankedDomain
 from .pricing.porkbun import Porkbun, parse_check
 from .rank import final_score
 from .score import score_name
+from .wordlists import load_known_words
 
 BOOTSTRAP_CACHE = ROOT / "data" / "rdap_bootstrap.json"
 # on_progress(phase_label, done, total)
@@ -41,7 +42,7 @@ def _porkbun(client: httpx.AsyncClient, config: Config) -> Porkbun | None:
     return None
 
 
-async def _availability(con, client, bootstrap, domain, config, use_dns=True):
+async def _availability(con, client, bootstrap, domain, config, sem_whois, use_dns=True):
     cached = store.get_availability(con, domain, config.cache_ttl_days)
     if cached is not None:
         av = cached["available"]
@@ -57,12 +58,13 @@ async def _availability(con, client, bootstrap, domain, config, use_dns=True):
 
     avail, src = await rdap_check(client, domain, bootstrap)
     if avail is None:
-        avail, src = await whois_check(domain)
+        async with sem_whois:  # WHOIS (now only .co) is touchy — throttle it
+            avail, src = await whois_check(domain)
     store.save_availability(con, domain, avail, src)
     return avail, src
 
 
-async def _process(con, client, bootstrap, base_pricing, cand, tld, domain, config, sem_task) -> RankedDomain:
+async def _process(con, client, bootstrap, base_pricing, cand, tld, domain, config, sem_task, sem_whois) -> RankedDomain:
     """Availability (free) + TLD base price. No checkDomain — that's the verify step."""
     async with sem_task:
         # A fresh authoritative price (from a prior verify) wins — already premium-aware.
@@ -70,7 +72,7 @@ async def _process(con, client, bootstrap, base_pricing, cand, tld, domain, conf
         if cp is not None:
             av = None if cp["available"] is None else bool(cp["available"])
             prem = bool(cp["premium"])
-            score = final_score(cand.coolness, bool(av), cp["price"], prem, config.budget)
+            score = final_score(cand.coolness, bool(av), cp["price"], prem, config.budget, tld)
             if av is True:
                 status = "premium" if prem else "available"
             elif av is False:
@@ -80,10 +82,10 @@ async def _process(con, client, bootstrap, base_pricing, cand, tld, domain, conf
             return RankedDomain(domain, cand.name, tld, cand.coolness, bool(av), cp["price"],
                                 cp["renewal"], prem, score, cand.strategy, status, "cache")
 
-        avail, src = await _availability(con, client, bootstrap, domain, config)
+        avail, src = await _availability(con, client, bootstrap, domain, config, sem_whois)
         reg, renew = Porkbun.base_price(base_pricing, tld)
         if avail is True:
-            score = final_score(cand.coolness, True, reg, False, config.budget)
+            score = final_score(cand.coolness, True, reg, False, config.budget, tld)
             return RankedDomain(domain, cand.name, tld, cand.coolness, True, reg, renew,
                                 False, score, cand.strategy, "available", src)
         status = "taken" if avail is False else "unknown"
@@ -118,7 +120,7 @@ async def _verify(results, porkbun, con, config, n, on_progress: ProgressCb = No
         r.premium = p["premium"]
         r.status = ("premium" if p["premium"] else "available") if final_avail else "taken"
         r.source = "porkbun"
-        r.score = final_score(r.coolness, final_avail, price, p["premium"], config.budget)
+        r.score = final_score(r.coolness, final_avail, price, p["premium"], config.budget, r.tld)
         store.save_price(con, r.domain, final_avail, price, p["renewal"], p["premium"], "USD", p["raw"])
     if on_progress and total:
         on_progress(phase, total, total)
@@ -143,8 +145,9 @@ async def _drive(domains: list[tuple[Candidate, str, str]], config: Config,
                     base_pricing = {}
 
             sem_task = asyncio.Semaphore(config.rdap_concurrency)
+            sem_whois = asyncio.Semaphore(config.whois_concurrency)
             tasks = [
-                asyncio.create_task(_process(con, client, bootstrap, base_pricing, c, tld, dom, config, sem_task))
+                asyncio.create_task(_process(con, client, bootstrap, base_pricing, c, tld, dom, config, sem_task, sem_whois))
                 for (c, tld, dom) in domains
             ]
             total = len(tasks)
@@ -168,12 +171,13 @@ async def run_hunt(config: Config, limit: int | None = None, verify: int = 0,
                    on_progress: ProgressCb = None, rng=None) -> list[RankedDomain]:
     rng = rng or random.Random()
     markov = build_markov()
+    known = load_known_words()
     candidates = generate_all(config, markov, rng)
 
     # Score + de-dupe by name, keeping the best-scoring instance of each.
     best: dict[str, Candidate] = {}
     for c in candidates:
-        c.coolness, c.breakdown = score_name(c.name, markov, config.min_len, config.max_len)
+        c.coolness, c.breakdown = score_name(c.name, markov, known, config.min_len, config.max_len)
         if c.name not in best or c.coolness > best[c.name].coolness:
             best[c.name] = c
 
@@ -197,6 +201,7 @@ async def run_hunt(config: Config, limit: int | None = None, verify: int = 0,
 async def check_domains(config: Config, raw_domains: list[str],
                         on_progress: ProgressCb = None, verify: bool = True) -> list[RankedDomain]:
     markov = build_markov()
+    known = load_known_words()
     expanded: list[str] = []
     for d in raw_domains:
         d = d.strip().lower()
@@ -210,7 +215,7 @@ async def check_domains(config: Config, raw_domains: list[str],
     domains: list[tuple[Candidate, str, str]] = []
     for dom in expanded:
         name, tld = _split(dom)
-        cool, bd = score_name(name, markov, config.min_len, config.max_len)
+        cool, bd = score_name(name, markov, known, config.min_len, config.max_len)
         domains.append((Candidate(name=name, strategy="manual", coolness=cool, breakdown=bd), tld, dom))
 
     # Explicit picks → verify every available one authoritatively.

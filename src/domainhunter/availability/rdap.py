@@ -8,6 +8,14 @@ import httpx
 
 BOOTSTRAP_URL = "https://data.iana.org/rdap/dns.json"
 
+# TLDs with working RDAP that AREN'T in the IANA bootstrap (verified live).
+# Using these avoids slow, heuristic WHOIS for io/me/sh.
+RDAP_OVERRIDES = {
+    "io": "https://rdap.identitydigital.services/rdap/",
+    "me": "https://rdap.identitydigital.services/rdap/",
+    "sh": "https://rdap.identitydigital.services/rdap/",
+}
+
 
 async def load_bootstrap(
     client: httpx.AsyncClient,
@@ -47,7 +55,7 @@ async def rdap_check(
 ) -> tuple[bool | None, str]:
     """Authoritative availability: 404 → available, 200 → taken, else unknown."""
     tld = domain.rsplit(".", 1)[-1].lower()
-    base = bootstrap.get(tld)
+    base = RDAP_OVERRIDES.get(tld) or bootstrap.get(tld)
     if not base:
         return None, "no-rdap"
     url = base.rstrip("/") + "/domain/" + domain

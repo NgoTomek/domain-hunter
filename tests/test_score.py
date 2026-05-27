@@ -23,3 +23,17 @@ def test_digits_penalize_clean_signal(markov):
 def test_no_vowels_zeroes_vowel_balance(markov):
     _, b = score_name("bcdfg", markov)
     assert b["vowel_balance"] == 0.0
+
+
+def test_known_words_lift_score(markov):
+    # Same name, only the known-word set differs → meaning bonus must raise the score.
+    with_known, b = score_name("starfox", markov, frozenset({"star", "fox"}))
+    without, _ = score_name("starfox", markov, None)
+    assert b["meaning"] == 1.0
+    assert with_known > without
+
+
+def test_short_beats_long(markov):
+    short, _ = score_name("velk", markov)
+    long_, _ = score_name("heatherflame", markov)
+    assert short > long_
