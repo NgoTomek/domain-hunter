@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import csv
 import json
+import time
 from pathlib import Path
 
 import typer
@@ -127,6 +128,52 @@ def hunt(
 
 
 @app.command()
+def loop(
+    hours: float = typer.Option(None, help="Stop after this many hours (default: run until Ctrl-C)."),
+    interval: float = typer.Option(4.0, help="Seconds to pause between rounds (be a good citizen)."),
+    limit: int = typer.Option(None, help="Domains checked per round (default from config)."),
+    verify: int = typer.Option(0, help="Premium-verify the top N gems each round (slow)."),
+    strategy: str = typer.Option(None, help="Comma-separated generators to use."),
+    min_cool: float = typer.Option(None, help="Only keep names at/above this coolness (0-1)."),
+) -> None:
+    """Hunt over and over (e.g. overnight), piling fresh gems into the DB until you stop it (Ctrl-C)."""
+    config = load_config()
+    if strategy:
+        config.strategies = [s.strip() for s in strategy.split(",")]
+    if min_cool is not None:
+        config.min_coolness = min_cool
+
+    start = time.monotonic()
+    deadline = start + hours * 3600 if hours else None
+    horizon = f" for ~{hours}h" if hours else ""
+    console.print(f"[bold]Looping{horizon}[/] — Ctrl-C to stop. Gems accumulate in data/domains.db.")
+    rounds = 0
+    try:
+        while True:
+            rounds += 1
+            try:
+                results = asyncio.run(run_hunt(config, limit=limit, verify=verify))
+                found = sum(1 for r in results if r.status in ("available", "premium"))
+            except Exception as e:  # keep the overnight run alive through network blips
+                console.print(f"  round {rounds}: [red]error[/] {type(e).__name__}: {e}")
+                found = 0
+            con = store.connect()
+            names = store.count_gems(con, available_only=True, unique=True)
+            con.close()
+            mins = (time.monotonic() - start) / 60
+            console.print(f"  round {rounds}: +{found} this round · [green]{names} unique names[/] saved · {mins:.0f}m")
+            if deadline and time.monotonic() >= deadline:
+                break
+            time.sleep(interval)
+    except KeyboardInterrupt:
+        console.print("\n[dim]stopped[/]")
+    con = store.connect()
+    names = store.count_gems(con, available_only=True, unique=True)
+    con.close()
+    console.print(f"[green]done[/] — {rounds} rounds · {names} unique names saved. Browse with [bold]dh gems[/].")
+
+
+@app.command()
 def check(domains: list[str] = typer.Argument(..., help="Domains or bare labels to check.")) -> None:
     """Check availability + authoritative price for specific domains (bare labels expand across configured TLDs)."""
     config = load_config()
@@ -153,6 +200,8 @@ def gems(
     max_price: float = typer.Option(None, help="Only gems at/under this first-year price (USD)."),
     tld: str = typer.Option(None, help="Filter to one TLD, e.g. .com"),
     limit: int = typer.Option(50, help="Max rows to show."),
+    unique: bool = typer.Option(True, "--unique/--all-tlds", help="One row per name (cheapest TLD), or every TLD row."),
+    min_cool: float = typer.Option(None, help="Only names at/above this coolness (0-1)."),
     export: str = typer.Option(None, help="Write the listing to a .csv or .json path."),
     clear: bool = typer.Option(False, "--clear", help="Delete all saved gems and exit."),
 ) -> None:
@@ -163,7 +212,8 @@ def gems(
         con.close()
         console.print("[dim]cleared saved gems[/]")
         return
-    rows = store.list_gems(con, available_only=not show_all, max_price=max_price, tld=tld, limit=limit)
+    rows = store.list_gems(con, available_only=not show_all, max_price=max_price, tld=tld,
+                           limit=limit, unique=unique, min_cool=min_cool)
     con.close()
     if not rows:
         console.print("[dim]no saved gems yet — run `dh hunt` first[/]")

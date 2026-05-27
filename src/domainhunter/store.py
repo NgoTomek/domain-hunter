@@ -136,7 +136,8 @@ def save_gems(con, results) -> int:
     return len(rows)
 
 
-def list_gems(con, available_only: bool = True, max_price=None, tld=None, limit: int = 50) -> list[dict]:
+def list_gems(con, available_only: bool = True, max_price=None, tld=None,
+              limit: int = 50, unique: bool = False, min_cool=None) -> list[dict]:
     query = "SELECT * FROM gems"
     conds: list[str] = []
     params: list = []
@@ -148,11 +149,31 @@ def list_gems(con, available_only: bool = True, max_price=None, tld=None, limit:
     if tld:
         conds.append("tld = ?")
         params.append(tld if tld.startswith(".") else "." + tld)
+    if min_cool is not None:
+        conds.append("coolness >= ?")
+        params.append(min_cool)
     if conds:
         query += " WHERE " + " AND ".join(conds)
-    query += " ORDER BY score DESC LIMIT ?"
-    params.append(limit)
-    return [dict(r) for r in con.execute(query, params)]
+    query += " ORDER BY score DESC"
+    rows = [dict(r) for r in con.execute(query, params)]
+    if unique:  # collapse to one row per name (best score = cheapest available TLD)
+        seen: set[str] = set()
+        deduped = []
+        for r in rows:
+            if r["name"] in seen:
+                continue
+            seen.add(r["name"])
+            deduped.append(r)
+        rows = deduped
+    return rows[:limit]
+
+
+def count_gems(con, available_only: bool = True, unique: bool = False) -> int:
+    col = "DISTINCT name" if unique else "*"
+    query = f"SELECT COUNT({col}) AS c FROM gems"
+    if available_only:
+        query += " WHERE status = 'available'"
+    return con.execute(query).fetchone()["c"]
 
 
 def clear_gems(con) -> None:

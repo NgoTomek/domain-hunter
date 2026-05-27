@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import random
+from functools import lru_cache
 
 from ..config import Config
 from ..models import Candidate
@@ -9,7 +10,9 @@ from . import brandable, leet, seeds as seeds_gen, words as words_gen
 from .markov import Markov
 
 
+@lru_cache(maxsize=1)
 def build_markov() -> Markov:
+    # Cached: training is ~1-2s, and a loop run calls this once per round.
     m = Markov(order=3)
     m.train(load_markov_corpus())
     return m

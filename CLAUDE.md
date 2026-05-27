@@ -30,14 +30,16 @@ The pipeline is a funnel — each stage narrower and more expensive than the las
 3. **DNS is a NEGATIVE filter only.** Resolves → taken. Absence of DNS ≠ available — always confirm with RDAP/WHOIS.
 4. **RDAP coverage (verified):** `.com .app .dev .xyz .ai` have RDAP; `.io .co .sh .me` fall back to WHOIS. Bootstrap cached 30 days.
 5. **Coolness = weighted geometric mean** of structure (length / consonant-clusters / clean-chars / vowel-balance) and Markov pronounceability, so unpronounceable strings tank. The `words` generator emits only **compounds** — single dictionary words are all taken and just waste the check budget.
-6. **Everything caches to SQLite (7-day TTL):** availability in `checks`, authoritative prices in `prices`. Every hunt also auto-saves available/premium finds to the `gems` table (deduped; `dh gems` browses + filters them). Re-runs are fast + resumable. The generator RNG is intentionally **unseeded** — fresh candidate names every hunt.
+6. **Everything caches to SQLite (7-day TTL):** availability in `checks`, authoritative prices in `prices`. Every hunt also auto-saves available/premium finds to the `gems` table (deduped; `dh gems` shows one row per name by default, `--all-tlds` expands). Re-runs are fast + resumable. The generator RNG is intentionally **unseeded** — fresh candidate names every hunt.
 7. **Trust boundary:** official Porkbun API + public RDAP/WHOIS only.
+8. **`run_hunt` weighted-samples the candidate pool (Efraimidis-Spirakis, ∝ coolness²) — NOT strict top-N.** Deliberate: the top-coolness names are mostly taken real words, so strict top-N makes every `dh hunt` / `dh loop` round re-check the same names and find nothing new. Don't revert it to top-N. `build_markov()` is `lru_cache`d so loop rounds don't retrain.
 
 ## Commands
 ```bash
 uv pip install -e ".[dev]"          # dev install (+ pytest)
 dh hunt [--verify N] [--tld .com,.io] [--budget 20] [--strategy brandable,leet] [--limit 270] [--export f.csv]
-dh gems [--all] [--max-price 15] [--tld .com] [--export f.csv] [--clear]   # browse saved finds
+dh loop [--hours 8] [--verify N] [--strategy ...] [--limit ...]            # hunt repeatedly (overnight) until Ctrl-C
+dh gems [--all-tlds] [--max-price 15] [--min-cool 0.6] [--tld .com] [--export f.csv] [--clear]   # browse saved finds (one row/name by default)
 dh check <domain|label> ...         # authoritative (always verifies)
 dh score <name>                     # coolness breakdown
 dh watch add|list|rm|run            # save + re-check favorites

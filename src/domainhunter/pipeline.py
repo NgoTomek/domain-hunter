@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import asyncio
+import random
 from typing import Callable, Optional
 
 import httpx
@@ -24,6 +25,13 @@ ProgressCb = Optional[Callable[[str, int, int], None]]
 def _split(domain: str) -> tuple[str, str]:
     name, _, tld = domain.partition(".")
     return name, "." + tld
+
+
+def _weighted_sample(items, weights, k, rng):
+    """Weighted sampling without replacement (Efraimidis-Spirakis)."""
+    keyed = [(rng.random() ** (1.0 / max(w, 1e-9)), it) for it, w in zip(items, weights)]
+    keyed.sort(key=lambda kv: kv[0], reverse=True)
+    return [it for _, it in keyed[:k]]
 
 
 def _porkbun(client: httpx.AsyncClient, config: Config) -> Porkbun | None:
@@ -158,6 +166,7 @@ async def _drive(domains: list[tuple[Candidate, str, str]], config: Config,
 
 async def run_hunt(config: Config, limit: int | None = None, verify: int = 0,
                    on_progress: ProgressCb = None, rng=None) -> list[RankedDomain]:
+    rng = rng or random.Random()
     markov = build_markov()
     candidates = generate_all(config, markov, rng)
 
@@ -169,11 +178,18 @@ async def run_hunt(config: Config, limit: int | None = None, verify: int = 0,
             best[c.name] = c
 
     pool = [c for c in best.values() if c.coolness >= config.min_coolness]
-    pool.sort(key=lambda c: c.coolness, reverse=True)
-
     check_limit = limit or config.check_limit
     per_name = max(1, check_limit // max(1, len(config.tlds)))
-    chosen = pool[:per_name]
+
+    # Weighted-sample (NOT strict top-N) so every run explores DIFFERENT names.
+    # The highest-coolness names are mostly taken real words; re-checking the same
+    # top-N each round would find nothing new (the whole point of `dh loop`).
+    if len(pool) > per_name:
+        weights = [max(c.coolness, 0.01) ** 2 for c in pool]
+        chosen = _weighted_sample(pool, weights, per_name, rng)
+    else:
+        chosen = pool
+
     domains = [(c, tld, c.name + tld) for c in chosen for tld in config.tlds][:check_limit]
     return await _drive(domains, config, on_progress, verify=verify)
 
