@@ -1,0 +1,29 @@
+# TLDs to hunt across (the curated tech set)
+tlds = [".com", ".io", ".co", ".app", ".dev", ".xyz", ".ai", ".sh", ".me"]
+
+# Max first-year registration price (USD) for a domain to count as "cheap"
+budget = 30.0
+
+# How many domains to actually network-check per run. RDAP is free + fast, so we
+# can afford breadth: this many checks ÷ number of TLDs = distinct names explored.
+check_limit = 270
+
+# Generators to enable: brandable | words | seeds | leet
+strategies = ["brandable", "words", "seeds", "leet"]
+
+# Seed words for the seed/theme generator
+seeds = ["nova", "flux", "echo", "drift", "forge", "lumen", "vale"]
+
+[generation]
+target_pool = 5000   # raw candidates generated before scoring
+min_len = 3
+max_len = 12
+
+[scoring]
+min_coolness = 0.5   # drop candidates below this before any network call
+
+[network]
+dns_concurrency = 40
+rdap_concurrency = 12
+porkbun_concurrency = 3
+cache_ttl_days = 7

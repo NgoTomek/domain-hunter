@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/*.db
+data/rdap_bootstrap.json
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+exports/
