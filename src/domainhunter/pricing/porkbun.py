@@ -91,12 +91,9 @@ class Porkbun:
                     self._last_check = time.monotonic()
                     return data
                 except httpx.HTTPStatusError as e:
-                    code = e.response.status_code
-                    body = e.response.text.lower()
-                    rate_limited = code in (429, 503) or (
-                        code == 400 and ("limit" in body or "rate" in body or "throttle" in body)
-                    )
-                    if not rate_limited:
+                    # Calls are serialized, so a 400/429/503 here is virtually always
+                    # the 1-per-10s limit reasserting itself — wait a full window + retry.
+                    if e.response.status_code not in (400, 429, 503):
                         self._last_check = time.monotonic()
                         raise
                     last_err = e

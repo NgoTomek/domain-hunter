@@ -30,6 +30,20 @@ CREATE TABLE IF NOT EXISTS watchlist (
     added_at REAL,
     last_status TEXT
 );
+CREATE TABLE IF NOT EXISTS gems (
+    domain TEXT PRIMARY KEY,
+    name TEXT,
+    tld TEXT,
+    coolness REAL,
+    price REAL,
+    renewal REAL,
+    premium INTEGER,
+    status TEXT,
+    strategy TEXT,
+    source TEXT,
+    score REAL,
+    found_at REAL
+);
 """
 
 
@@ -100,4 +114,47 @@ def watch_list(con) -> list[str]:
 
 def watch_remove(con, domain: str) -> None:
     con.execute("DELETE FROM watchlist WHERE domain=?", (domain,))
+    con.commit()
+
+
+def save_gems(con, results) -> int:
+    """Persist every available/premium find so good names survive across runs."""
+    rows = [
+        (r.domain, r.name, r.tld, r.coolness, r.price, r.renewal,
+         1 if r.premium else 0, r.status, r.strategy, r.source, r.score, time.time())
+        for r in results if r.status in ("available", "premium")
+    ]
+    if not rows:
+        return 0
+    con.executemany(
+        """INSERT OR REPLACE INTO gems
+           (domain, name, tld, coolness, price, renewal, premium, status, strategy, source, score, found_at)
+           VALUES(?,?,?,?,?,?,?,?,?,?,?,?)""",
+        rows,
+    )
+    con.commit()
+    return len(rows)
+
+
+def list_gems(con, available_only: bool = True, max_price=None, tld=None, limit: int = 50) -> list[dict]:
+    query = "SELECT * FROM gems"
+    conds: list[str] = []
+    params: list = []
+    if available_only:
+        conds.append("status = 'available'")
+    if max_price is not None:
+        conds.append("(price IS NULL OR price <= ?)")
+        params.append(max_price)
+    if tld:
+        conds.append("tld = ?")
+        params.append(tld if tld.startswith(".") else "." + tld)
+    if conds:
+        query += " WHERE " + " AND ".join(conds)
+    query += " ORDER BY score DESC LIMIT ?"
+    params.append(limit)
+    return [dict(r) for r in con.execute(query, params)]
+
+
+def clear_gems(con) -> None:
+    con.execute("DELETE FROM gems")
     con.commit()

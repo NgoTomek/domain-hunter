@@ -117,6 +117,9 @@ def hunt(
 
     results = _run_with_progress(lambda cb: run_hunt(config, limit=limit, verify=verify, on_progress=cb))
     _render(results, show)
+    saved = sum(1 for r in results if r.status in ("available", "premium"))
+    if saved:
+        console.print(f"[green]saved {saved} gems[/] → run [bold]dh gems[/] to revisit them")
     if not verify:
         console.print("[dim]tip: re-run with --verify N to confirm premium pricing on the top N gems.[/]")
     if export:
@@ -142,6 +145,38 @@ def score(name: str = typer.Argument(..., help="A name (no TLD) to score.")) -> 
     for k, v in breakdown.items():
         table.add_row(k, f"{v:.3f}")
     console.print(table)
+
+
+@app.command()
+def gems(
+    show_all: bool = typer.Option(False, "--all", help="Include premium + everything saved, not just cheap available ones."),
+    max_price: float = typer.Option(None, help="Only gems at/under this first-year price (USD)."),
+    tld: str = typer.Option(None, help="Filter to one TLD, e.g. .com"),
+    limit: int = typer.Option(50, help="Max rows to show."),
+    export: str = typer.Option(None, help="Write the listing to a .csv or .json path."),
+    clear: bool = typer.Option(False, "--clear", help="Delete all saved gems and exit."),
+) -> None:
+    """List gems saved from previous hunts (persisted in data/domains.db)."""
+    con = store.connect()
+    if clear:
+        store.clear_gems(con)
+        con.close()
+        console.print("[dim]cleared saved gems[/]")
+        return
+    rows = store.list_gems(con, available_only=not show_all, max_price=max_price, tld=tld, limit=limit)
+    con.close()
+    if not rows:
+        console.print("[dim]no saved gems yet — run `dh hunt` first[/]")
+        return
+    results = [
+        RankedDomain(r["domain"], r["name"], r["tld"], r["coolness"],
+                     r["status"] in ("available", "premium"), r["price"], r["renewal"],
+                     bool(r["premium"]), r["score"], r["strategy"], r["status"], r["source"])
+        for r in rows
+    ]
+    _render(results, limit)
+    if export:
+        _export(results, export)
 
 
 @watch_app.command("add")

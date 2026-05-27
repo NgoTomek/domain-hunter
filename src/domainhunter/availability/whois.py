@@ -14,7 +14,6 @@ WHOIS_SERVERS = {
     "app": "whois.nic.google",
     "dev": "whois.nic.google",
     "xyz": "whois.nic.xyz",
-    "ai.": "whois.nic.ai",
 }
 
 AVAILABLE_MARKERS = (

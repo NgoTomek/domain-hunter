@@ -150,6 +150,7 @@ async def _drive(domains: list[tuple[Candidate, str, str]], config: Config,
             if verify and porkbun is not None:
                 await _verify(results, porkbun, con, config, verify, on_progress)
                 results.sort(key=lambda r: r.score, reverse=True)
+            store.save_gems(con, results)
     finally:
         con.close()
     return results

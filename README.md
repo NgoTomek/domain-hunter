@@ -45,6 +45,7 @@ dh hunt --limit 270 --export exports/gems.csv
 dh check velk.io plate.dev    # authoritative availability + price for specific domains
 dh check zuno                 # bare label → expands across configured TLDs
 dh score velkana              # show the coolness breakdown for one name
+dh gems                       # browse gems saved from past hunts (--max-price, --tld, --all, --export, --clear)
 
 dh watch add velk.io          # save a domain; `dh watch run` re-checks the list
 ```
@@ -63,5 +64,15 @@ dh watch add velk.io          # save a domain; `dh watch run` re-checks the list
 - **TLD coverage (live-verified):** `.com .app .dev .xyz .ai` use RDAP; `.io .co .sh .me` fall through to WHOIS (port 43). Availability is authoritative either way; a TLD with no RDAP *and* an unreachable WHOIS host shows `unknown`.
 - **Renewal traps:** the `renew` column surfaces costs that dwarf the first year (e.g. `.io` $28 reg → **$52 renew**).
 - **`~` prices are TLD base rates** — a domain can be a registry *premium* (much pricier) until you `--verify` it. `dh check` always verifies.
-- Results, availability, and verified prices cache to `data/domains.db` (7-day TTL), so re-runs are fast and resumable.
+- **Every hunt auto-saves its available finds** to a `gems` table in `data/domains.db` (deduped, accumulates across runs) — browse anytime with `dh gems`. Availability + verified prices also cache there (7-day TTL), so re-runs are fast and resumable.
 - Uses only the official Porkbun API + public RDAP/WHOIS — no scraping.
+
+## Development
+
+```bash
+pip install -e ".[dev]"
+pytest -q                              # offline unit tests: scorer, parser, ranking, generators
+python -m compileall -q src/domainhunter
+```
+
+CI (GitHub Actions) runs the suite on every push across Python 3.11–3.13. Tests need no network or API keys.

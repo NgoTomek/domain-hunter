@@ -4,6 +4,9 @@ import dns.asyncresolver
 import dns.exception
 import dns.resolver
 
+# Reuse one resolver — rebuilding it re-reads resolv.conf on every lookup.
+_RESOLVER = dns.asyncresolver.Resolver()
+
 
 async def has_dns_records(domain: str, timeout: float = 5.0) -> bool | None:
     """Cheap NEGATIVE filter.
@@ -12,7 +15,7 @@ async def has_dns_records(domain: str, timeout: float = 5.0) -> bool | None:
     Returns None otherwise — absence of DNS does NOT prove availability, so the
     caller must confirm with RDAP/WHOIS.
     """
-    resolver = dns.asyncresolver.Resolver()
+    resolver = _RESOLVER
     resolver.lifetime = timeout
     resolver.timeout = timeout
     for rtype in ("NS", "SOA"):
