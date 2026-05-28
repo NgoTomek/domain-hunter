@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 16:36 UTC · 27616 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 16:37 UTC · 27636 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -146,13 +146,13 @@ _Updated 2026-05-28 16:36 UTC · 27616 names — auto-updated by GitHub Actions.
 | 138 | `surore.com` | 0.73 | ~$11.08 | ~$11.08 | available |
 | 139 | `corawi.com` | 0.73 | ~$11.08 | ~$11.08 | available |
 | 140 | `vectark.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 141 | `raylark.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 142 | `corale.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 143 | `rogub.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 144 | `roguf.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 145 | `mesaelm.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 146 | `mesasu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 147 | `covepe.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 148 | `covepu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 149 | `oralder.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 150 | `sunli.app` | 0.86 | ~$10.81 | ~$14.93 | available |
+| 141 | `megal.me` | 0.89 | ~$8.80 | ~$17.27 | available |
+| 142 | `raylark.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 143 | `corale.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 144 | `rogub.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 145 | `roguf.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 146 | `mesaelm.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 147 | `mesasu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 148 | `covepe.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 149 | `covepu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 150 | `oralder.com` | 0.73 | ~$11.08 | ~$11.08 | available |
