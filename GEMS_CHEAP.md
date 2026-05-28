@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 20:40 UTC · 38651 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 20:56 UTC · 39301 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -141,18 +141,18 @@ _Updated 2026-05-28 20:40 UTC · 38651 names — auto-updated by GitHub Actions.
 | 133 | `ferime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 134 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 135 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 136 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 137 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 138 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 139 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 140 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 141 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 142 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 143 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 144 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 145 | `cobime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 146 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 147 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 148 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 149 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 150 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 136 | `cobure.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 137 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 138 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 139 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 140 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 141 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 142 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 143 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 144 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 145 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 146 | `cobime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 147 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 148 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 149 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 150 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
