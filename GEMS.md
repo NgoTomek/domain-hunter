@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-28 15:09 UTC · 22384 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 15:24 UTC · 23438 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -132,7 +132,7 @@ _Updated 2026-05-28 15:09 UTC · 22384 names — auto-updated by GitHub Actions.
 | 124 | `comim.io` | 0.78 | ~$28.12 | ~$51.80 | available |
 | 125 | `corip.io` | 0.78 | ~$28.12 | ~$51.80 | available |
 | 126 | `comne.io` | 0.78 | — | — | available |
-| 127 | `oriolem.com` | 0.74 | — | — | available |
+| 127 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 128 | `cridi.io` | 0.78 | ~$28.12 | ~$51.80 | available |
 | 129 | `heathe.io` | 0.78 | ~$28.12 | ~$51.80 | available |
 | 130 | `comene.io` | 0.78 | ~$28.12 | ~$51.80 | available |
