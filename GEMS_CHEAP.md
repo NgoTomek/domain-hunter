@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 21:26 UTC · 40504 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 21:41 UTC · 41118 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -143,16 +143,16 @@ _Updated 2026-05-28 21:26 UTC · 40504 names — auto-updated by GitHub Actions.
 | 135 | `ferime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 136 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 137 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 138 | `cobure.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 139 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 140 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 141 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 142 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 143 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 144 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 145 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 146 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 147 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 148 | `cobime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 149 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 150 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 138 | `rapime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 139 | `cobure.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 140 | `corew.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 141 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 142 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 143 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 144 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 145 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 146 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 147 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 148 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 149 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 150 | `cobime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
