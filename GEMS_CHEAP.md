@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 19:40 UTC · 36060 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 19:55 UTC · 36725 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -145,14 +145,14 @@ _Updated 2026-05-28 19:40 UTC · 36060 names — auto-updated by GitHub Actions.
 | 137 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 138 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 139 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 140 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 141 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 142 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 143 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 144 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 145 | `sunkeel.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 146 | `secresh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 147 | `meswu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 148 | `mesuh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 149 | `meszu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 150 | `mesfo.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 140 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 141 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 142 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 143 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 144 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 145 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 146 | `surule.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 147 | `sunkeel.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 148 | `secresh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 149 | `meswu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 150 | `mesuh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
