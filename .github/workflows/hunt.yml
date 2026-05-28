@@ -1,14 +1,15 @@
 name: Hunt gems
 
-# Runs on GitHub's servers — your laptop does NOT need to be on.
-# Code comes from `main`; the gem ledger is read + written on the `gems-feed` branch.
+# Runs on GitHub's servers (laptop off). One trigger = one LONG continuous run,
+# so GitHub's cron throttling can't starve us: even a few fires/day = hours of
+# hunting each. Public repo => unlimited Actions minutes.
 on:
   schedule:
-    - cron: "*/20 * * * *"   # every 20 min (GitHub may delay under load)
-  workflow_dispatch: {}       # manual "Run workflow" button / `gh workflow run hunt.yml`
+    - cron: "0 */6 * * *"   # every 6h; each run hunts ~5.5h, so coverage is near-continuous
+  workflow_dispatch: {}
 
 permissions:
-  contents: write             # to push the ledger to gems-feed
+  contents: write
 
 concurrency:
   group: hunt
@@ -17,7 +18,7 @@ concurrency:
 jobs:
   hunt:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 350     # ~5h50m, under the 6h job cap
     steps:
       - uses: actions/checkout@v4              # code (main) -> .
       - uses: actions/checkout@v4              # ledger (gems-feed) -> ./feed
@@ -27,26 +28,34 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install
-        run: pip install -e .
-      - name: Hunt + merge
+      - run: pip install -e .
+      - name: Hunt continuously (~5.5h), committing every ~15 min
         env:
           PORKBUN_API_KEY: ${{ secrets.PORKBUN_API_KEY }}
           PORKBUN_SECRET_KEY: ${{ secrets.PORKBUN_SECRET_KEY }}
         run: |
+          git config --global user.name "domain-hunter[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p data
-          [ -f feed/data/gems.json ] && cp feed/data/gems.json data/gems.json || true
-          # All strategies, high volume. RDAP for io/me/sh makes this fast now.
-          dh hunt --limit 1200 --show 0 --export run.json || true
-          python scripts/merge_gems.py run.json
-          mkdir -p feed/data
-          cp data/gems.json feed/data/gems.json
-          cp GEMS.md feed/GEMS.md
-      - name: Publish ledger to gems-feed
-        working-directory: feed
-        run: |
-          git config user.name "domain-hunter[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/gems.json GEMS.md
-          git diff --cached --quiet || git commit -m "chore(gems): update ledger"
-          git push
+          if [ -f feed/data/gems.json ]; then cp feed/data/gems.json data/gems.json; else echo '[]' > data/gems.json; fi
+
+          flush() {
+            cp data/gems.json feed/data/gems.json
+            cp GEMS.md feed/GEMS.md 2>/dev/null || true
+            cp GEMS_CHEAP.md feed/GEMS_CHEAP.md 2>/dev/null || true
+            ( cd feed \
+              && git add data/gems.json GEMS.md GEMS_CHEAP.md \
+              && (git diff --cached --quiet || git commit -q -m "chore(gems): update ledger") \
+              && git push -q origin gems-feed ) || true
+          }
+
+          END=$(( $(date +%s) + 19800 ))   # ~5.5 hours
+          LAST_PUSH=0
+          while [ "$(date +%s)" -lt "$END" ]; do
+            dh hunt --limit 1000 --show 0 --export run.json || true
+            python scripts/merge_gems.py run.json || true
+            NOW=$(date +%s)
+            if [ $(( NOW - LAST_PUSH )) -ge 900 ]; then flush; LAST_PUSH=$NOW; fi
+            sleep 5
+          done
+          flush
