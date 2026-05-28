@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-28 19:55 UTC · 37660 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 20:10 UTC · 38289 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -36,7 +36,7 @@ _Updated 2026-05-28 19:55 UTC · 37660 names — auto-updated by GitHub Actions.
 | 28 | `steca.io` | 0.83 | ~$28.12 | ~$51.80 | available |
 | 29 | `stebi.io` | 0.83 | ~$28.12 | ~$51.80 | available |
 | 30 | `mellar.io` | 0.83 | ~$28.12 | ~$51.80 | available |
-| 31 | `raper.io` | 0.83 | — | — | available |
+| 31 | `raper.io` | 0.83 | ~$28.12 | ~$51.80 | available |
 | 32 | `gallark.com` | 0.78 | ~$11.08 | ~$11.08 | available |
 | 33 | `mesape.com` | 0.78 | ~$11.08 | ~$11.08 | available |
 | 34 | `codgu.com` | 0.78 | ~$11.08 | ~$11.08 | available |

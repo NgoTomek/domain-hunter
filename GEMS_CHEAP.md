@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 19:55 UTC · 36725 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 20:10 UTC · 37351 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -128,31 +128,31 @@ _Updated 2026-05-28 19:55 UTC · 36725 names — auto-updated by GitHub Actions.
 | 120 | `covko.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 121 | `covpo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 122 | `covbu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 123 | `cagale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 124 | `pririe.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 125 | `mesaion.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 126 | `meshoak.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 127 | `sparrie.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 128 | `ranitro.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 129 | `ferime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 130 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 131 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 132 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 133 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 134 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 135 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 136 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 137 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 138 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 139 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 140 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 141 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 142 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 143 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 144 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 145 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 146 | `surule.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 147 | `sunkeel.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 148 | `secresh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 149 | `meswu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 150 | `mesuh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 123 | `copki.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 124 | `cagale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 125 | `pririe.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 126 | `mesaion.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 127 | `meshoak.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 128 | `sparrie.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 129 | `ranitro.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 130 | `ferime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 131 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 132 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 133 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 134 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 135 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 136 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 137 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 138 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 139 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 140 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 141 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 142 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 143 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 144 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 145 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 146 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 147 | `surule.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 148 | `sunkeel.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 149 | `secresh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 150 | `meswu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
