@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 18:24 UTC · 32448 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 18:39 UTC · 33257 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -128,31 +128,31 @@ _Updated 2026-05-28 18:24 UTC · 32448 names — auto-updated by GitHub Actions.
 | 120 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 121 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 122 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 123 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 124 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 125 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 126 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 127 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 128 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 129 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 130 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 131 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 132 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 133 | `sunkeel.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 134 | `secresh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 135 | `meswu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 136 | `mesuh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 137 | `meszu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 138 | `mesfo.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 139 | `mesiw.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 140 | `merhe.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 141 | `mesiz.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 142 | `corahi.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 143 | `coraru.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 144 | `corafo.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 145 | `rorale.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 146 | `raniw.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 147 | `cometem.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 148 | `mesamu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 149 | `mesavi.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 150 | `mesazi.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 123 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 124 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 125 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 126 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 127 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 128 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 129 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 130 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 131 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 132 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 133 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 134 | `sunkeel.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 135 | `secresh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 136 | `meswu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 137 | `mesuh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 138 | `meszu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 139 | `mesfo.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 140 | `mesiw.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 141 | `merhe.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 142 | `mesiz.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 143 | `corahi.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 144 | `coraru.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 145 | `corafo.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 146 | `comebu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 147 | `rorale.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 148 | `raniw.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 149 | `cometem.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 150 | `mesamu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
