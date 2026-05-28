@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Merge a hunt export (run.json) into the persistent ledger.
 
-Outputs (committed to the gems-feed branch by CI):
+Outputs (committed to gems-feed by CI):
 - data/gems.json   — full ledger, deduped by domain (prefer verified, then score)
-- GEMS.md          — leaderboard of available names (prestige-ranked, all prices)
-- GEMS_CHEAP.md    — same but only genuinely cheap names (<= $12 first year)
+- GEMS.md          — coolest names first (price ignored), each shown at its cheapest TLD
+- GEMS_CHEAP.md    — same but only names whose cheapest TLD is <= $12/yr
 """
 from __future__ import annotations
 
@@ -18,6 +18,7 @@ LEDGER = ROOT / "data" / "gems.json"
 MD = ROOT / "GEMS.md"
 MD_CHEAP = ROOT / "GEMS_CHEAP.md"
 CHEAP_MAX = 12.0
+SHOW = 1000  # rows rendered in each .md (full set lives in data/gems.json)
 
 
 def _load(path: Path) -> list[dict]:
@@ -39,36 +40,35 @@ def _cell(value, verified: bool) -> str:
     return ("" if verified else "~") + f"${value:,.2f}"
 
 
-def _unique_by_name(rows: list[dict]) -> list[dict]:
-    seen: set[str] = set()
-    out = []
+def _cheapest_by_name(rows: list[dict]) -> list[dict]:
+    """One row per name: the cheapest available TLD for that name."""
+    best: dict[str, dict] = {}
     for r in rows:
-        if r.get("name") in seen:
-            continue
-        seen.add(r.get("name"))
-        out.append(r)
-    return out
+        n = r.get("name")
+        if n not in best or (r.get("price") or 9e9) < (best[n].get("price") or 9e9):
+            best[n] = r
+    return list(best.values())
 
 
-def _write_md(path: Path, rows: list[dict], heading: str, blurb: str, now: str) -> int:
+def _write_md(path: Path, rows: list[dict], heading: str, blurb: str, now: str) -> None:
     lines = [
         f"# {heading}",
         "",
-        f"_Updated {now} · {len(rows)} names — auto-updated by GitHub Actions._",
+        f"_Updated {now} · {len(rows):,} names (showing top {min(len(rows), SHOW):,}) "
+        "— auto-updated by GitHub Actions._",
         "",
         blurb,
         "",
         "| # | domain | cool | price | renew | status |",
         "|--:|--------|-----:|------:|------:|--------|",
     ]
-    for i, r in enumerate(rows[:150], 1):
+    for i, r in enumerate(rows[:SHOW], 1):
         v = _verified(r)
         lines.append(
             f"| {i} | `{r['domain']}` | {r.get('coolness', 0):.2f} | "
             f"{_cell(r.get('price'), v)} | {_cell(r.get('renewal'), v)} | {r.get('status')} |"
         )
     path.write_text("\n".join(lines) + "\n")
-    return len(rows)
 
 
 def main() -> None:
@@ -89,13 +89,15 @@ def main() -> None:
     LEDGER.parent.mkdir(parents=True, exist_ok=True)
     LEDGER.write_text(json.dumps(rows, indent=2))
 
-    available = _unique_by_name([r for r in rows if r.get("status") == "available"])
-    cheap = [r for r in available if (r.get("price") or 1e9) <= CHEAP_MAX]
+    # Coolest name first; show each name's cheapest TLD; price tie-breaks.
+    uniq = _cheapest_by_name([r for r in ledger.values() if r.get("status") == "available"])
+    uniq.sort(key=lambda r: (-(r.get("coolness") or 0), r.get("price") or 9e9))
+    cheap = [r for r in uniq if (r.get("price") or 9e9) <= CHEAP_MAX]
 
     note = "`~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**"
-    _write_md(MD, available, "Gems found by domain-hunter", note, now)
+    _write_md(MD, uniq, "Gems found by domain-hunter", note, now)
     _write_md(MD_CHEAP, cheap, f"Cheap gems (≤ ${CHEAP_MAX:.0f}/yr)", note, now)
-    print(f"ledger: {len(rows)} finds · {len(available)} available names · {len(cheap)} cheap")
+    print(f"ledger: {len(rows)} finds · {len(uniq)} names · {len(cheap)} cheap")
 
 
 if __name__ == "__main__":
