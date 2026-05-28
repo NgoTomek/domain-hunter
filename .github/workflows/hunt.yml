@@ -5,7 +5,7 @@ name: Hunt gems
 # hunting each. Public repo => unlimited Actions minutes.
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6h; each run hunts ~5.5h, so coverage is near-continuous
+    - cron: "0 * * * *"     # hourly trigger; concurrency keeps one ~5.5h run going => ~24/7
   workflow_dispatch: {}
 
 permissions:
@@ -52,10 +52,10 @@ jobs:
           END=$(( $(date +%s) + 19800 ))   # ~5.5 hours
           LAST_PUSH=0
           while [ "$(date +%s)" -lt "$END" ]; do
-            dh hunt --limit 1000 --show 0 --export run.json || true
+            dh hunt --limit 2500 --show 0 --export run.json || true
             python scripts/merge_gems.py run.json || true
             NOW=$(date +%s)
             if [ $(( NOW - LAST_PUSH )) -ge 900 ]; then flush; LAST_PUSH=$NOW; fi
-            sleep 5
+            sleep 3
           done
           flush

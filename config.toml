@@ -24,7 +24,7 @@ min_coolness = 0.45   # drop candidates below this before any network call
 
 [network]
 dns_concurrency = 40
-rdap_concurrency = 20     # RDAP is HTTP — safe to parallelize hard
+rdap_concurrency = 30     # RDAP is HTTP — parallelize hard (network is the bottleneck)
 whois_concurrency = 5     # WHOIS (only .co now) is touchier; keep it gentle
 porkbun_concurrency = 3
 cache_ttl_days = 7
