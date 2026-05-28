@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 21:11 UTC · 39871 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 21:26 UTC · 40504 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -133,26 +133,26 @@ _Updated 2026-05-28 21:11 UTC · 39871 names — auto-updated by GitHub Actions.
 | 125 | `covbu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 126 | `copki.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 127 | `covub.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 128 | `cagale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 129 | `pririe.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 130 | `mesaion.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 131 | `meshoak.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 132 | `sparrie.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 133 | `ranitro.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 134 | `ferime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 135 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 136 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 137 | `cobure.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 138 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 139 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 140 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 141 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 142 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 143 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 144 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 145 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 146 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 147 | `cobime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 148 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 149 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 150 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 128 | `cobgi.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 129 | `cagale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 130 | `pririe.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 131 | `mesaion.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 132 | `meshoak.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 133 | `sparrie.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 134 | `ranitro.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 135 | `ferime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 136 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 137 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 138 | `cobure.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 139 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 140 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 141 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 142 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 143 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 144 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 145 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 146 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 147 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 148 | `cobime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 149 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 150 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
