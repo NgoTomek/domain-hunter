@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 20:25 UTC · 38023 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 20:40 UTC · 38651 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -150,9 +150,9 @@ _Updated 2026-05-28 20:25 UTC · 38023 names — auto-updated by GitHub Actions.
 | 142 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 143 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 144 | `comadu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 145 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 146 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 147 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 148 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 149 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 150 | `surule.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 145 | `cobime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 146 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 147 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 148 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 149 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 150 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
