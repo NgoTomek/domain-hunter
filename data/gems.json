@@ -45,6 +45,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "lagon.io",
+    "name": "lagon",
+    "tld": ".io",
+    "coolness": 0.8581363851991693,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.8152295659392108,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "polark.io",
     "name": "polark",
     "tld": ".io",
@@ -178,6 +193,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "steca.io",
+    "name": "steca",
+    "tld": ".io",
+    "coolness": 0.8274944147818349,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.7861196940427432,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "codgu.com",
@@ -450,6 +480,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "comne.io",
+    "name": "comne",
+    "tld": ".io",
+    "coolness": 0.7792341324250466,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.7402724258037943,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "cridi.io",
     "name": "cridi",
     "tld": ".io",
@@ -555,6 +600,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "sient.me",
+    "name": "sient",
+    "tld": ".me",
+    "coolness": 0.8872905093339954,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.7275782176538762,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "halate.io",
     "name": "halate",
     "tld": ".io",
@@ -615,6 +675,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "pegalar.com",
+    "name": "pegalar",
+    "tld": ".com",
+    "coolness": 0.7193279077012448,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.7193279077012448,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "scalm.me",
     "name": "scalm",
     "tld": ".me",
@@ -643,6 +718,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "clver.io",
+    "name": "clver",
+    "tld": ".io",
+    "coolness": 0.7543315699272879,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.7166149914309234,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "rier.io",
@@ -735,6 +825,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "gateelk.com",
+    "name": "gateelk",
+    "tld": ".com",
+    "coolness": 0.7098970794800384,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.7098970794800384,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "prait.me",
     "name": "prait",
     "tld": ".me",
@@ -748,6 +853,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "sageion.com",
+    "name": "sageion",
+    "tld": ".com",
+    "coolness": 0.709410208132418,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.709410208132418,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "stigo.io",
+    "name": "stigo",
+    "tld": ".io",
+    "coolness": 0.7465690482435039,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.7092405958313287,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "iridger.com",
@@ -823,6 +958,36 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "lagon.me",
+    "name": "lagon",
+    "tld": ".me",
+    "coolness": 0.8581363851991693,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.7036718358633188,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "steca.app",
+    "name": "steca",
+    "tld": ".app",
+    "coolness": 0.8274944147818349,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.7033702525645597,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sharrie.io",
@@ -1080,6 +1245,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "harrie.app",
+    "name": "harrie",
+    "tld": ".app",
+    "coolness": 0.8094950368333311,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.6880707813083314,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "siet.app",
     "name": "siet",
     "tld": ".app",
@@ -1125,6 +1305,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "ferl.io",
+    "name": "ferl",
+    "tld": ".io",
+    "coolness": 0.7224084093797103,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6862879889107247,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "haloud.me",
     "name": "haloud",
     "tld": ".me",
@@ -1151,7 +1346,7 @@
     "score": 0.6848698163047858,
     "strategy": "brandable",
     "status": "available",
-    "source": "rdap-404",
+    "source": "whois-available",
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
@@ -1185,6 +1380,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "coeb.io",
+    "name": "coeb",
+    "tld": ".io",
+    "coolness": 0.7195945670100581,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6836148386595552,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "comem.me",
     "name": "comem",
     "tld": ".me",
@@ -1215,6 +1425,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "criga.io",
+    "name": "criga",
+    "tld": ".io",
+    "coolness": 0.7164940895028888,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6806693850277443,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sitom.io",
     "name": "sitom",
     "tld": ".io",
@@ -1228,6 +1453,111 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "matid.io",
+    "name": "matid",
+    "tld": ".io",
+    "coolness": 0.715319973185061,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6795539745258079,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "steca.me",
+    "name": "steca",
+    "tld": ".me",
+    "coolness": 0.8274944147818349,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.6785454201211046,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "borealo.io",
+    "name": "borealo",
+    "tld": ".io",
+    "coolness": 0.7130021442714398,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6773520370578678,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "beather.io",
+    "name": "beather",
+    "tld": ".io",
+    "coolness": 0.7126412000847785,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6770091400805396,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sharble.io",
+    "name": "sharble",
+    "tld": ".io",
+    "coolness": 0.712104841120174,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6764995990641653,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "megallar.com",
+    "name": "megallar",
+    "tld": ".com",
+    "coolness": 0.6760866515484515,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.6760866515484515,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "bircuit.com",
+    "name": "bircuit",
+    "tld": ".com",
+    "coolness": 0.6758744769920165,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.6758744769920165,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "jouleam.com",
@@ -1258,6 +1588,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "gateelk.io",
+    "name": "gateelk",
+    "tld": ".io",
+    "coolness": 0.7098970794800384,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6744022255060365,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "mese.dev",
@@ -1320,6 +1665,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "carlet.me",
+    "name": "carlet",
+    "tld": ".me",
+    "coolness": 0.8166021521746134,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.6696137647831829,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "vectal.me",
+    "name": "vectal",
+    "tld": ".me",
+    "coolness": 0.8145291660459945,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.6679139161577154,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sofu.io",
     "name": "sofu",
     "tld": ".io",
@@ -1348,6 +1723,36 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "vine.xyz",
+    "name": "vine",
+    "tld": ".xyz",
+    "coolness": 0.9268662118324891,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.6673436725193921,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "meside.io",
+    "name": "meside",
+    "tld": ".io",
+    "coolness": 0.7022751198508237,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6671613638582825,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "mastrel.io",
@@ -1468,6 +1873,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "sabl.me",
+    "name": "sabl",
+    "tld": ".me",
+    "coolness": 0.8088580824818762,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.6632636276351385,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "rowu.io",
@@ -1650,6 +2070,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "protone.dev",
+    "name": "protone",
+    "tld": ".dev",
+    "coolness": 0.7667338676671812,
+    "available": true,
+    "price": 10.81,
+    "renewal": 12.87,
+    "premium": false,
+    "score": 0.651723787517104,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "meton.me",
     "name": "meton",
     "tld": ".me",
@@ -1723,6 +2158,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "slate.sh",
+    "name": "slate",
+    "tld": ".sh",
+    "coolness": 0.9384855856770011,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.6497207900840777,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "halate.dev",
@@ -1845,6 +2295,36 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "sharkash.com",
+    "name": "sharkash",
+    "tld": ".com",
+    "coolness": 0.6431325328999277,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.6431325328999277,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sebore.io",
+    "name": "sebore",
+    "tld": ".io",
+    "coolness": 0.6764391879448415,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6426172285475994,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "codiw.me",
     "name": "codiw",
     "tld": ".me",
@@ -1920,6 +2400,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "fastrel.io",
+    "name": "fastrel",
+    "tld": ".io",
+    "coolness": 0.6740092636845993,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6403088005003693,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sumni.me",
     "name": "sumni",
     "tld": ".me",
@@ -1963,6 +2458,36 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "corni.me",
+    "name": "corni",
+    "tld": ".me",
+    "coolness": 0.7792341324250466,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.6389719885885382,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "comne.me",
+    "name": "comne",
+    "tld": ".me",
+    "coolness": 0.7792341324250466,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.6389719885885382,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "vinel.xyz",
@@ -2130,6 +2655,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "praither.com",
+    "name": "praither",
+    "tld": ".com",
+    "coolness": 0.6326531318059657,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.6326531318059657,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "strairis.com",
+    "name": "strairis",
+    "tld": ".com",
+    "coolness": 0.6326199250735555,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.6326199250735555,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "irier.me",
     "name": "irier",
     "tld": ".me",
@@ -2295,6 +2850,36 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "capebolt.com",
+    "name": "capebolt",
+    "tld": ".com",
+    "coolness": 0.6255181394388601,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.6255181394388601,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "emberyl.io",
+    "name": "emberyl",
+    "tld": ".io",
+    "coolness": 0.6578221426063202,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6249310354760041,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "calark.xyz",
     "name": "calark",
     "tld": ".xyz",
@@ -2338,6 +2923,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "tital.xyz",
+    "name": "tital",
+    "tld": ".xyz",
+    "coolness": 0.8656866182222293,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.623294365120005,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "prait.xyz",
@@ -2415,6 +3015,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "clver.me",
+    "name": "clver",
+    "tld": ".me",
+    "coolness": 0.7543315699272879,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.618551887340376,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "stealous.io",
     "name": "stealous",
     "tld": ".io",
@@ -2473,6 +3088,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "sapid.me",
+    "name": "sapid",
+    "tld": ".me",
+    "coolness": 0.7527281429392635,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.617237077210196,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "matugon.com",
+    "name": "matugon",
+    "tld": ".com",
+    "coolness": 0.617055889433205,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.617055889433205,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "titade.me",
@@ -2535,6 +3180,36 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "sient.sh",
+    "name": "sient",
+    "tld": ".sh",
+    "coolness": 0.8872905093339954,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.6142780449235352,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "govale.io",
+    "name": "govale",
+    "tld": ".io",
+    "coolness": 0.6466037101685069,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6142735246600816,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "raycodec.com",
     "name": "raycodec",
     "tld": ".com",
@@ -2563,6 +3238,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "kestra.app",
+    "name": "kestra",
+    "tld": ".app",
+    "coolness": 0.7217061077911444,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.6134501916224727,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "copebe.io",
+    "name": "copebe",
+    "tld": ".io",
+    "coolness": 0.6456801100063817,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6133961045060626,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sealloom.io",
@@ -2625,6 +3330,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "cocu.app",
+    "name": "cocu",
+    "tld": ".app",
+    "coolness": 0.7195945670100581,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.6116553819585494,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "brigh.xyz",
     "name": "brigh",
     "tld": ".xyz",
@@ -2685,6 +3405,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "seedhalo.com",
+    "name": "seedhalo",
+    "tld": ".com",
+    "coolness": 0.6106842518368819,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.6106842518368819,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "brisp.xyz",
     "name": "brisp",
     "tld": ".xyz",
@@ -2743,6 +3478,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "crisk.xyz",
+    "name": "crisk",
+    "tld": ".xyz",
+    "coolness": 0.8461954799225622,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.6092607455442447,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "ferac.me",
@@ -2895,6 +3645,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "sier.xyz",
+    "name": "sier",
+    "tld": ".xyz",
+    "coolness": 0.8385910382390915,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.6037855475321459,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "frce.io",
+    "name": "frce",
+    "tld": ".io",
+    "coolness": 0.6350745557345809,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6033208279478519,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "galark.sh",
     "name": "galark",
     "tld": ".sh",
@@ -2910,6 +3690,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "groventa.io",
+    "name": "groventa",
+    "tld": ".io",
+    "coolness": 0.6348228875341699,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6030817431574614,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "stealo.xyz",
     "name": "stealo",
     "tld": ".xyz",
@@ -2923,6 +3718,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "sageion.dev",
+    "name": "sageion",
+    "tld": ".dev",
+    "coolness": 0.709410208132418,
+    "available": true,
+    "price": 10.81,
+    "renewal": 12.87,
+    "premium": false,
+    "score": 0.6029986769125553,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sageion.app",
+    "name": "sageion",
+    "tld": ".app",
+    "coolness": 0.709410208132418,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.6029986769125553,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "stoney.sh",
@@ -2955,6 +3780,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "bastrait.com",
+    "name": "bastrait",
+    "tld": ".com",
+    "coolness": 0.602159370539173,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.602159370539173,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "covent.sh",
     "name": "covent",
     "tld": ".sh",
@@ -2966,7 +3806,7 @@
     "score": 0.6020041319645612,
     "strategy": "brandable",
     "status": "available",
-    "source": "whois-available",
+    "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
@@ -3000,6 +3840,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "lumeale.com",
+    "name": "lumeale",
+    "tld": ".com",
+    "coolness": 0.60189258716481,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.60189258716481,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "echoale.io",
     "name": "echoale",
     "tld": ".io",
@@ -3028,6 +3883,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "cerulear.com",
+    "name": "cerulear",
+    "tld": ".com",
+    "coolness": 0.6013249897508054,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.6013249897508054,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "praither.io",
+    "name": "praither",
+    "tld": ".io",
+    "coolness": 0.6326531318059657,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.6010204752156674,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "noder.sh",
@@ -3135,6 +4020,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "gallar.xyz",
+    "name": "gallar",
+    "tld": ".xyz",
+    "coolness": 0.8314762035419182,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5986628665501811,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "mesimit.com",
     "name": "mesimit",
     "tld": ".com",
@@ -3210,6 +4110,51 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "tealo.xyz",
+    "name": "tealo",
+    "tld": ".xyz",
+    "coolness": 0.8256171382451841,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5944443395365325,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "capebolt.io",
+    "name": "capebolt",
+    "tld": ".io",
+    "coolness": 0.6255181394388601,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.5942422324669171,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "lagon.sh",
+    "name": "lagon",
+    "tld": ".sh",
+    "coolness": 0.8581363851991693,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5940944205225018,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "pivory.xyz",
     "name": "pivory",
     "tld": ".xyz",
@@ -3238,6 +4183,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "primsonic.com",
+    "name": "primsonic",
+    "tld": ".com",
+    "coolness": 0.5929204642853935,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5929204642853935,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "stoicibex.com",
@@ -3330,6 +4290,36 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "kestra.me",
+    "name": "kestra",
+    "tld": ".me",
+    "coolness": 0.7217061077911444,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5917990083887383,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "neonhelm.com",
+    "name": "neonhelm",
+    "tld": ".com",
+    "coolness": 0.5916425164266303,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5916425164266303,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "trusset.me",
     "name": "trusset",
     "tld": ".me",
@@ -3341,7 +4331,7 @@
     "score": 0.5911507888104467,
     "strategy": "brandable",
     "status": "available",
-    "source": "rdap-404",
+    "source": "whois-available",
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
@@ -3420,6 +4410,36 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "siennacle.com",
+    "name": "siennacle",
+    "tld": ".com",
+    "coolness": 0.5903818285006432,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5903818285006432,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sagered.io",
+    "name": "sagered",
+    "tld": ".io",
+    "coolness": 0.6214312717469249,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.5903597081595786,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "coan.me",
     "name": "coan",
     "tld": ".me",
@@ -3435,6 +4455,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "coeb.me",
+    "name": "coeb",
+    "tld": ".me",
+    "coolness": 0.7195945670100581,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5900675449482476,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "gold.xyz",
     "name": "gold",
     "tld": ".xyz",
@@ -3448,6 +4483,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "alder.sh",
+    "name": "alder",
+    "tld": ".sh",
+    "coolness": 0.8517980259696524,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5897063256712979,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "neonkeep.com",
@@ -3555,6 +4605,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "criga.me",
+    "name": "criga",
+    "tld": ".me",
+    "coolness": 0.7164940895028888,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5875251533923688,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sitom.me",
     "name": "sitom",
     "tld": ".me",
@@ -3600,6 +4665,36 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "matid.me",
+    "name": "matid",
+    "tld": ".me",
+    "coolness": 0.715319973185061,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.58656237801175,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "vectal.xyz",
+    "name": "vectal",
+    "tld": ".xyz",
+    "coolness": 0.8145291660459945,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.586460999553116,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "bolded.xyz",
     "name": "bolded",
     "tld": ".xyz",
@@ -3630,6 +4725,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "ottern.xyz",
+    "name": "ottern",
+    "tld": ".xyz",
+    "coolness": 0.8134298734224,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.585669508864128,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "fluorge.io",
     "name": "fluorge",
     "tld": ".io",
@@ -3643,6 +4753,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "rega.sh",
+    "name": "rega",
+    "tld": ".sh",
+    "coolness": 0.8454880297014876,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5853378667164144,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "ferven.xyz",
@@ -3675,6 +4800,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "borealo.me",
+    "name": "borealo",
+    "tld": ".me",
+    "coolness": 0.7130021442714398,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5846617583025806,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "car.xyz",
     "name": "car",
     "tld": ".xyz",
@@ -3688,6 +4828,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "beather.me",
+    "name": "beather",
+    "tld": ".me",
+    "coolness": 0.7126412000847785,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5843657840695183,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "crimal.xyz",
+    "name": "crimal",
+    "tld": ".xyz",
+    "coolness": 0.8112982968772795,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5841347737516412,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sharble.me",
+    "name": "sharble",
+    "tld": ".me",
+    "coolness": 0.712104841120174,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5839259697185427,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "raycodec.io",
@@ -3705,6 +4890,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "masar.sh",
+    "name": "masar",
+    "tld": ".sh",
+    "coolness": 0.8428132249269986,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5834860787956144,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "staza.xyz",
     "name": "staza",
     "tld": ".xyz",
@@ -3718,6 +4918,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "harrierce.com",
+    "name": "harrierce",
+    "tld": ".com",
+    "coolness": 0.5822352587526374,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5822352587526374,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "gateelk.me",
+    "name": "gateelk",
+    "tld": ".me",
+    "coolness": 0.7098970794800384,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5821156051736315,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sharrier.app",
@@ -3748,6 +4978,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "siledas.com",
+    "name": "siledas",
+    "tld": ".com",
+    "coolness": 0.5812150469706685,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5812150469706685,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "magent.sh",
@@ -3810,6 +5055,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "glear.xyz",
+    "name": "glear",
+    "tld": ".xyz",
+    "coolness": 0.8054960692706883,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5799571698748955,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "stealo.sh",
     "name": "stealo",
     "tld": ".sh",
@@ -3838,6 +5098,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "codecove.me",
+    "name": "codecove",
+    "tld": ".me",
+    "coolness": 0.7062323031839076,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5791104886108042,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "haloud.sh",
@@ -3945,6 +5220,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "meside.me",
+    "name": "meside",
+    "tld": ".me",
+    "coolness": 0.7022751198508237,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5758655982776754,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "mastrel.me",
     "name": "mastrel",
     "tld": ".me",
@@ -4035,6 +5325,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "steca.sh",
+    "name": "steca",
+    "tld": ".sh",
+    "coolness": 0.8274944147818349,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5728807486951165,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "fernet.sh",
     "name": "fernet",
     "tld": ".sh",
@@ -4063,6 +5368,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "bastrait.io",
+    "name": "bastrait",
+    "tld": ".io",
+    "coolness": 0.602159370539173,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.5720514020122144,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "metom.xyz",
+    "name": "metom",
+    "tld": ".xyz",
+    "coolness": 0.7944699635780132,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5720183737761695,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "lumeale.io",
+    "name": "lumeale",
+    "tld": ".io",
+    "coolness": 0.60189258716481,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.5717979578065695,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "smmit.io",
@@ -4110,6 +5460,36 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "phoenitro.com",
+    "name": "phoenitro",
+    "tld": ".com",
+    "coolness": 0.571137436672449,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.571137436672449,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "coractark.com",
+    "name": "coractark",
+    "tld": ".com",
+    "coolness": 0.5710081297163965,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5710081297163965,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "irid.me",
     "name": "irid",
     "tld": ".me",
@@ -4155,6 +5535,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "apen.me",
+    "name": "apen",
+    "tld": ".me",
+    "coolness": 0.6954314807393103,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5702538142062343,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "frobi.me",
     "name": "frobi",
     "tld": ".me",
@@ -4183,6 +5578,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "crystark.com",
+    "name": "crystark",
+    "tld": ".com",
+    "coolness": 0.570031731877093,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.570031731877093,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sealcomet.com",
@@ -4245,6 +5655,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "cipheron.app",
+    "name": "cipheron",
+    "tld": ".app",
+    "coolness": 0.6689539176220989,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.568610829978784,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "cipheron.dev",
+    "name": "cipheron",
+    "tld": ".dev",
+    "coolness": 0.6689539176220989,
+    "available": true,
+    "price": 10.81,
+    "renewal": 12.87,
+    "premium": false,
+    "score": 0.568610829978784,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "merling.xyz",
     "name": "merling",
     "tld": ".xyz",
@@ -4258,6 +5698,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "spre.xyz",
+    "name": "spre",
+    "tld": ".xyz",
+    "coolness": 0.7893735427006602,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5683489507444753,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "ranite.xyz",
+    "name": "ranite",
+    "tld": ".xyz",
+    "coolness": 0.7882397689842032,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5675326336686263,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "prisi.xyz",
@@ -4380,6 +5850,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "carlet.sh",
+    "name": "carlet",
+    "tld": ".sh",
+    "coolness": 0.8166021521746134,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5653399515055016,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "praith.sh",
     "name": "praith",
     "tld": ".sh",
@@ -4408,6 +5893,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "magego.me",
+    "name": "magego",
+    "tld": ".me",
+    "coolness": 0.68829238917437,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5643997591229833,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "vectal.sh",
+    "name": "vectal",
+    "tld": ".sh",
+    "coolness": 0.8145291660459945,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5639048072626116,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "bolded.sh",
@@ -4468,6 +5983,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "pula.sh",
+    "name": "pula",
+    "tld": ".sh",
+    "coolness": 0.8132007420869795,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5629851291371396,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "strel.sh",
@@ -4575,6 +6105,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "comil.xyz",
+    "name": "comil",
+    "tld": ".xyz",
+    "coolness": 0.7792341324250466,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5610485753460335,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "staza.sh",
     "name": "staza",
     "tld": ".sh",
@@ -4620,6 +6165,51 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "siennacle.io",
+    "name": "siennacle",
+    "tld": ".io",
+    "coolness": 0.5903818285006432,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.5608627370756111,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sunlith.xyz",
+    "name": "sunlith",
+    "tld": ".xyz",
+    "coolness": 0.7787050696728699,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5606676501644663,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "harrie.sh",
+    "name": "harrie",
+    "tld": ".sh",
+    "coolness": 0.8094950368333311,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5604196408846138,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "echoift.com",
     "name": "echoift",
     "tld": ".com",
@@ -4663,6 +6253,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "sabl.sh",
+    "name": "sabl",
+    "tld": ".sh",
+    "coolness": 0.8088580824818762,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5599786724874528,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "stellantu.com",
@@ -4755,6 +6360,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "ran.xyz",
+    "name": "ran",
+    "tld": ".xyz",
+    "coolness": 0.7757653956329761,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5585510848557428,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "leam.sh",
     "name": "leam",
     "tld": ".sh",
@@ -4845,6 +6465,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "sebore.me",
+    "name": "sebore",
+    "tld": ".me",
+    "coolness": 0.6764391879448415,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.55468013411477,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "irier.xyz",
     "name": "irier",
     "tld": ".xyz",
@@ -4920,6 +6555,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "fastrel.me",
+    "name": "fastrel",
+    "tld": ".me",
+    "coolness": 0.6740092636845993,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5526875962213714,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "photone.xyz",
     "name": "photone",
     "tld": ".xyz",
@@ -4933,6 +6583,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "siledas.io",
+    "name": "siledas",
+    "tld": ".io",
+    "coolness": 0.5812150469706685,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.5521542946221351,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "turbor.xyz",
@@ -5085,6 +6750,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "canag.xyz",
+    "name": "canag",
+    "tld": ".xyz",
+    "coolness": 0.7629423634792776,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5493185017050798,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "cardy.sh",
     "name": "cardy",
     "tld": ".sh",
@@ -5130,6 +6810,36 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "coz.sh",
+    "name": "coz",
+    "tld": ".sh",
+    "coolness": 0.7899003055846252,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5468540577124329,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sterlin.xyz",
+    "name": "sterlin",
+    "tld": ".xyz",
+    "coolness": 0.7592470546636839,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5466578793578524,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "merling.sh",
     "name": "merling",
     "tld": ".sh",
@@ -5158,6 +6868,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "spre.sh",
+    "name": "spre",
+    "tld": ".sh",
+    "coolness": 0.7893735427006602,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5464893757158417,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "coracle.sh",
@@ -5235,6 +6960,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "sente.xyz",
+    "name": "sente",
+    "tld": ".xyz",
+    "coolness": 0.7573854891548348,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.545317552191481,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "valt.sh",
     "name": "valt",
     "tld": ".sh",
@@ -5308,6 +7048,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "clver.xyz",
+    "name": "clver",
+    "tld": ".xyz",
+    "coolness": 0.7543315699272879,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5431187303476472,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "hawkvine.io",
+    "name": "hawkvine",
+    "tld": ".io",
+    "coolness": 0.5716042324474591,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.543024020825086,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "phoenitro.io",
+    "name": "phoenitro",
+    "tld": ".io",
+    "coolness": 0.571137436672449,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.5425805648388266,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "asar.sh",
@@ -5445,6 +7230,36 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "frce.app",
+    "name": "frce",
+    "tld": ".app",
+    "coolness": 0.6350745557345809,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.5398133723743938,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "frce.dev",
+    "name": "frce",
+    "tld": ".dev",
+    "coolness": 0.6350745557345809,
+    "available": true,
+    "price": 10.81,
+    "renewal": 12.87,
+    "premium": false,
+    "score": 0.5398133723743938,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "comim.sh",
     "name": "comim",
     "tld": ".sh",
@@ -5473,6 +7288,66 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "comne.sh",
+    "name": "comne",
+    "tld": ".sh",
+    "coolness": 0.7792341324250466,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5394697839865706,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "ceruleaf.app",
+    "name": "ceruleaf",
+    "tld": ".app",
+    "coolness": 0.6346332425065738,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.5394382561305877,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "ceruleaf.dev",
+    "name": "ceruleaf",
+    "tld": ".dev",
+    "coolness": 0.6346332425065738,
+    "available": true,
+    "price": 10.81,
+    "renewal": 12.87,
+    "premium": false,
+    "score": 0.5394382561305877,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "emberyl.me",
+    "name": "emberyl",
+    "tld": ".me",
+    "coolness": 0.6578221426063202,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5394141569371825,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "shati.xyz",
@@ -6000,6 +7875,36 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "micr.xyz",
+    "name": "micr",
+    "tld": ".xyz",
+    "coolness": 0.7372574789607476,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5308253848517382,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "protone.sh",
+    "name": "protone",
+    "tld": ".sh",
+    "coolness": 0.7667338676671812,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5308157545388177,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sesa.sh",
     "name": "sesa",
     "tld": ".sh",
@@ -6028,6 +7933,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "govale.me",
+    "name": "govale",
+    "tld": ".me",
+    "coolness": 0.6466037101685069,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5302150423381756,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "zealouz.io",
+    "name": "zealouz",
+    "tld": ".io",
+    "coolness": 0.5576986555794241,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.5298137228004529,
+    "strategy": "leet",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "copebe.me",
+    "name": "copebe",
+    "tld": ".me",
+    "coolness": 0.6456801100063817,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5294576902052329,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sealloom.me",
@@ -6150,6 +8100,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "gentle.sh",
+    "name": "gentle",
+    "tld": ".sh",
+    "coolness": 0.7594841636911838,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5257967287092811,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sentine.xyz",
     "name": "sentine",
     "tld": ".xyz",
@@ -6270,6 +8235,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "aspectorm.com",
+    "name": "aspectorm",
+    "tld": ".com",
+    "coolness": 0.522869688599641,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.522869688599641,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "ranitron.me",
     "name": "ranitron",
     "tld": ".me",
@@ -6300,6 +8280,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "clver.sh",
+    "name": "clver",
+    "tld": ".sh",
+    "coolness": 0.7543315699272879,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5222295484111993,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "auroral.sh",
     "name": "auroral",
     "tld": ".sh",
@@ -6313,6 +8308,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "matna.xyz",
+    "name": "matna",
+    "tld": ".xyz",
+    "coolness": 0.723820942406988,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5211510785330313,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "rier.sh",
@@ -6330,6 +8340,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "sapid.sh",
+    "name": "sapid",
+    "tld": ".sh",
+    "coolness": 0.7527281429392635,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5211194835733363,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "voltatom.io",
     "name": "voltatom",
     "tld": ".io",
@@ -6343,6 +8368,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "frce.me",
+    "name": "frce",
+    "tld": ".me",
+    "coolness": 0.6350745557345809,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5207611357023564,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "groventa.me",
+    "name": "groventa",
+    "tld": ".me",
+    "coolness": 0.6348228875341699,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5205547677780193,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "titade.sh",
@@ -6418,6 +8473,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "praither.me",
+    "name": "praither",
+    "tld": ".me",
+    "coolness": 0.6326531318059657,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5187755680808919,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "net.xyz",
+    "name": "net",
+    "tld": ".xyz",
+    "coolness": 0.7205214586336856,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5187754502162536,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "galecedar.io",
@@ -6525,6 +8610,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "pegalar.xyz",
+    "name": "pegalar",
+    "tld": ".xyz",
+    "coolness": 0.7193279077012448,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5179160935448962,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "capu.sh",
     "name": "capu",
     "tld": ".sh",
@@ -6583,6 +8683,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "stigo.sh",
+    "name": "stigo",
+    "tld": ".sh",
+    "coolness": 0.7465690482435039,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5168554949378104,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "ancientin.io",
@@ -6645,6 +8760,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "criga.xyz",
+    "name": "criga",
+    "tld": ".xyz",
+    "coolness": 0.7164940895028888,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.51587574444208,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sitom.xyz",
     "name": "sitom",
     "tld": ".xyz",
@@ -6690,6 +8820,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "matid.xyz",
+    "name": "matid",
+    "tld": ".xyz",
+    "coolness": 0.715319973185061,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5150303806932439,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "foxquark.me",
     "name": "foxquark",
     "tld": ".me",
@@ -6703,6 +8848,36 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "freepine.dev",
+    "name": "freepine",
+    "tld": ".dev",
+    "coolness": 0.605254447657132,
+    "available": true,
+    "price": 10.81,
+    "renewal": 12.87,
+    "premium": false,
+    "score": 0.5144662805085621,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "freepine.app",
+    "name": "freepine",
+    "tld": ".app",
+    "coolness": 0.605254447657132,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.5144662805085621,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sek.sh",
@@ -6780,6 +8955,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "borealo.xyz",
+    "name": "borealo",
+    "tld": ".xyz",
+    "coolness": 0.7130021442714398,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5133615438754366,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "lotusgull.com",
     "name": "lotusgull",
     "tld": ".com",
@@ -6795,6 +8985,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "beather.xyz",
+    "name": "beather",
+    "tld": ".xyz",
+    "coolness": 0.7126412000847785,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5131016640610405,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "driorge.com",
     "name": "driorge",
     "tld": ".com",
@@ -6808,6 +9013,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "capebolt.me",
+    "name": "capebolt",
+    "tld": ".me",
+    "coolness": 0.6255181394388601,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5129248743398653,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "clote.xyz",
+    "name": "clote",
+    "tld": ".xyz",
+    "coolness": 0.7122698435216391,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5128342873355801,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sharble.xyz",
+    "name": "sharble",
+    "tld": ".xyz",
+    "coolness": 0.712104841120174,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5127154856065252,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sharrie.sh",
@@ -6855,6 +9105,66 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "ranithera.com",
+    "name": "ranithera",
+    "tld": ".com",
+    "coolness": 0.5115629373638001,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5115629373638001,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "mesalagoon.com",
+    "name": "mesalagoon",
+    "tld": ".com",
+    "coolness": 0.5112942119535696,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5112942119535696,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "gateelk.xyz",
+    "name": "gateelk",
+    "tld": ".xyz",
+    "coolness": 0.7098970794800384,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5111258972256276,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sageion.xyz",
+    "name": "sageion",
+    "tld": ".xyz",
+    "coolness": 0.709410208132418,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5107753498553409,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "steelnimbus.com",
     "name": "steelnimbus",
     "tld": ".com",
@@ -6883,6 +9193,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "sumif.xyz",
+    "name": "sumif",
+    "tld": ".xyz",
+    "coolness": 0.7085750578112585,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5101740416241061,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "zenitron.me",
@@ -6958,6 +9283,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "sagered.me",
+    "name": "sagered",
+    "tld": ".me",
+    "coolness": 0.6214312717469249,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.5095736428324784,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "zenithe.xyz",
@@ -7095,6 +9435,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "velverdan.com",
+    "name": "velverdan",
+    "tld": ".com",
+    "coolness": 0.5067681179384165,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5067681179384165,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "catar.sh",
     "name": "catar",
     "tld": ".sh",
@@ -7123,6 +9478,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "meside.xyz",
+    "name": "meside",
+    "tld": ".xyz",
+    "coolness": 0.7022751198508237,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.505638086292593,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sano.sh",
@@ -7183,6 +9553,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "galema.xyz",
+    "name": "galema",
+    "tld": ".xyz",
+    "coolness": 0.7016664816462743,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.5051998667853175,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "mapi.sh",
@@ -7320,6 +9705,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "neonhelm.app",
+    "name": "neonhelm",
+    "tld": ".app",
+    "coolness": 0.5916425164266303,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.5028961389626357,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "brizi.sh",
     "name": "brizi",
     "tld": ".sh",
@@ -7378,6 +9778,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "siennacle.app",
+    "name": "siennacle",
+    "tld": ".app",
+    "coolness": 0.5903818285006432,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.5018245542255467,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "siennacle.dev",
+    "name": "siennacle",
+    "tld": ".dev",
+    "coolness": 0.5903818285006432,
+    "available": true,
+    "price": 10.81,
+    "renewal": 12.87,
+    "premium": false,
+    "score": 0.5018245542255467,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "mari.sh",
@@ -7485,6 +9915,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "reedrudder.com",
+    "name": "reedrudder",
+    "tld": ".com",
+    "coolness": 0.5003122507685774,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.5003122507685774,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "novaify.io",
     "name": "novaify",
     "tld": ".io",
@@ -7500,6 +9945,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "ferl.sh",
+    "name": "ferl",
+    "tld": ".sh",
+    "coolness": 0.7224084093797103,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.5001288988013378,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "trusset.sh",
     "name": "trusset",
     "tld": ".sh",
@@ -7511,7 +9971,7 @@
     "score": 0.49909541269174673,
     "strategy": "brandable",
     "status": "available",
-    "source": "rdap-404",
+    "source": "whois-available",
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
@@ -7605,6 +10065,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "coeb.sh",
+    "name": "coeb",
+    "tld": ".sh",
+    "coolness": 0.7195945670100581,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4981808540838863,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "nectorm.xyz",
     "name": "nectorm",
     "tld": ".xyz",
@@ -7650,6 +10125,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "criga.sh",
+    "name": "criga",
+    "tld": ".sh",
+    "coolness": 0.7164940895028888,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.49603436965584613,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "ospry.xyz",
     "name": "ospry",
     "tld": ".xyz",
@@ -7680,6 +10170,51 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "magego.xyz",
+    "name": "magego",
+    "tld": ".xyz",
+    "coolness": 0.68829238917437,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.49557052020554637,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sago.sh",
+    "name": "sago",
+    "tld": ".sh",
+    "coolness": 0.7153744788292983,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.49525925457412956,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "matid.sh",
+    "name": "matid",
+    "tld": ".sh",
+    "coolness": 0.715319973185061,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4952215198973499,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "boltflux.io",
     "name": "boltflux",
     "tld": ".io",
@@ -7693,6 +10228,96 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "cosmicro.xyz",
+    "name": "cosmicro",
+    "tld": ".xyz",
+    "coolness": 0.6861243528853209,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.49400953407743103,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "bastrait.me",
+    "name": "bastrait",
+    "tld": ".me",
+    "coolness": 0.602159370539173,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.49377068384212186,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "borealo.sh",
+    "name": "borealo",
+    "tld": ".sh",
+    "coolness": 0.7130021442714398,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4936168691109968,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "lumeale.me",
+    "name": "lumeale",
+    "tld": ".me",
+    "coolness": 0.60189258716481,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.49355192147514415,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "beather.sh",
+    "name": "beather",
+    "tld": ".sh",
+    "coolness": 0.7126412000847785,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4933669846740774,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sharble.sh",
+    "name": "sharble",
+    "tld": ".sh",
+    "coolness": 0.712104841120174,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4929956592370435,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sharrier.xyz",
@@ -7738,6 +10363,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "megafractal.com",
+    "name": "megafractal",
+    "tld": ".com",
+    "coolness": 0.4923082854649338,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.4923082854649338,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "gateelk.sh",
+    "name": "gateelk",
+    "tld": ".sh",
+    "coolness": 0.7098970794800384,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4914672088707958,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "coto.sh",
@@ -7860,6 +10515,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "codecove.sh",
+    "name": "codecove",
+    "tld": ".sh",
+    "coolness": 0.7062323031839076,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4889300560503976,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "mesimit.me",
     "name": "mesimit",
     "tld": ".me",
@@ -7965,6 +10635,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "copperlumen.com",
+    "name": "copperlumen",
+    "tld": ".com",
+    "coolness": 0.48735670579058754,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.48735670579058754,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "driorge.io",
     "name": "driorge",
     "tld": ".io",
@@ -7978,6 +10663,96 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "sebore.xyz",
+    "name": "sebore",
+    "tld": ".xyz",
+    "coolness": 0.6764391879448415,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.48703621532028585,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "megallar.xyz",
+    "name": "megallar",
+    "tld": ".xyz",
+    "coolness": 0.6760866515484515,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.48678238911488503,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "bircuit.xyz",
+    "name": "bircuit",
+    "tld": ".xyz",
+    "coolness": 0.6758744769920165,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.48662962343425187,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "novawraith.com",
+    "name": "novawraith",
+    "tld": ".com",
+    "coolness": 0.486424871559971,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.486424871559971,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "meside.sh",
+    "name": "meside",
+    "tld": ".sh",
+    "coolness": 0.7022751198508237,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4861904675890317,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "clevercedar.com",
+    "name": "clevercedar",
+    "tld": ".com",
+    "coolness": 0.4860735034145996,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.4860735034145996,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "jouleam.xyz",
@@ -8038,6 +10813,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "fastrel.xyz",
+    "name": "fastrel",
+    "tld": ".xyz",
+    "coolness": 0.6740092636845993,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4852866698529115,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "ternoracle.com",
@@ -8145,6 +10935,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "siennacle.me",
+    "name": "siennacle",
+    "tld": ".me",
+    "coolness": 0.5903818285006432,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.48411309937052743,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "ravesu.xyz",
     "name": "ravesu",
     "tld": ".xyz",
@@ -8233,6 +11038,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "relure.xyz",
+    "name": "relure",
+    "tld": ".xyz",
+    "coolness": 0.6703092210128523,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4826226391292536,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "rowu.sh",
@@ -8355,6 +11175,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "pinane.xyz",
+    "name": "pinane",
+    "tld": ".xyz",
+    "coolness": 0.6687203297402292,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.48147863741296504,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "apen.sh",
+    "name": "apen",
+    "tld": ".sh",
+    "coolness": 0.6954314807393103,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4814525635887533,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "frobi.sh",
     "name": "frobi",
     "tld": ".sh",
@@ -8383,6 +11233,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "aldersky.com",
+    "name": "aldersky",
+    "tld": ".com",
+    "coolness": 0.48133861920054416,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.48133861920054416,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "quasarmaple.com",
+    "name": "quasarmaple",
+    "tld": ".com",
+    "coolness": 0.481204854351516,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.481204854351516,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "gallantum.me",
@@ -8520,6 +11400,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "zestral.xyz",
+    "name": "zestral",
+    "tld": ".xyz",
+    "coolness": 0.6625601635658646,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4770433177674225,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "ospry.sh",
     "name": "ospry",
     "tld": ".sh",
@@ -8533,6 +11428,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "siledas.me",
+    "name": "siledas",
+    "tld": ".me",
+    "coolness": 0.5812150469706685,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.4765963385159481,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "magego.sh",
+    "name": "magego",
+    "tld": ".sh",
+    "coolness": 0.68829238917437,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.47651011558225614,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "echoift.app",
@@ -8625,6 +11550,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "willowaura.io",
+    "name": "willowaura",
+    "tld": ".io",
+    "coolness": 0.4998993022745583,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.47490433716083036,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "prairier.xyz",
     "name": "prairier",
     "tld": ".xyz",
@@ -8653,6 +11593,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "emberyl.xyz",
+    "name": "emberyl",
+    "tld": ".xyz",
+    "coolness": 0.6578221426063202,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4736319426765505,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "circut.sh",
@@ -8805,6 +11760,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "hawkvine.me",
+    "name": "hawkvine",
+    "tld": ".me",
+    "coolness": 0.5716042324474591,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.4687154706069164,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "stealous.xyz",
     "name": "stealous",
     "tld": ".xyz",
@@ -8818,6 +11788,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "phoenitro.me",
+    "name": "phoenitro",
+    "tld": ".me",
+    "coolness": 0.571137436672449,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.46833269807140815,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sebore.sh",
+    "name": "sebore",
+    "tld": ".sh",
+    "coolness": 0.6764391879448415,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.46830405319258256,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "azurebolt.io",
@@ -8865,6 +11865,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "fastrel.sh",
+    "name": "fastrel",
+    "tld": ".sh",
+    "coolness": 0.6740092636845993,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.46662179793549186,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "grovetopaz.com",
     "name": "grovetopaz",
     "tld": ".com",
@@ -8880,6 +11895,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "govale.xyz",
+    "name": "govale",
+    "tld": ".xyz",
+    "coolness": 0.6466037101685069,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.465554671321325,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "megaoak.sh",
     "name": "megaoak",
     "tld": ".sh",
@@ -8893,6 +11923,36 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "copebe.xyz",
+    "name": "copebe",
+    "tld": ".xyz",
+    "coolness": 0.6456801100063817,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4648896792045948,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "dragoncape.com",
+    "name": "dragoncape",
+    "tld": ".com",
+    "coolness": 0.4646783735949365,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.4646783735949365,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "forgeyx.me",
@@ -8938,6 +11998,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "sharkash.xyz",
+    "name": "sharkash",
+    "tld": ".xyz",
+    "coolness": 0.6431325328999277,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4630554236879479,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "copperlumen.io",
+    "name": "copperlumen",
+    "tld": ".io",
+    "coolness": 0.48735670579058754,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.46298887050105814,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "ancientin.app",
@@ -9043,6 +12133,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "alderheron.com",
+    "name": "alderheron",
+    "tld": ".com",
+    "coolness": 0.4603575710415372,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.4603575710415372,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "withvale.io",
@@ -9180,6 +12285,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "marbleatom.com",
+    "name": "marbleatom",
+    "tld": ".com",
+    "coolness": 0.4587815624809831,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.4587815624809831,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "quantumalder.com",
     "name": "quantumalder",
     "tld": ".com",
@@ -9225,6 +12345,36 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "zealouz.me",
+    "name": "zealouz",
+    "tld": ".me",
+    "coolness": 0.5576986555794241,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.4573128975751277,
+    "strategy": "leet",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "aldersky.io",
+    "name": "aldersky",
+    "tld": ".io",
+    "coolness": 0.48133861920054416,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.45727168824051695,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "hollowbolt.io",
     "name": "hollowbolt",
     "tld": ".io",
@@ -9238,6 +12388,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "groventa.xyz",
+    "name": "groventa",
+    "tld": ".xyz",
+    "coolness": 0.6348228875341699,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.45707247902460235,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "ceruleaf.xyz",
+    "name": "ceruleaf",
+    "tld": ".xyz",
+    "coolness": 0.6346332425065738,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.45693593460473314,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "fatheron.sh",
@@ -9300,6 +12480,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "carina.sh",
+    "name": "carina",
+    "tld": ".sh",
+    "coolness": 0.6589042533789075,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.45616448310847435,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "echoale.xyz",
     "name": "echoale",
     "tld": ".xyz",
@@ -9328,6 +12523,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "praither.xyz",
+    "name": "praither",
+    "tld": ".xyz",
+    "coolness": 0.6326531318059657,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4555102549002953,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "strairis.xyz",
+    "name": "strairis",
+    "tld": ".xyz",
+    "coolness": 0.6326199250735555,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4554863460529599,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "emberyl.sh",
+    "name": "emberyl",
+    "tld": ".sh",
+    "coolness": 0.6578221426063202,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4554153294966832,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "lukyd.io",
@@ -9450,6 +12690,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "aspectal.xyz",
+    "name": "aspectal",
+    "tld": ".xyz",
+    "coolness": 0.6283799710497603,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4524335791558274,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "glacr.sh",
     "name": "glacr",
     "tld": ".sh",
@@ -9508,6 +12763,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "quaintspark.com",
+    "name": "quaintspark",
+    "tld": ".com",
+    "coolness": 0.4510843187901333,
+    "available": true,
+    "price": 11.08,
+    "renewal": 11.08,
+    "premium": false,
+    "score": 0.4510843187901333,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "echoable.me",
+    "name": "echoable",
+    "tld": ".me",
+    "coolness": 0.5499245182234136,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.45093810494319914,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "capebolt.xyz",
+    "name": "capebolt",
+    "tld": ".xyz",
+    "coolness": 0.6255181394388601,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4503730603959793,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "stealous.sh",
@@ -9645,6 +12945,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "govale.sh",
+    "name": "govale",
+    "tld": ".sh",
+    "coolness": 0.6466037101685069,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.447648722424351,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "novaify.dev",
     "name": "novaify",
     "tld": ".dev",
@@ -9673,6 +12988,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "sagered.xyz",
+    "name": "sagered",
+    "tld": ".xyz",
+    "coolness": 0.6214312717469249,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4474305156577859,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "copebe.sh",
+    "name": "copebe",
+    "tld": ".sh",
+    "coolness": 0.6456801100063817,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.447009306927495,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sealloom.sh",
@@ -9780,6 +13125,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "matugon.xyz",
+    "name": "matugon",
+    "tld": ".xyz",
+    "coolness": 0.617055889433205,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.44428024039190755,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "quanterli.me",
     "name": "quanterli",
     "tld": ".me",
@@ -9885,6 +13245,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "novayx.xyz",
+    "name": "novayx",
+    "tld": ".xyz",
+    "coolness": 0.6141528967709166,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4421900856750599,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "nodernel.sh",
     "name": "nodernel",
     "tld": ".sh",
@@ -9975,6 +13350,51 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "seedhalo.xyz",
+    "name": "seedhalo",
+    "tld": ".xyz",
+    "coolness": 0.6106842518368819,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.43969266132255497,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "frce.sh",
+    "name": "frce",
+    "tld": ".sh",
+    "coolness": 0.6350745557345809,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.43966700012394067,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "groventa.sh",
+    "name": "groventa",
+    "tld": ".sh",
+    "coolness": 0.6348228875341699,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4394927682928869,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "ravenash.xyz",
     "name": "ravenash",
     "tld": ".xyz",
@@ -10020,6 +13440,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "praither.sh",
+    "name": "praither",
+    "tld": ".sh",
+    "coolness": 0.6326531318059657,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4379906297118224,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "moonowl.sh",
     "name": "moonowl",
     "tld": ".sh",
@@ -10033,6 +13468,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "alderheron.io",
+    "name": "alderheron",
+    "tld": ".io",
+    "coolness": 0.4603575710415372,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.4373396924894603,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "metaflux.me",
+    "name": "metaflux",
+    "tld": ".me",
+    "coolness": 0.5329108644006957,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.43698690880857044,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "oractark.sh",
@@ -10078,6 +13543,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "freepine.xyz",
+    "name": "freepine",
+    "tld": ".xyz",
+    "coolness": 0.605254447657132,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.435783202313135,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "quantumalder.io",
@@ -10170,6 +13650,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "bastrait.xyz",
+    "name": "bastrait",
+    "tld": ".xyz",
+    "coolness": 0.602159370539173,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.43355474678820455,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "lumeale.xyz",
+    "name": "lumeale",
+    "tld": ".xyz",
+    "coolness": 0.60189258716481,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.43336266275866314,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "rangerray.me",
     "name": "rangerray",
     "tld": ".me",
@@ -10183,6 +13693,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "capebolt.sh",
+    "name": "capebolt",
+    "tld": ".sh",
+    "coolness": 0.6255181394388601,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.43305101961151854,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "cerulear.xyz",
+    "name": "cerulear",
+    "tld": ".xyz",
+    "coolness": 0.6013249897508054,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4329539926205799,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "silvercipher.io",
+    "name": "silvercipher",
+    "tld": ".io",
+    "coolness": 0.45505989361273963,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.4323068989321026,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "borl.sh",
@@ -10228,6 +13783,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "sagered.sh",
+    "name": "sagered",
+    "tld": ".sh",
+    "coolness": 0.6214312717469249,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.430221649670948,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "driftyx.io",
@@ -10305,6 +13875,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "quaintspark.io",
+    "name": "quaintspark",
+    "tld": ".io",
+    "coolness": 0.4510843187901333,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.4285301028506266,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "redasar.sh",
     "name": "redasar",
     "tld": ".sh",
@@ -10320,6 +13905,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "cloverflux.io",
+    "name": "cloverflux",
+    "tld": ".io",
+    "coolness": 0.4508139522277566,
+    "available": true,
+    "price": 28.12,
+    "renewal": 51.8,
+    "premium": false,
+    "score": 0.4282732546163688,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "primsonic.xyz",
+    "name": "primsonic",
+    "tld": ".xyz",
+    "coolness": 0.5929204642853935,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.42690273428548325,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "stoicibex.xyz",
     "name": "stoicibex",
     "tld": ".xyz",
@@ -10333,6 +13948,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "hydragon.xyz",
+    "name": "hydragon",
+    "tld": ".xyz",
+    "coolness": 0.5925925355229928,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4266666255765548,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "fluorge.sh",
@@ -10363,6 +13993,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "neonhelm.xyz",
+    "name": "neonhelm",
+    "tld": ".xyz",
+    "coolness": 0.5916425164266303,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.42598261182717384,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "mellowhelm.me",
@@ -10408,6 +14053,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "siennacle.xyz",
+    "name": "siennacle",
+    "tld": ".xyz",
+    "coolness": 0.5903818285006432,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.42507491652046314,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "neonkeep.xyz",
@@ -10590,6 +14250,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "waveloom.xyz",
+    "name": "waveloom",
+    "tld": ".xyz",
+    "coolness": 0.5838141379071891,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4203461792931761,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "aspn.sh",
     "name": "aspn",
     "tld": ".sh",
@@ -10620,6 +14295,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "harrierce.xyz",
+    "name": "harrierce",
+    "tld": ".xyz",
+    "coolness": 0.5822352587526374,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4192093863018989,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "orcl.sh",
     "name": "orcl",
     "tld": ".sh",
@@ -10648,6 +14338,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "siledas.xyz",
+    "name": "siledas",
+    "tld": ".xyz",
+    "coolness": 0.5812150469706685,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4184748338188813,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "stellarcove.me",
@@ -10708,6 +14413,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "bastrait.sh",
+    "name": "bastrait",
+    "tld": ".sh",
+    "coolness": 0.602159370539173,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.41687956421942746,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "lumeale.sh",
+    "name": "lumeale",
+    "tld": ".sh",
+    "coolness": 0.60189258716481,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4166948680371761,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "metalumen.me",
@@ -10800,6 +14535,51 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "hawkvine.xyz",
+    "name": "hawkvine",
+    "tld": ".xyz",
+    "coolness": 0.5716042324474591,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4115550473621705,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "phoenitro.xyz",
+    "name": "phoenitro",
+    "tld": ".xyz",
+    "coolness": 0.571137436672449,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.41121895440416323,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "coractark.xyz",
+    "name": "coractark",
+    "tld": ".xyz",
+    "coolness": 0.5710081297163965,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.41112585339580543,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "rapidhelix.dev",
     "name": "rapidhelix",
     "tld": ".dev",
@@ -10828,6 +14608,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "crystark.xyz",
+    "name": "crystark",
+    "tld": ".xyz",
+    "coolness": 0.570031731877093,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.41042284695150694,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sealcomet.xyz",
@@ -10860,6 +14655,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "willowaura.me",
+    "name": "willowaura",
+    "tld": ".me",
+    "coolness": 0.4998993022745583,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.4099174278651378,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "verdantum.xyz",
     "name": "verdantum",
     "tld": ".xyz",
@@ -10875,6 +14685,36 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "aldersky.app",
+    "name": "aldersky",
+    "tld": ".app",
+    "coolness": 0.48133861920054416,
+    "available": true,
+    "price": 10.81,
+    "renewal": 14.93,
+    "premium": false,
+    "score": 0.4091378263204625,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "aldersky.dev",
+    "name": "aldersky",
+    "tld": ".dev",
+    "coolness": 0.48133861920054416,
+    "available": true,
+    "price": 10.81,
+    "renewal": 12.87,
+    "premium": false,
+    "score": 0.4091378263204625,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "suaveoak.sh",
     "name": "suaveoak",
     "tld": ".sh",
@@ -10888,6 +14728,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "siennacle.sh",
+    "name": "siennacle",
+    "tld": ".sh",
+    "coolness": 0.5903818285006432,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.40872588126967613,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "neonkeep.sh",
@@ -11130,6 +14985,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "stellanto.xyz",
+    "name": "stellanto",
+    "tld": ".xyz",
+    "coolness": 0.5597753767233702,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.40303827124082653,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "braveaura.xyz",
     "name": "braveaura",
     "tld": ".xyz",
@@ -11160,6 +15030,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "siledas.sh",
+    "name": "siledas",
+    "tld": ".sh",
+    "coolness": 0.5812150469706685,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.4023796479027705,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "citdl.sh",
     "name": "citdl",
     "tld": ".sh",
@@ -11175,6 +15060,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "zealouz.xyz",
+    "name": "zealouz",
+    "tld": ".xyz",
+    "coolness": 0.5576986555794241,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.40154303201718533,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "fernseed.sh",
     "name": "fernseed",
     "tld": ".sh",
@@ -11188,6 +15088,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "valeist.xyz",
+    "name": "valeist",
+    "tld": ".xyz",
+    "coolness": 0.5570879094254924,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.4011032947863545,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "copperlumen.me",
+    "name": "copperlumen",
+    "tld": ".me",
+    "coolness": 0.48735670579058754,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.3996324987482818,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "granither.xyz",
@@ -11280,6 +15210,51 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "echoable.xyz",
+    "name": "echoable",
+    "tld": ".xyz",
+    "coolness": 0.5499245182234136,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3959456531208578,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "hawkvine.sh",
+    "name": "hawkvine",
+    "tld": ".sh",
+    "coolness": 0.5716042324474591,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.3957260070790101,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "phoenitro.sh",
+    "name": "phoenitro",
+    "tld": ".sh",
+    "coolness": 0.571137436672449,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.3954028407732339,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "nimbusmesa.me",
     "name": "nimbusmesa",
     "tld": ".me",
@@ -11308,6 +15283,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "aldersky.me",
+    "name": "aldersky",
+    "tld": ".me",
+    "coolness": 0.48133861920054416,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.3946976677444462,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "hollowbolt.me",
@@ -11625,6 +15615,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "zealouz.sh",
+    "name": "zealouz",
+    "tld": ".sh",
+    "coolness": 0.5576986555794241,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.3860990692472936,
+    "strategy": "leet",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "novaecho.sh",
     "name": "novaecho",
     "tld": ".sh",
@@ -11685,6 +15690,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "driftio.xyz",
+    "name": "driftio",
+    "tld": ".xyz",
+    "coolness": 0.5316022458451618,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3827536170085165,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "pilotsky.sh",
     "name": "pilotsky",
     "tld": ".sh",
@@ -11713,6 +15733,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "echoable.sh",
+    "name": "echoable",
+    "tld": ".sh",
+    "coolness": 0.5499245182234136,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.38071697415467093,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "rangerray.xyz",
@@ -11790,6 +15825,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "alderheron.me",
+    "name": "alderheron",
+    "tld": ".me",
+    "coolness": 0.4603575710415372,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.37749320825406046,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "echoyx.sh",
     "name": "echoyx",
     "tld": ".sh",
@@ -11818,6 +15868,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "aspectorm.xyz",
+    "name": "aspectorm",
+    "tld": ".xyz",
+    "coolness": 0.522869688599641,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3764661757917415,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "ancientin.sh",
@@ -11910,6 +15975,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "vektor.sh",
+    "name": "vektor",
+    "tld": ".sh",
+    "coolness": 0.5406148349189104,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.37427180879001487,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "mellowhelm.xyz",
     "name": "mellowhelm",
     "tld": ".xyz",
@@ -11923,6 +16003,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "silvercipher.me",
+    "name": "silvercipher",
+    "tld": ".me",
+    "coolness": 0.45505989361273963,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.3731491127624465,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sphinxfern.me",
@@ -12015,6 +16110,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "griffinch.xyz",
+    "name": "griffinch",
+    "tld": ".xyz",
+    "coolness": 0.5156174344285246,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3712445527885377,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "driftyx.me",
     "name": "driftyx",
     "tld": ".me",
@@ -12075,6 +16185,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "quaintspark.me",
+    "name": "quaintspark",
+    "tld": ".me",
+    "coolness": 0.4510843187901333,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.36988914140790924,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "cloverflux.me",
+    "name": "cloverflux",
+    "tld": ".me",
+    "coolness": 0.4508139522277566,
+    "available": true,
+    "price": 8.8,
+    "renewal": 17.27,
+    "premium": false,
+    "score": 0.3696674408267604,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "lotusgull.xyz",
     "name": "lotusgull",
     "tld": ".xyz",
@@ -12090,6 +16230,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "atomicnode.xyz",
+    "name": "atomicnode",
+    "tld": ".xyz",
+    "coolness": 0.5130029692322289,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3693621378472048,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "driorge.xyz",
     "name": "driorge",
     "tld": ".xyz",
@@ -12103,6 +16258,51 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "metaflux.sh",
+    "name": "metaflux",
+    "tld": ".sh",
+    "coolness": 0.5329108644006957,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.36893829073894313,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "ranithera.xyz",
+    "name": "ranithera",
+    "tld": ".xyz",
+    "coolness": 0.5115629373638001,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.36832531490193604,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "mesalagoon.xyz",
+    "name": "mesalagoon",
+    "tld": ".xyz",
+    "coolness": 0.5112942119535696,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3681318326065701,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "steelnimbus.xyz",
@@ -12225,6 +16425,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "velverdan.xyz",
+    "name": "velverdan",
+    "tld": ".xyz",
+    "coolness": 0.5067681179384165,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.36487304491565986,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "novaify.sh",
     "name": "novaify",
     "tld": ".sh",
@@ -12285,6 +16500,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "reedrudder.xyz",
+    "name": "reedrudder",
+    "tld": ".xyz",
+    "coolness": 0.5003122507685774,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.36022482055337574,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "halobeacon.xyz",
     "name": "halobeacon",
     "tld": ".xyz",
@@ -12298,6 +16528,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "willowaura.xyz",
+    "name": "willowaura",
+    "tld": ".xyz",
+    "coolness": 0.4998993022745583,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.35992749763768195,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "topazhawk.xyz",
+    "name": "topazhawk",
+    "tld": ".xyz",
+    "coolness": 0.4995068385388404,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3596449237479651,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "withecho.sh",
@@ -12465,6 +16725,81 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "copperlumen.xyz",
+    "name": "copperlumen",
+    "tld": ".xyz",
+    "coolness": 0.48735670579058754,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.350896828169223,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "junyper.xyz",
+    "name": "junyper",
+    "tld": ".xyz",
+    "coolness": 0.4868844141573285,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3505567781932765,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "novawraith.xyz",
+    "name": "novawraith",
+    "tld": ".xyz",
+    "coolness": 0.486424871559971,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3502259075231791,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "clevercedar.xyz",
+    "name": "clevercedar",
+    "tld": ".xyz",
+    "coolness": 0.4860735034145996,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3499729224585117,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "oasisridge.xyz",
+    "name": "oasisridge",
+    "tld": ".xyz",
+    "coolness": 0.48543139593844664,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.34951060507568155,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "merlinrowan.sh",
     "name": "merlinrowan",
     "tld": ".sh",
@@ -12555,6 +16890,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "aldersky.xyz",
+    "name": "aldersky",
+    "tld": ".xyz",
+    "coolness": 0.48133861920054416,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3465638058243918,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "hollowbolt.xyz",
     "name": "hollowbolt",
     "tld": ".xyz",
@@ -12570,6 +16920,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "quasarmaple.xyz",
+    "name": "quasarmaple",
+    "tld": ".xyz",
+    "coolness": 0.481204854351516,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3464674951330915,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "halobeacon.sh",
     "name": "halobeacon",
     "tld": ".sh",
@@ -12583,6 +16948,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "willowaura.sh",
+    "name": "willowaura",
+    "tld": ".sh",
+    "coolness": 0.4998993022745583,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.34608413234392493,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "pryme.sh",
@@ -12735,6 +17115,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "copperlumen.sh",
+    "name": "copperlumen",
+    "tld": ".sh",
+    "coolness": 0.48735670579058754,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.3374007963165606,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "valelabs.xyz",
     "name": "valelabs",
     "tld": ".xyz",
@@ -12810,6 +17205,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "dragoncape.xyz",
+    "name": "dragoncape",
+    "tld": ".xyz",
+    "coolness": 0.4646783735949365,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.33456842898835426,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "eger.sh",
     "name": "eger",
     "tld": ".sh",
@@ -12838,6 +17248,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "aldersky.sh",
+    "name": "aldersky",
+    "tld": ".sh",
+    "coolness": 0.48133861920054416,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.3332344286772998,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "hollowbolt.sh",
@@ -12885,6 +17310,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "alderheron.xyz",
+    "name": "alderheron",
+    "tld": ".xyz",
+    "coolness": 0.4603575710415372,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.33145745114990677,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "tndra.sh",
     "name": "tndra",
     "tld": ".sh",
@@ -12898,6 +17338,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "marbleatom.xyz",
+    "name": "marbleatom",
+    "tld": ".xyz",
+    "coolness": 0.4587815624809831,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3303227249863078,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "quantumalder.xyz",
@@ -12945,6 +17400,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "meshcurrent.xyz",
+    "name": "meshcurrent",
+    "tld": ".xyz",
+    "coolness": 0.4553803775201288,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.32787387181449273,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "silvercipher.xyz",
+    "name": "silvercipher",
+    "tld": ".xyz",
+    "coolness": 0.45505989361273963,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.3276431234011725,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sphinxfern.xyz",
     "name": "sphinxfern",
     "tld": ".xyz",
@@ -12975,6 +17460,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "matrixnebula.xyz",
+    "name": "matrixnebula",
+    "tld": ".xyz",
+    "coolness": 0.4533468993899637,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.32640976756077383,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "driftyx.xyz",
     "name": "driftyx",
     "tld": ".xyz",
@@ -12990,6 +17490,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "quaintspark.xyz",
+    "name": "quaintspark",
+    "tld": ".xyz",
+    "coolness": 0.4510843187901333,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.32478070952889593,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "boldportal.sh",
     "name": "boldportal",
     "tld": ".sh",
@@ -13003,6 +17518,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "cloverflux.xyz",
+    "name": "cloverflux",
+    "tld": ".xyz",
+    "coolness": 0.4508139522277566,
+    "available": true,
+    "price": 2.04,
+    "renewal": 12.98,
+    "premium": false,
+    "score": 0.32458604560398474,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "valelabs.sh",
@@ -13035,6 +17565,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "alderheron.sh",
+    "name": "alderheron",
+    "tld": ".sh",
+    "coolness": 0.4603575710415372,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.31870908764414113,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "quantumalder.sh",
     "name": "quantumalder",
     "tld": ".sh",
@@ -13063,6 +17608,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "silvercipher.sh",
+    "name": "silvercipher",
+    "tld": ".sh",
+    "coolness": 0.45505989361273963,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.3150414648088197,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "sphinxfern.sh",
@@ -13110,6 +17670,36 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "quaintspark.sh",
+    "name": "quaintspark",
+    "tld": ".sh",
+    "coolness": 0.4510843187901333,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.31228914377778455,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "cloverflux.sh",
+    "name": "cloverflux",
+    "tld": ".sh",
+    "coolness": 0.4508139522277566,
+    "available": true,
+    "price": 31.2,
+    "renewal": 46.65,
+    "premium": false,
+    "score": 0.3121019669269084,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "scalm.ai",
     "name": "scalm",
     "tld": ".ai",
@@ -13138,6 +17728,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "lagon.ai",
+    "name": "lagon",
+    "tld": ".ai",
+    "coolness": 0.8581363851991693,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.2801654461956175,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "viris.ai",
@@ -13245,6 +17850,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "steca.ai",
+    "name": "steca",
+    "tld": ".ai",
+    "coolness": 0.8274944147818349,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.2701614171597284,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "wavent.ai",
     "name": "wavent",
     "tld": ".ai",
@@ -13258,6 +17878,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "carlet.ai",
+    "name": "carlet",
+    "tld": ".ai",
+    "coolness": 0.8166021521746134,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.26660529756607687,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "praith.ai",
@@ -13303,6 +17938,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "harrie.ai",
+    "name": "harrie",
+    "tld": ".ai",
+    "coolness": 0.8094950368333311,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.26428495761184934,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "siet.ai",
@@ -13455,6 +18105,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "comne.ai",
+    "name": "comne",
+    "tld": ".ai",
+    "coolness": 0.7792341324250466,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.25440533948580724,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "cridi.ai",
     "name": "cridi",
     "tld": ".ai",
@@ -13590,6 +18255,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "stigo.ai",
+    "name": "stigo",
+    "tld": ".ai",
+    "coolness": 0.7465690482435039,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.24374080172399762,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "shaci.ai",
     "name": "shaci",
     "tld": ".ai",
@@ -13680,6 +18360,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "ferl.ai",
+    "name": "ferl",
+    "tld": ".ai",
+    "coolness": 0.7224084093797103,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.2358528059643552,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "trusset.ai",
     "name": "trusset",
     "tld": ".ai",
@@ -13691,7 +18386,7 @@
     "score": 0.23536543041086,
     "strategy": "brandable",
     "status": "available",
-    "source": "rdap-404",
+    "source": "whois-available",
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
@@ -13725,6 +18420,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "coeb.ai",
+    "name": "coeb",
+    "tld": ".ai",
+    "coolness": 0.7195945670100581,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.23493413916894276,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sitom.ai",
     "name": "sitom",
     "tld": ".ai",
@@ -13740,6 +18450,66 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "borealo.ai",
+    "name": "borealo",
+    "tld": ".ai",
+    "coolness": 0.7130021442714398,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.23278183670288843,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "beather.ai",
+    "name": "beather",
+    "tld": ".ai",
+    "coolness": 0.7126412000847785,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.2326639951909192,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "sharble.ai",
+    "name": "sharble",
+    "tld": ".ai",
+    "coolness": 0.712104841120174,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.23248888404165294,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "gateelk.ai",
+    "name": "gateelk",
+    "tld": ".ai",
+    "coolness": 0.7098970794800384,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.2317680912449944,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "galeki.ai",
     "name": "galeki",
     "tld": ".ai",
@@ -13753,6 +18523,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "meside.ai",
+    "name": "meside",
+    "tld": ".ai",
+    "coolness": 0.7022751198508237,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.22927966428019633,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "mastrel.ai",
@@ -13965,6 +18750,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "sebore.ai",
+    "name": "sebore",
+    "tld": ".ai",
+    "coolness": 0.6764391879448415,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.22084471674136297,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "jouleam.ai",
     "name": "jouleam",
     "tld": ".ai",
@@ -13978,6 +18778,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "fastrel.ai",
+    "name": "fastrel",
+    "tld": ".ai",
+    "coolness": 0.6740092636845993,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.2200513920131098,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "ravesu.ai",
@@ -14008,6 +18823,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "pinane.ai",
+    "name": "pinane",
+    "tld": ".ai",
+    "coolness": 0.6687203297402292,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.21832465420781363,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "canapa.ai",
@@ -14053,6 +18883,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "emberyl.ai",
+    "name": "emberyl",
+    "tld": ".ai",
+    "coolness": 0.6578221426063202,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.21476660036723874,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "electern.ai",
@@ -14115,6 +18960,36 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "govale.ai",
+    "name": "govale",
+    "tld": ".ai",
+    "coolness": 0.6466037101685069,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.21110399243711836,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "copebe.ai",
+    "name": "copebe",
+    "tld": ".ai",
+    "coolness": 0.6456801100063817,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.21080245429470743,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sealloom.ai",
     "name": "sealloom",
     "tld": ".ai",
@@ -14175,6 +19050,36 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "frce.ai",
+    "name": "frce",
+    "tld": ".ai",
+    "coolness": 0.6350745557345809,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.20733993959895627,
+    "strategy": "leet",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "groventa.ai",
+    "name": "groventa",
+    "tld": ".ai",
+    "coolness": 0.6348228875341699,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.20725777464839887,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "echoale.ai",
     "name": "echoale",
     "tld": ".ai",
@@ -14188,6 +19093,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "praither.ai",
+    "name": "praither",
+    "tld": ".ai",
+    "coolness": 0.6326531318059657,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.2065493900696623,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "moonowl.ai",
@@ -14250,6 +19170,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "capebolt.ai",
+    "name": "capebolt",
+    "tld": ".ai",
+    "coolness": 0.6255181394388601,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.20421994878898697,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "borl.ai",
     "name": "borl",
     "tld": ".ai",
@@ -14278,6 +19213,21 @@
     "status": "available",
     "source": "whois-available",
     "found_at": "2026-05-28 08:07 UTC"
+  },
+  {
+    "domain": "sagered.ai",
+    "name": "sagered",
+    "tld": ".ai",
+    "coolness": 0.6214312717469249,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.20288566308545308,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "redasar.ai",
@@ -14368,6 +19318,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "lumeale.ai",
+    "name": "lumeale",
+    "tld": ".ai",
+    "coolness": 0.60189258716481,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.19650664877206614,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "smmit.ai",
@@ -14475,6 +19440,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "siennacle.ai",
+    "name": "siennacle",
+    "tld": ".ai",
+    "coolness": 0.5903818285006432,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.19274860180794878,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "neonkeep.ai",
     "name": "neonkeep",
     "tld": ".ai",
@@ -14520,6 +19500,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "siledas.ai",
+    "name": "siledas",
+    "tld": ".ai",
+    "coolness": 0.5812150469706685,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.1897558194462884,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "citdl.ai",
     "name": "citdl",
     "tld": ".ai",
@@ -14563,6 +19558,36 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "hawkvine.ai",
+    "name": "hawkvine",
+    "tld": ".ai",
+    "coolness": 0.5716042324474591,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.18661806863459968,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "phoenitro.ai",
+    "name": "phoenitro",
+    "tld": ".ai",
+    "coolness": 0.571137436672449,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.1864656685629519,
+    "strategy": "brandable",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "forgeyx.ai",
@@ -14685,6 +19710,21 @@
     "found_at": "2026-05-28 08:07 UTC"
   },
   {
+    "domain": "zealouz.ai",
+    "name": "zealouz",
+    "tld": ".ai",
+    "coolness": 0.5576986555794241,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.18207815841166203,
+    "strategy": "leet",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "granither.ai",
     "name": "granither",
     "tld": ".ai",
@@ -14713,6 +19753,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 22:47 UTC"
+  },
+  {
+    "domain": "echoable.ai",
+    "name": "echoable",
+    "tld": ".ai",
+    "coolness": 0.5499245182234136,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.17954004827124748,
+    "strategy": "seeds",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "voltatom.ai",
@@ -15090,6 +20145,21 @@
     "found_at": "2026-05-27 23:47 UTC"
   },
   {
+    "domain": "willowaura.ai",
+    "name": "willowaura",
+    "tld": ".ai",
+    "coolness": 0.4998993022745583,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.16320775285868286,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "lumenkit.ai",
     "name": "lumenkit",
     "tld": ".ai",
@@ -15118,6 +20188,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-28 03:57 UTC"
+  },
+  {
+    "domain": "copperlumen.ai",
+    "name": "copperlumen",
+    "tld": ".ai",
+    "coolness": 0.48735670579058754,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.1591128301855606,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "ternoracle.ai",
@@ -15163,6 +20248,21 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "aldersky.ai",
+    "name": "aldersky",
+    "tld": ".ai",
+    "coolness": 0.48133861920054416,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.1571480377075537,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
   },
   {
     "domain": "hollowbolt.ai",
@@ -15285,6 +20385,21 @@
     "found_at": "2026-05-27 22:47 UTC"
   },
   {
+    "domain": "alderheron.ai",
+    "name": "alderheron",
+    "tld": ".ai",
+    "coolness": 0.4603575710415372,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.15029811871972798,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "quantumalder.ai",
     "name": "quantumalder",
     "tld": ".ai",
@@ -15315,6 +20430,21 @@
     "found_at": "2026-05-28 03:57 UTC"
   },
   {
+    "domain": "silvercipher.ai",
+    "name": "silvercipher",
+    "tld": ".ai",
+    "coolness": 0.45505989361273963,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.1485685263306405,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
     "domain": "sphinxfern.ai",
     "name": "sphinxfern",
     "tld": ".ai",
@@ -15343,5 +20473,35 @@
     "status": "available",
     "source": "rdap-404",
     "found_at": "2026-05-27 23:47 UTC"
+  },
+  {
+    "domain": "quaintspark.ai",
+    "name": "quaintspark",
+    "tld": ".ai",
+    "coolness": 0.4510843187901333,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.1472705756630423,
+    "strategy": "words",
+    "status": "available",
+    "source": "rdap-404",
+    "found_at": "2026-05-28 11:06 UTC"
+  },
+  {
+    "domain": "cloverflux.ai",
+    "name": "cloverflux",
+    "tld": ".ai",
+    "coolness": 0.4508139522277566,
+    "available": true,
+    "price": 82.7,
+    "renewal": 82.7,
+    "premium": false,
+    "score": 0.14718230604775606,
+    "strategy": "words",
+    "status": "available",
+    "source": "whois-available",
+    "found_at": "2026-05-28 11:06 UTC"
   }
 ]
