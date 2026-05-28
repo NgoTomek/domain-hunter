@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-28 19:09 UTC · 35616 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 19:25 UTC · 36329 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -108,7 +108,7 @@ _Updated 2026-05-28 19:09 UTC · 35616 names — auto-updated by GitHub Actions.
 | 100 | `pulime.com` | 0.75 | ~$11.08 | ~$11.08 | available |
 | 101 | `halole.com` | 0.75 | ~$11.08 | ~$11.08 | available |
 | 102 | `stagowl.com` | 0.75 | — | — | available |
-| 103 | `siled.io` | 0.79 | — | — | available |
+| 103 | `siled.io` | 0.79 | ~$28.12 | ~$51.80 | available |
 | 104 | `codeelk.com` | 0.75 | ~$11.08 | ~$11.08 | available |
 | 105 | `warave.com` | 0.75 | ~$11.08 | ~$11.08 | available |
 | 106 | `relale.com` | 0.75 | ~$11.08 | ~$11.08 | available |

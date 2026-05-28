@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-28 19:09 UTC · 34658 names — auto-updated by GitHub Actions._
+_Updated 2026-05-28 19:25 UTC · 35374 names — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -125,34 +125,34 @@ _Updated 2026-05-28 19:09 UTC · 34658 names — auto-updated by GitHub Actions.
 | 117 | `cobke.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 118 | `covko.com` | 0.74 | ~$11.08 | ~$11.08 | available |
 | 119 | `covpo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 120 | `cagale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 121 | `pririe.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 122 | `mesaion.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 123 | `meshoak.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 124 | `sparrie.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 125 | `ranitro.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 126 | `ferime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 127 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 128 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 129 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 130 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 131 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 132 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 133 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 134 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 135 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 136 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 137 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 138 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 139 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
-| 140 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 141 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 142 | `sunkeel.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 143 | `secresh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 144 | `meswu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 145 | `mesuh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 146 | `meszu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 147 | `mesfo.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 148 | `mesiw.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 149 | `merhe.com` | 0.73 | ~$11.08 | ~$11.08 | available |
-| 150 | `mesiz.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 120 | `covbu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 121 | `cagale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 122 | `pririe.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 123 | `mesaion.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 124 | `meshoak.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 125 | `sparrie.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 126 | `ranitro.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 127 | `ferime.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 128 | `copuf.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 129 | `oriolem.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 130 | `ternelm.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 131 | `halar.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 132 | `magega.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 133 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 134 | `comewo.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 135 | `comepu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 136 | `comewu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 137 | `comemu.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 138 | `steze.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 139 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 140 | `cegale.com` | 0.74 | ~$11.08 | ~$11.08 | available |
+| 141 | `hern.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 142 | `tiden.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 143 | `sunkeel.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 144 | `secresh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 145 | `meswu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 146 | `mesuh.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 147 | `meszu.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 148 | `mesfo.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 149 | `mesiw.com` | 0.73 | ~$11.08 | ~$11.08 | available |
+| 150 | `merhe.com` | 0.73 | ~$11.08 | ~$11.08 | available |
