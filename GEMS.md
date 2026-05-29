@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 22:42 UTC · 69,908 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 22:57 UTC · 70,038 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -691,19 +691,19 @@ _Updated 2026-05-29 22:42 UTC · 69,908 names (showing top 1,000) — auto-updat
 | 683 | `staso.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 684 | `staza.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 685 | `stafu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 686 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 687 | `stacu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 688 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 689 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 690 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 691 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 692 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 693 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 694 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 695 | `stabe.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 696 | `stavi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 697 | `stamu.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 698 | `staba.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 686 | `staba.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 687 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 688 | `stacu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 689 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 690 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 691 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 692 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 693 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 694 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 695 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 696 | `stabe.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 697 | `stavi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 698 | `stamu.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 699 | `stafi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 700 | `stako.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 701 | `stabi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
