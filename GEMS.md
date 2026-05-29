@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 18:42 UTC · 67,531 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -164,7 +164,7 @@ _Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updat
 | 156 | `stonu.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 157 | `stona.app` | 0.85 | ~$10.81 | ~$14.93 | available |
 | 158 | `stane.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
-| 159 | `stano.app` | 0.85 | ~$10.81 | ~$14.93 | available |
+| 159 | `stano.app` | 0.85 | — | — | available |
 | 160 | `fatom.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 161 | `viole.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 162 | `racle.app` | 0.85 | ~$10.81 | ~$14.93 | available |
@@ -177,8 +177,8 @@ _Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updat
 | 169 | `ridger.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 170 | `wilden.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 171 | `cedark.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
-| 172 | `stomi.app` | 0.85 | ~$10.81 | ~$14.93 | available |
-| 173 | `stole.dev` | 0.85 | ~$10.81 | ~$12.87 | available |
+| 172 | `stole.me` | 0.85 | ~$8.80 | ~$17.27 | available |
+| 173 | `stomi.app` | 0.85 | ~$10.81 | ~$14.93 | available |
 | 174 | `halot.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 175 | `rel.dev` | 0.85 | ~$10.81 | ~$12.87 | available |
 | 176 | `meam.dev` | 0.85 | ~$10.81 | ~$12.87 | available |
@@ -241,7 +241,7 @@ _Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updat
 | 233 | `sunel.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 234 | `bridi.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 235 | `atomc.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
-| 236 | `wrent.app` | 0.84 | ~$10.81 | ~$14.93 | available |
+| 236 | `wrent.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 237 | `stealo.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 238 | `cleve.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 239 | `siper.app` | 0.84 | ~$10.81 | ~$14.93 | available |
@@ -416,7 +416,7 @@ _Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updat
 | 408 | `sural.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 409 | `stady.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 410 | `spene.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 411 | `brame.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
+| 411 | `brame.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 412 | `mellar.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 413 | `fernet.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
 | 414 | `sharbo.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
@@ -464,7 +464,7 @@ _Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updat
 | 456 | `mesate.com` | 0.82 | ~$11.08 | ~$11.08 | available |
 | 457 | `valem.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 458 | `reral.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 459 | `frove.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 459 | `frove.xyz` | 0.82 | — | — | available |
 | 460 | `helar.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 461 | `flime.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 462 | `stenu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
@@ -504,7 +504,7 @@ _Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updat
 | 496 | `covene.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 497 | `flet.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
 | 498 | `keral.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 499 | `sidge.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 499 | `sidge.xyz` | 0.82 | — | — | available |
 | 500 | `macle.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 501 | `cobale.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 502 | `canu.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
@@ -609,7 +609,7 @@ _Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updat
 | 601 | `clale.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 602 | `car.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 603 | `shadu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 604 | `siger.dev` | 0.81 | — | — | available |
+| 604 | `siger.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 605 | `feralo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 606 | `nectal.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 607 | `spry.sh` | 0.81 | — | — | available |
@@ -637,34 +637,34 @@ _Updated 2026-05-29 18:27 UTC · 67,368 names (showing top 1,000) — auto-updat
 | 629 | `stafo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 630 | `staki.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 631 | `stamo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 632 | `staha.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 633 | `stazo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 634 | `stase.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 635 | `stapo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 636 | `stahi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 637 | `stawe.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 638 | `stahe.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 639 | `stapu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 640 | `stafe.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 641 | `stawa.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 642 | `stazi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 643 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 644 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 645 | `staso.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 646 | `staza.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 647 | `stafu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 648 | `stamu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 649 | `staba.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 650 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 651 | `stacu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 652 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 653 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 654 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 655 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 656 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 657 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 658 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 659 | `stapa.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 632 | `stapa.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 633 | `staha.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 634 | `stazo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 635 | `stase.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 636 | `stapo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 637 | `stahi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 638 | `stawe.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 639 | `stahe.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 640 | `stapu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 641 | `stafe.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 642 | `stawa.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 643 | `stazi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 644 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 645 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 646 | `staso.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 647 | `staza.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 648 | `stafu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 649 | `stamu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 650 | `staba.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 651 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 652 | `stacu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 653 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 654 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 655 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 656 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 657 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 658 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 659 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 660 | `stabe.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 661 | `stavi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 662 | `stafi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
