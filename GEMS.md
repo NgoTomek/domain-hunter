@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 15:55 UTC · 65,696 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 16:10 UTC · 65,862 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -138,8 +138,8 @@ _Updated 2026-05-29 15:55 UTC · 65,696 names (showing top 1,000) — auto-updat
 | 130 | `cosar.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
 | 131 | `codow.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
 | 132 | `cosmu.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
-| 133 | `steru.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
-| 134 | `stero.xyz` | 0.86 | — | — | available |
+| 133 | `stero.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
+| 134 | `steru.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
 | 135 | `quartz.sh` | 0.86 | ~$31.20 | ~$46.65 | available |
 | 136 | `oral.sh` | 0.86 | ~$31.20 | ~$46.65 | available |
 | 137 | `sunar.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
