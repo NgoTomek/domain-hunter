@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-29 02:56 UTC · 51,667 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 03:12 UTC · 52,057 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -841,10 +841,10 @@ _Updated 2026-05-29 02:56 UTC · 51,667 names (showing top 1,000) — auto-updat
 | 833 | `haloh.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 834 | `haloz.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 835 | `halol.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 836 | `halok.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 837 | `halob.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 838 | `halor.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 839 | `haloc.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 836 | `haloc.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 837 | `halok.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 838 | `halob.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 839 | `halor.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 840 | `halog.me` | 0.79 | ~$8.80 | ~$17.27 | available |
 | 841 | `halom.dev` | 0.79 | ~$10.81 | ~$12.87 | available |
 | 842 | `flone.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
@@ -977,32 +977,32 @@ _Updated 2026-05-29 02:56 UTC · 51,667 names (showing top 1,000) — auto-updat
 | 969 | `sagale.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 970 | `helime.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 971 | `pilove.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 972 | `megar.app` | 0.78 | ~$10.81 | ~$14.93 | available |
-| 973 | `foral.dev` | 0.78 | ~$10.81 | ~$12.87 | available |
-| 974 | `ravale.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 975 | `stime.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 976 | `echor.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 977 | `grago.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 978 | `pridi.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 979 | `prale.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 980 | `cleze.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 981 | `clevu.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 982 | `sible.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 983 | `clole.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 984 | `crimu.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 985 | `crimi.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 986 | `crimo.dev` | 0.78 | ~$10.81 | ~$12.87 | available |
-| 987 | `brel.dev` | 0.78 | ~$10.81 | ~$12.87 | available |
-| 988 | `clotu.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 989 | `shode.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 990 | `merove.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 991 | `gallark.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 992 | `sinel.app` | 0.78 | ~$10.81 | ~$14.93 | available |
-| 993 | `necter.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 994 | `cresty.app` | 0.78 | ~$10.81 | ~$14.93 | available |
-| 995 | `betal.dev` | 0.78 | ~$10.81 | ~$12.87 | available |
-| 996 | `migate.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 997 | `rasar.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 998 | `rawan.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 999 | `garne.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
-| 1000 | `mesape.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 972 | `cocove.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 973 | `megar.app` | 0.78 | ~$10.81 | ~$14.93 | available |
+| 974 | `foral.dev` | 0.78 | ~$10.81 | ~$12.87 | available |
+| 975 | `ravale.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 976 | `stime.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 977 | `echor.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 978 | `grago.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 979 | `pridi.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 980 | `prale.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 981 | `cleze.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 982 | `clevu.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 983 | `sible.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 984 | `clole.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 985 | `crimu.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 986 | `crimi.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 987 | `crimo.dev` | 0.78 | ~$10.81 | ~$12.87 | available |
+| 988 | `brel.dev` | 0.78 | ~$10.81 | ~$12.87 | available |
+| 989 | `clotu.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 990 | `shode.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 991 | `merove.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 992 | `gallark.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 993 | `sinel.app` | 0.78 | ~$10.81 | ~$14.93 | available |
+| 994 | `necter.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 995 | `cresty.app` | 0.78 | ~$10.81 | ~$14.93 | available |
+| 996 | `betal.dev` | 0.78 | ~$10.81 | ~$12.87 | available |
+| 997 | `migate.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 998 | `rasar.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 999 | `rawan.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |
+| 1000 | `garne.xyz` | 0.78 | ~$2.04 | ~$12.98 | available |

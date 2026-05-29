@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 02:56 UTC · 52,054 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 03:12 UTC · 52,440 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -900,10 +900,10 @@ _Updated 2026-05-29 02:56 UTC · 52,054 names (showing top 1,000) — auto-updat
 | 892 | `haloh.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 893 | `haloz.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 894 | `halol.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 895 | `halok.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 896 | `halob.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 897 | `halor.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 898 | `haloc.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 895 | `haloc.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 896 | `halok.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 897 | `halob.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 898 | `halor.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 899 | `halog.me` | 0.79 | ~$8.80 | ~$17.27 | available |
 | 900 | `halom.dev` | 0.79 | ~$10.81 | ~$12.87 | available |
 | 901 | `flone.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
