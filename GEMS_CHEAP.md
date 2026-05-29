@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-29 07:57 UTC · 58,220 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 08:12 UTC · 58,542 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -550,8 +550,8 @@ _Updated 2026-05-29 07:57 UTC · 58,220 names (showing top 1,000) — auto-updat
 | 542 | `stacu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 543 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 544 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 545 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 546 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 545 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 546 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 547 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 548 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 549 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |

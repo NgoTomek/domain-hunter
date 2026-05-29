@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 07:57 UTC · 58,599 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 08:12 UTC · 58,916 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -598,8 +598,8 @@ _Updated 2026-05-29 07:57 UTC · 58,599 names (showing top 1,000) — auto-updat
 | 590 | `stacu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 591 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 592 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 593 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 594 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 593 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 594 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 595 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 596 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 597 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |
