@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-29 10:55 UTC · 61,258 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 11:10 UTC · 61,460 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -181,7 +181,7 @@ _Updated 2026-05-29 10:55 UTC · 61,258 names (showing top 1,000) — auto-updat
 | 173 | `sier.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 174 | `maged.app` | 0.84 | ~$10.81 | ~$14.93 | available |
 | 175 | `gleaf.me` | 0.84 | ~$8.80 | ~$17.27 | available |
-| 176 | `roral.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
+| 176 | `roral.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 177 | `sparu.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 178 | `sunal.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 179 | `sunel.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |

@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 10:55 UTC · 61,643 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 11:10 UTC · 61,843 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -220,7 +220,7 @@ _Updated 2026-05-29 10:55 UTC · 61,643 names (showing top 1,000) — auto-updat
 | 212 | `maged.app` | 0.84 | ~$10.81 | ~$14.93 | available |
 | 213 | `bast.sh` | 0.84 | ~$31.20 | ~$46.65 | available |
 | 214 | `gleaf.me` | 0.84 | ~$8.80 | ~$17.27 | available |
-| 215 | `roral.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
+| 215 | `roral.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 216 | `sparu.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 217 | `sunal.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 218 | `sunel.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
