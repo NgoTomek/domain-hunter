@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-29 04:54 UTC · 54,486 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 05:09 UTC · 54,829 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -386,7 +386,7 @@ _Updated 2026-05-29 04:54 UTC · 54,486 names (showing top 1,000) — auto-updat
 | 378 | `mear.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 379 | `halone.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 380 | `ternel.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 381 | `pital.app` | 0.82 | ~$10.81 | ~$14.93 | available |
+| 381 | `pital.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 382 | `gold.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 383 | `canda.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 384 | `reek.app` | 0.82 | ~$10.81 | ~$14.93 | available |
@@ -1000,9 +1000,9 @@ _Updated 2026-05-29 04:54 UTC · 54,486 names (showing top 1,000) — auto-updat
 | 992 | `mesame.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 993 | `mesane.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 994 | `mesano.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 995 | `cipse.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 996 | `ciphe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 997 | `bridu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 998 | `brisi.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 999 | `briso.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 1000 | `gridger.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 995 | `mital.app` | 0.79 | ~$10.81 | ~$14.93 | available |
+| 996 | `cipse.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 997 | `ciphe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 998 | `bridu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 999 | `brisi.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 1000 | `briso.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |

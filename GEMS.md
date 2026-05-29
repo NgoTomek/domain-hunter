@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 04:54 UTC · 54,869 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 05:09 UTC · 55,209 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -427,7 +427,7 @@ _Updated 2026-05-29 04:54 UTC · 54,869 names (showing top 1,000) — auto-updat
 | 419 | `mear.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 420 | `halone.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 421 | `ternel.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 422 | `pital.app` | 0.82 | ~$10.81 | ~$14.93 | available |
+| 422 | `pital.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 423 | `gold.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 424 | `canda.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 425 | `reek.app` | 0.82 | ~$10.81 | ~$14.93 | available |
