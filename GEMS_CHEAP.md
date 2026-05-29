@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-29 02:41 UTC · 51,274 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 02:56 UTC · 51,667 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -249,8 +249,8 @@ _Updated 2026-05-29 02:41 UTC · 51,274 names (showing top 1,000) — auto-updat
 | 241 | `opaz.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 242 | `coveg.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 243 | `covep.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 244 | `covev.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 245 | `covem.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 244 | `covem.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 245 | `covev.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 246 | `coveb.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 247 | `covez.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 248 | `covew.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
@@ -448,10 +448,10 @@ _Updated 2026-05-29 02:41 UTC · 51,274 names (showing top 1,000) — auto-updat
 | 440 | `stogo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 441 | `stoce.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 442 | `stosu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 443 | `stodu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 444 | `stohi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 445 | `stovo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 446 | `stose.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 443 | `stose.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 444 | `stodu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 445 | `stohi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 446 | `stovo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 447 | `stovu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 448 | `stozu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 449 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
@@ -515,14 +515,14 @@ _Updated 2026-05-29 02:41 UTC · 51,274 names (showing top 1,000) — auto-updat
 | 507 | `staso.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 508 | `staza.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 509 | `stafu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 510 | `staba.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 511 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 512 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 513 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 514 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 515 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 516 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 517 | `stamu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 510 | `stamu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 511 | `staba.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 512 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 513 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 514 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 515 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 516 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 517 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 518 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 519 | `stabe.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 520 | `stavi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
@@ -540,8 +540,8 @@ _Updated 2026-05-29 02:41 UTC · 51,274 names (showing top 1,000) — auto-updat
 | 532 | `stopi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 533 | `stowo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 534 | `stolu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 535 | `stowu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 536 | `stogu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 535 | `stogu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 536 | `stowu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 537 | `stoki.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 538 | `iridge.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 539 | `vinal.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |

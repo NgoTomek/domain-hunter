@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 02:41 UTC · 51,662 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 02:56 UTC · 52,054 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -277,8 +277,8 @@ _Updated 2026-05-29 02:41 UTC · 51,662 names (showing top 1,000) — auto-updat
 | 269 | `opaz.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 270 | `coveg.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 271 | `covep.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 272 | `covev.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 273 | `covem.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 272 | `covem.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 273 | `covev.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 274 | `coveb.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 275 | `covez.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 276 | `covew.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
@@ -487,10 +487,10 @@ _Updated 2026-05-29 02:41 UTC · 51,662 names (showing top 1,000) — auto-updat
 | 479 | `stogo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 480 | `stoce.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 481 | `stosu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 482 | `stodu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 483 | `stohi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 484 | `stovo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 485 | `stose.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 482 | `stose.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 483 | `stodu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 484 | `stohi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 485 | `stovo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 486 | `stovu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 487 | `stozu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 488 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
@@ -555,14 +555,14 @@ _Updated 2026-05-29 02:41 UTC · 51,662 names (showing top 1,000) — auto-updat
 | 547 | `staso.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 548 | `staza.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 549 | `stafu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 550 | `staba.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 551 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 552 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 553 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 554 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 555 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 556 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 557 | `stamu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 550 | `stamu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 551 | `staba.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 552 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 553 | `staku.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 554 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 555 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 556 | `statu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 557 | `stavu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 558 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 559 | `stabe.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 560 | `stavi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
@@ -581,8 +581,8 @@ _Updated 2026-05-29 02:41 UTC · 51,662 names (showing top 1,000) — auto-updat
 | 573 | `stopi.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 574 | `stowo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 575 | `stolu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 576 | `stowu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 577 | `stogu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 576 | `stogu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 577 | `stowu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 578 | `stoki.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 579 | `stoko.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
 | 580 | `stoli.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
