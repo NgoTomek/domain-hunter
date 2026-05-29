@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-29 20:08 UTC · 68,441 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -34,7 +34,7 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 26 | `mager.sh` | 0.89 | ~$31.20 | ~$46.65 | available |
 | 27 | `halow.app` | 0.89 | ~$10.81 | ~$14.93 | available |
 | 28 | `cand.sh` | 0.89 | ~$31.20 | ~$46.65 | available |
-| 29 | `heral.xyz` | 0.89 | ~$2.04 | ~$12.98 | available |
+| 29 | `heral.xyz` | 0.89 | — | — | available |
 | 30 | `sunlit.sh` | 0.89 | ~$31.20 | ~$46.65 | available |
 | 31 | `coble.app` | 0.89 | ~$10.81 | ~$14.93 | available |
 | 32 | `megal.me` | 0.89 | ~$8.80 | ~$17.27 | available |
@@ -67,7 +67,7 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 59 | `fron.me` | 0.88 | ~$8.80 | ~$17.27 | available |
 | 60 | `capen.xyz` | 0.88 | ~$2.04 | ~$12.98 | available |
 | 61 | `brid.dev` | 0.88 | ~$10.81 | ~$12.87 | available |
-| 62 | `stic.sh` | 0.88 | ~$31.20 | ~$46.65 | available |
+| 62 | `stic.sh` | 0.88 | — | — | available |
 | 63 | `coreal.dev` | 0.88 | ~$10.81 | ~$12.87 | available |
 | 64 | `stalo.xyz` | 0.88 | ~$2.04 | ~$12.98 | available |
 | 65 | `seron.dev` | 0.88 | ~$10.81 | ~$12.87 | available |
@@ -82,7 +82,7 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 74 | `spara.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
 | 75 | `can.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
 | 76 | `corge.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 77 | `galark.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
+| 77 | `galark.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
 | 78 | `stode.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
 | 79 | `gatom.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
 | 80 | `stoney.sh` | 0.87 | ~$31.20 | ~$46.65 | available |
@@ -193,14 +193,14 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 185 | `silar.app` | 0.85 | ~$10.81 | ~$14.93 | available |
 | 186 | `megate.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 187 | `brism.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
-| 188 | `brisp.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
+| 188 | `brisp.me` | 0.85 | ~$8.80 | ~$17.27 | available |
 | 189 | `stalu.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 190 | `spure.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 191 | `sagate.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 192 | `crisk.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 193 | `pilow.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 194 | `golet.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
-| 195 | `rega.sh` | 0.85 | ~$31.20 | ~$46.65 | available |
+| 195 | `rega.sh` | 0.85 | — | — | available |
 | 196 | `stali.app` | 0.84 | ~$10.81 | ~$14.93 | available |
 | 197 | `regale.sh` | 0.84 | ~$31.20 | ~$46.65 | available |
 | 198 | `canel.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
@@ -273,7 +273,7 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 265 | `sequo.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 266 | `seret.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 267 | `summi.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 268 | `stral.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 268 | `stral.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 269 | `maper.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 270 | `seef.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 271 | `cosle.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
@@ -479,7 +479,7 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 471 | `siver.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 472 | `virid.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 473 | `prine.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 474 | `brav.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 474 | `brav.xyz` | 0.82 | — | — | available |
 | 475 | `salar.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
 | 476 | `mesave.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 477 | `coran.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
@@ -546,7 +546,7 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 538 | `copure.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 539 | `wolar.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 540 | `bolded.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 541 | `fastic.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 541 | `fastic.sh` | 0.81 | — | — | available |
 | 542 | `calow.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 543 | `spime.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 544 | `spane.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
@@ -592,13 +592,13 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 584 | `stozo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 585 | `stohu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 586 | `stozu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 587 | `stovu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 588 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 589 | `stosa.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 590 | `stofu.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 591 | `stofi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 592 | `stoza.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 593 | `stota.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 587 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 588 | `stosa.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 589 | `stofu.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 590 | `stofi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 591 | `stoza.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 592 | `stota.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 593 | `stovu.xyz` | 0.81 | — | — | available |
 | 594 | `ferven.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 595 | `feraw.xyz` | 0.81 | — | — | available |
 | 596 | `fierce.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
@@ -717,23 +717,23 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 709 | `seble.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 710 | `sutal.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 711 | `seper.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 712 | `covot.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 713 | `cobag.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 714 | `coppa.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 715 | `cobad.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 716 | `cople.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 717 | `copid.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 718 | `coppo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 719 | `cobap.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 720 | `cobab.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 721 | `covil.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 722 | `cobaf.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 723 | `cobac.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 724 | `cobav.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 725 | `cobaz.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 726 | `cobah.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 727 | `cobaw.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 728 | `cobam.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 712 | `cobam.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 713 | `covot.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 714 | `cobag.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 715 | `coppa.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 716 | `cobad.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 717 | `cople.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 718 | `copid.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 719 | `coppo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 720 | `cobap.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 721 | `cobab.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 722 | `covil.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 723 | `cobaf.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 724 | `cobac.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 725 | `cobav.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 726 | `cobaz.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 727 | `cobah.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 728 | `cobaw.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 729 | `cobak.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 730 | `coppu.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 731 | `cobus.app` | 0.81 | ~$10.81 | ~$14.93 | available |
@@ -806,7 +806,7 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 798 | `stomu.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 799 | `stomo.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 800 | `coralu.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 801 | `lital.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 801 | `lital.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
 | 802 | `grale.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 803 | `stola.app` | 0.80 | ~$10.81 | ~$14.93 | available |
 | 804 | `violt.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
@@ -959,7 +959,7 @@ _Updated 2026-05-29 19:58 UTC · 68,349 names (showing top 1,000) — auto-updat
 | 951 | `marbor.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 952 | `metom.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 953 | `meton.me` | 0.79 | ~$8.80 | ~$17.27 | available |
-| 954 | `meraw.dev` | 0.79 | ~$10.81 | ~$12.87 | available |
+| 954 | `meraw.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 955 | `fasar.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 956 | `starink.app` | 0.79 | ~$10.81 | ~$14.93 | available |
 | 957 | `netal.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
