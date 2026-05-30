@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-30 09:12 UTC · 74,707 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 09:27 UTC · 74,813 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -598,7 +598,7 @@ _Updated 2026-05-30 09:12 UTC · 74,707 names (showing top 1,000) — auto-updat
 | 590 | `masus.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 591 | `mapid.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 592 | `steni.app` | 0.82 | ~$10.81 | ~$14.93 | available |
-| 593 | `sigate.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
+| 593 | `sigate.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 594 | `carlet.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 595 | `cager.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 596 | `praith.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
