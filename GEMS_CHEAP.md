@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-30 06:58 UTC · 72,849 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 07:10 UTC · 72,936 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -109,7 +109,7 @@ _Updated 2026-05-30 06:58 UTC · 72,849 names (showing top 1,000) — auto-updat
 | 101 | `cober.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
 | 102 | `seel.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
 | 103 | `siron.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 104 | `corale.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 104 | `corale.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
 | 105 | `cob.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
 | 106 | `steri.me` | 0.86 | ~$8.80 | ~$17.27 | available |
 | 107 | `magate.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
