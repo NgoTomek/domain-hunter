@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-30 16:15 UTC · 76,449 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 16:30 UTC · 76,547 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -411,8 +411,8 @@ _Updated 2026-05-30 16:15 UTC · 76,449 names (showing top 1,000) — auto-updat
 | 403 | `steki.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 404 | `steko.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 405 | `steke.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 406 | `stemo.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 407 | `stefa.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 406 | `stefa.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 407 | `stemo.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 408 | `sural.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 409 | `stady.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 410 | `spene.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
