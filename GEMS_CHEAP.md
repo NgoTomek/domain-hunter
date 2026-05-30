@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-30 23:42 UTC · 78,576 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 23:43 UTC · 78,579 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -916,7 +916,7 @@ _Updated 2026-05-30 23:42 UTC · 78,576 names (showing top 1,000) — auto-updat
 | 908 | `calate.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 909 | `verce.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
 | 910 | `suntern.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 911 | `ternet.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 911 | `ternet.me` | 0.80 | ~$8.80 | ~$17.27 | available |
 | 912 | `wrave.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 913 | `capega.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 914 | `rugge.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
