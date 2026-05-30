@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-30 05:43 UTC · 72,293 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 05:58 UTC · 72,403 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -975,34 +975,34 @@ _Updated 2026-05-30 05:43 UTC · 72,293 names (showing top 1,000) — auto-updat
 | 967 | `codese.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 968 | `codemi.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
 | 969 | `codegi.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 970 | `codefo.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 971 | `codefe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 972 | `codepe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 973 | `codeba.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 974 | `codeka.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 975 | `codefa.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 976 | `codewi.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 977 | `codesu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 978 | `codewu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 979 | `codeti.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 980 | `codepa.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 981 | `codege.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 982 | `codewa.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 983 | `codevu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 984 | `codeha.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 985 | `codehe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 986 | `codezu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 987 | `codeki.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 988 | `codetu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 989 | `codeku.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 990 | `codegu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 991 | `codehi.app` | 0.79 | ~$10.81 | ~$14.93 | available |
-| 992 | `codesi.app` | 0.79 | ~$10.81 | ~$14.93 | available |
-| 993 | `codehu.dev` | 0.79 | ~$10.81 | ~$12.87 | available |
-| 994 | `codebe.app` | 0.79 | ~$10.81 | ~$14.93 | available |
-| 995 | `veren.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 996 | `magpa.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 997 | `magpe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 998 | `matum.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 999 | `magpu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
-| 1000 | `magpo.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 970 | `codeho.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 971 | `codefo.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 972 | `codefe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 973 | `codepe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 974 | `codeba.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 975 | `codeka.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 976 | `codefa.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 977 | `codewi.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 978 | `codesu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 979 | `codewu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 980 | `codeti.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 981 | `codepa.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 982 | `codege.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 983 | `codewa.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 984 | `codevu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 985 | `codeha.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 986 | `codehe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 987 | `codezu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 988 | `codeki.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 989 | `codetu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 990 | `codeku.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 991 | `codegu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 992 | `codehi.app` | 0.79 | ~$10.81 | ~$14.93 | available |
+| 993 | `codesi.app` | 0.79 | ~$10.81 | ~$14.93 | available |
+| 994 | `codehu.dev` | 0.79 | ~$10.81 | ~$12.87 | available |
+| 995 | `codebe.app` | 0.79 | ~$10.81 | ~$14.93 | available |
+| 996 | `veren.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 997 | `magpa.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 998 | `magpe.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 999 | `matum.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
+| 1000 | `magpu.xyz` | 0.79 | ~$2.04 | ~$12.98 | available |
