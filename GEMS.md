@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-30 10:59 UTC · 75,410 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 11:14 UTC · 75,518 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -343,8 +343,8 @@ _Updated 2026-05-30 10:59 UTC · 75,410 names (showing top 1,000) — auto-updat
 | 335 | `cosun.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 336 | `comef.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 337 | `corow.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 338 | `comec.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 339 | `comek.xyz` | 0.83 | — | — | available |
+| 338 | `comek.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 339 | `comec.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 340 | `corce.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 341 | `harde.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 342 | `hardi.app` | 0.83 | ~$10.81 | ~$14.93 | available |
