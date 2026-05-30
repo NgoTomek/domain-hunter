@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-30 20:14 UTC · 78,462 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 20:29 UTC · 78,524 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -268,7 +268,7 @@ _Updated 2026-05-30 20:14 UTC · 78,462 names (showing top 1,000) — auto-updat
 | 260 | `tider.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 261 | `comesa.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 262 | `comete.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
-| 263 | `saged.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
+| 263 | `saged.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 264 | `ceral.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 265 | `codove.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 266 | `silem.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |

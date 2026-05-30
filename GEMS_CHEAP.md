@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-30 20:14 UTC · 77,626 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 20:29 UTC · 77,694 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -204,7 +204,7 @@ _Updated 2026-05-30 20:14 UTC · 77,626 names (showing top 1,000) — auto-updat
 | 196 | `tider.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 197 | `comesa.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 198 | `comete.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
-| 199 | `saged.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
+| 199 | `saged.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 200 | `ceral.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 201 | `codove.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 202 | `silem.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
