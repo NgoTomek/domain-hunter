@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-30 07:10 UTC · 72,936 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 07:11 UTC · 72,942 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -173,7 +173,7 @@ _Updated 2026-05-30 07:10 UTC · 72,936 names (showing top 1,000) — auto-updat
 | 165 | `spure.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 166 | `sagate.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 167 | `crisk.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
-| 168 | `crism.dev` | 0.85 | ~$10.81 | ~$12.87 | available |
+| 168 | `crism.me` | 0.85 | ~$8.80 | ~$17.27 | available |
 | 169 | `pilow.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 170 | `golet.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
 | 171 | `stali.app` | 0.84 | ~$10.81 | ~$14.93 | available |
