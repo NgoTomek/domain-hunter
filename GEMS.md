@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-30 18:27 UTC · 77,985 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 18:42 UTC · 78,063 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -596,8 +596,8 @@ _Updated 2026-05-30 18:27 UTC · 77,985 names (showing top 1,000) — auto-updat
 | 588 | `reek.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 589 | `reez.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
 | 590 | `cange.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 591 | `canet.app` | 0.82 | ~$10.81 | ~$14.93 | available |
-| 592 | `canic.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
+| 591 | `canic.me` | 0.82 | ~$8.80 | ~$17.27 | available |
+| 592 | `canet.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 593 | `opaque.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
 | 594 | `covene.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 595 | `flet.sh` | 0.82 | ~$31.20 | ~$46.65 | available |

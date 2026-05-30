@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-30 18:27 UTC · 77,130 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 18:42 UTC · 77,210 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -501,8 +501,8 @@ _Updated 2026-05-30 18:27 UTC · 77,130 names (showing top 1,000) — auto-updat
 | 493 | `canda.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 494 | `reek.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 495 | `cange.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 496 | `canet.app` | 0.82 | ~$10.81 | ~$14.93 | available |
-| 497 | `canic.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
+| 496 | `canic.me` | 0.82 | ~$8.80 | ~$17.27 | available |
+| 497 | `canet.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 498 | `covene.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 499 | `keral.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 500 | `sidge.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
