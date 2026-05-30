@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-29 23:58 UTC · 70,592 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 00:13 UTC · 70,722 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -481,7 +481,7 @@ _Updated 2026-05-29 23:58 UTC · 70,592 names (showing top 1,000) — auto-updat
 | 473 | `fier.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
 | 474 | `caple.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 475 | `zesty.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
-| 476 | `primu.xyz` | 0.82 | — | — | available |
+| 476 | `primu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 477 | `pivory.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 478 | `covale.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 479 | `melta.me` | 0.82 | ~$8.80 | ~$17.27 | available |
@@ -490,8 +490,8 @@ _Updated 2026-05-29 23:58 UTC · 70,592 names (showing top 1,000) — auto-updat
 | 482 | `cagate.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 483 | `scave.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 484 | `solet.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
-| 485 | `mesale.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
-| 486 | `mesate.com` | 0.82 | ~$11.08 | ~$11.08 | available |
+| 485 | `mesate.me` | 0.82 | ~$8.80 | ~$17.27 | available |
+| 486 | `mesale.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 487 | `valem.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 488 | `reral.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 489 | `frove.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
@@ -766,13 +766,13 @@ _Updated 2026-05-29 23:58 UTC · 70,592 names (showing top 1,000) — auto-updat
 | 758 | `covil.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 759 | `cobaf.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 760 | `cobac.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 761 | `cobav.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 762 | `cobaz.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 763 | `cobah.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 764 | `cobaw.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 765 | `cobat.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 766 | `cobak.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 767 | `coppu.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 761 | `coppu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 762 | `cobav.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 763 | `cobaz.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 764 | `cobah.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 765 | `cobaw.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 766 | `cobat.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 767 | `cobak.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 768 | `cobus.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 769 | `cotus.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 770 | `coresa.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
