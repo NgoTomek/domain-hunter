@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-30 04:57 UTC · 72,927 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-30 05:13 UTC · 73,043 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -968,41 +968,41 @@ _Updated 2026-05-30 04:57 UTC · 72,927 names (showing top 1,000) — auto-updat
 | 960 | `canite.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 961 | `calate.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 962 | `verce.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 963 | `suntern.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 964 | `ternet.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 965 | `wrave.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 966 | `capega.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 967 | `rugge.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 968 | `redwo.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 969 | `late.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 970 | `rade.sh` | 0.80 | ~$31.20 | ~$46.65 | available |
-| 971 | `medge.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 972 | `atal.sh` | 0.80 | ~$31.20 | ~$46.65 | available |
-| 973 | `mesle.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 974 | `merbo.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 975 | `mesun.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 976 | `merlu.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 977 | `merla.me` | 0.80 | ~$8.80 | ~$17.27 | available |
-| 978 | `metic.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 979 | `silone.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 980 | `gagate.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 981 | `merte.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 982 | `merre.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 983 | `merda.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 984 | `melet.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 985 | `cous.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 986 | `coud.app` | 0.80 | ~$10.81 | ~$14.93 | available |
-| 987 | `neble.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 988 | `puron.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 989 | `pinep.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 990 | `pinek.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 991 | `pinez.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 992 | `pineh.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 993 | `pined.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 994 | `pinem.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 995 | `pinen.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 996 | `pinew.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 997 | `pineg.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 998 | `piner.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 999 | `pinef.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 1000 | `neral.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 963 | `verte.sh` | 0.80 | ~$31.20 | ~$46.65 | available |
+| 964 | `suntern.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 965 | `ternet.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 966 | `wrave.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 967 | `capega.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 968 | `rugge.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 969 | `redwo.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 970 | `late.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 971 | `rade.sh` | 0.80 | ~$31.20 | ~$46.65 | available |
+| 972 | `medge.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 973 | `atal.sh` | 0.80 | ~$31.20 | ~$46.65 | available |
+| 974 | `mesle.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 975 | `merbo.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 976 | `mesun.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 977 | `merlu.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 978 | `merla.me` | 0.80 | ~$8.80 | ~$17.27 | available |
+| 979 | `metic.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 980 | `silone.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 981 | `gagate.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 982 | `merte.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 983 | `merre.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 984 | `merda.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 985 | `melet.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 986 | `cous.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 987 | `coud.app` | 0.80 | ~$10.81 | ~$14.93 | available |
+| 988 | `neble.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 989 | `puron.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 990 | `pinep.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 991 | `pinek.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 992 | `pinez.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 993 | `pineh.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 994 | `pined.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 995 | `pinem.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 996 | `pinen.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 997 | `pinew.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 998 | `pineg.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 999 | `piner.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 1000 | `pinef.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
