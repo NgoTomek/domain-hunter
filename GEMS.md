@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-31 07:00 UTC · 81,261 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 07:15 UTC · 81,332 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -885,9 +885,9 @@ _Updated 2026-05-31 07:00 UTC · 81,261 names (showing top 1,000) — auto-updat
 | 877 | `cobaz.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 878 | `cobah.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 879 | `cobaw.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 880 | `cobat.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 881 | `cobak.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 882 | `cobus.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 880 | `cobus.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 881 | `cobat.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 882 | `cobak.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 883 | `cotus.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 884 | `copic.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 885 | `cobar.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
