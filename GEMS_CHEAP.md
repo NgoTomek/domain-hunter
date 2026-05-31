@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 20:02 UTC · 83,353 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 20:18 UTC · 83,398 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -637,10 +637,10 @@ _Updated 2026-05-31 20:02 UTC · 83,353 names (showing top 1,000) — auto-updat
 | 629 | `stohu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 630 | `stozu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 631 | `stovu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 632 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 633 | `stosa.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 634 | `stofi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 635 | `stoza.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 632 | `stoza.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 633 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 634 | `stosa.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 635 | `stofi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 636 | `stoco.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 637 | `stota.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 638 | `helow.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |

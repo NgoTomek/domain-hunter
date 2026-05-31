@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-31 20:02 UTC · 84,157 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 20:18 UTC · 84,203 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -753,10 +753,10 @@ _Updated 2026-05-31 20:02 UTC · 84,157 names (showing top 1,000) — auto-updat
 | 745 | `stohu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 746 | `stozu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 747 | `stovu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 748 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 749 | `stosa.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 750 | `stofi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 751 | `stoza.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 748 | `stoza.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 749 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 750 | `stosa.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 751 | `stofi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 752 | `stoco.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 753 | `stota.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 754 | `helow.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
