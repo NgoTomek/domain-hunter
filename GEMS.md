@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-31 01:44 UTC · 79,965 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 01:59 UTC · 80,041 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -505,8 +505,8 @@ _Updated 2026-05-31 01:44 UTC · 79,965 names (showing top 1,000) — auto-updat
 | 497 | `steke.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 498 | `stefa.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 499 | `stemo.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 500 | `stevo.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
-| 501 | `stede.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
+| 500 | `stede.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
+| 501 | `stevo.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
 | 502 | `sural.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 503 | `stady.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 504 | `spene.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
