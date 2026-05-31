@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 07:31 UTC · 80,577 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 07:46 UTC · 80,635 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -542,7 +542,7 @@ _Updated 2026-05-31 07:31 UTC · 80,577 names (showing top 1,000) — auto-updat
 | 534 | `steni.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 535 | `sigate.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 536 | `carlet.me` | 0.82 | ~$8.80 | ~$17.27 | available |
-| 537 | `cager.app` | 0.82 | ~$10.81 | ~$14.93 | available |
+| 537 | `cager.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 538 | `praith.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 539 | `canci.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 540 | `carde.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
