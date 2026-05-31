@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-31 05:02 UTC · 80,833 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 05:12 UTC · 80,865 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -547,9 +547,9 @@ _Updated 2026-05-31 05:02 UTC · 80,833 names (showing top 1,000) — auto-updat
 | 539 | `stete.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 540 | `spega.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 541 | `pular.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
-| 542 | `coderu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 543 | `codero.me` | 0.82 | ~$8.80 | ~$17.27 | available |
-| 544 | `codene.app` | 0.82 | ~$10.81 | ~$14.93 | available |
+| 542 | `codene.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 543 | `coderu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 544 | `codero.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 545 | `codere.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 546 | `fier.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
 | 547 | `caple.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |

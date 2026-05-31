@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 05:02 UTC · 80,030 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 05:12 UTC · 80,061 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -458,9 +458,9 @@ _Updated 2026-05-31 05:02 UTC · 80,030 names (showing top 1,000) — auto-updat
 | 450 | `stete.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 451 | `spega.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 452 | `pular.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
-| 453 | `coderu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 454 | `codero.me` | 0.82 | ~$8.80 | ~$17.27 | available |
-| 455 | `codene.app` | 0.82 | ~$10.81 | ~$14.93 | available |
+| 453 | `codene.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 454 | `coderu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 455 | `codero.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 456 | `codere.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 457 | `caple.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 458 | `capid.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
