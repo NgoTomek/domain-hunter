@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 07:15 UTC · 80,536 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 07:31 UTC · 80,577 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -14,7 +14,7 @@ _Updated 2026-05-31 07:15 UTC · 80,536 names (showing top 1,000) — auto-updat
 | 6 | `wild.me` | 0.92 | ~$8.80 | ~$17.27 | available |
 | 7 | `stal.xyz` | 0.92 | ~$2.04 | ~$12.98 | available |
 | 8 | `matom.app` | 0.91 | ~$10.81 | ~$14.93 | available |
-| 9 | `comni.dev` | 0.91 | ~$10.81 | ~$12.87 | available |
+| 9 | `comni.me` | 0.91 | ~$8.80 | ~$17.27 | available |
 | 10 | `staru.dev` | 0.91 | ~$10.81 | ~$12.87 | available |
 | 11 | `coret.dev` | 0.91 | ~$10.81 | ~$12.87 | available |
 | 12 | `stari.xyz` | 0.90 | ~$2.04 | ~$12.98 | available |
