@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 16:14 UTC · 82,551 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 16:15 UTC · 82,558 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -520,7 +520,7 @@ _Updated 2026-05-31 16:14 UTC · 82,551 names (showing top 1,000) — auto-updat
 | 512 | `retal.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 513 | `ruble.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 514 | `mean.me` | 0.82 | ~$8.80 | ~$17.27 | available |
-| 515 | `meaf.app` | 0.82 | ~$10.81 | ~$14.93 | available |
+| 515 | `meaf.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 516 | `mear.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 517 | `meak.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 518 | `halone.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
