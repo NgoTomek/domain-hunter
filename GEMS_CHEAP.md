@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 00:13 UTC · 78,706 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 00:28 UTC · 78,780 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -232,7 +232,7 @@ _Updated 2026-05-31 00:13 UTC · 78,706 names (showing top 1,000) — auto-updat
 | 224 | `stealo.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 225 | `cleve.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 226 | `siper.app` | 0.84 | ~$10.81 | ~$14.93 | available |
-| 227 | `crima.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
+| 227 | `crima.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 228 | `silow.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 229 | `coralo.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 230 | `rolar.app` | 0.84 | ~$10.81 | ~$14.93 | available |
@@ -406,14 +406,14 @@ _Updated 2026-05-31 00:13 UTC · 78,706 names (showing top 1,000) — auto-updat
 | 398 | `stewi.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 399 | `stemu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 400 | `stezo.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 401 | `stewe.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 402 | `steca.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 403 | `stego.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 404 | `steco.app` | 0.83 | ~$10.81 | ~$14.93 | available |
-| 405 | `stefu.app` | 0.83 | ~$10.81 | ~$14.93 | available |
-| 406 | `stegi.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 407 | `stefi.app` | 0.83 | ~$10.81 | ~$14.93 | available |
-| 408 | `steba.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 401 | `steba.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 402 | `stewe.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 403 | `steca.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 404 | `stego.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 405 | `steco.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 406 | `stefu.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 407 | `stegi.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
+| 408 | `stefi.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 409 | `stecu.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 410 | `steki.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 411 | `steko.app` | 0.83 | ~$10.81 | ~$14.93 | available |
