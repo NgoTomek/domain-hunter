@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 22:31 UTC · 83,846 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 22:46 UTC · 83,894 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -990,19 +990,19 @@ _Updated 2026-05-31 22:31 UTC · 83,846 names (showing top 1,000) — auto-updat
 | 982 | `merro.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
 | 983 | `merve.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
 | 984 | `merul.app` | 0.80 | ~$10.81 | ~$14.93 | available |
-| 985 | `melet.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 986 | `coud.me` | 0.80 | ~$8.80 | ~$17.27 | available |
-| 987 | `cous.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 988 | `neble.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 989 | `puron.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 990 | `pinep.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 991 | `pinek.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 992 | `pinez.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 993 | `pineh.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 994 | `pined.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 995 | `pinem.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 996 | `pinen.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 997 | `pinew.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 998 | `pineg.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 999 | `piner.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 1000 | `pinef.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 985 | `merri.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 986 | `melet.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 987 | `coud.me` | 0.80 | ~$8.80 | ~$17.27 | available |
+| 988 | `cous.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 989 | `neble.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 990 | `puron.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 991 | `pinep.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 992 | `pinek.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 993 | `pinez.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 994 | `pineh.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 995 | `pined.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 996 | `pinem.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 997 | `pinen.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 998 | `pinew.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 999 | `pineg.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 1000 | `piner.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
