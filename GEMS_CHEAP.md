@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 00:43 UTC · 78,846 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 00:58 UTC · 78,911 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -263,7 +263,7 @@ _Updated 2026-05-31 00:43 UTC · 78,846 names (showing top 1,000) — auto-updat
 | 255 | `sumen.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 256 | `serce.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 257 | `seret.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 258 | `secro.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 258 | `secro.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 259 | `summi.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 260 | `corave.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 261 | `stral.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |

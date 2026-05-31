@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-31 00:43 UTC · 79,683 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 00:58 UTC · 79,748 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -339,7 +339,7 @@ _Updated 2026-05-31 00:43 UTC · 79,683 names (showing top 1,000) — auto-updat
 | 331 | `sumen.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 332 | `serce.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 333 | `seret.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 334 | `secro.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 334 | `secro.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 335 | `summi.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 336 | `corave.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 337 | `stral.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
