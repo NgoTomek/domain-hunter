@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-31 17:30 UTC · 83,638 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 17:45 UTC · 83,695 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -109,7 +109,7 @@ _Updated 2026-05-31 17:30 UTC · 83,638 names (showing top 1,000) — auto-updat
 | 101 | `met.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
 | 102 | `spara.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
 | 103 | `can.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
-| 104 | `corge.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 104 | `corge.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 105 | `comad.sh` | 0.87 | ~$31.20 | ~$46.65 | available |
 | 106 | `harbo.app` | 0.87 | ~$10.81 | ~$14.93 | available |
 | 107 | `galark.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |

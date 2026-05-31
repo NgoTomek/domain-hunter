@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-05-31 17:30 UTC · 82,836 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 17:45 UTC · 82,890 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -77,7 +77,7 @@ _Updated 2026-05-31 17:30 UTC · 82,836 names (showing top 1,000) — auto-updat
 | 69 | `met.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
 | 70 | `spara.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
 | 71 | `can.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
-| 72 | `corge.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 72 | `corge.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 73 | `harbo.app` | 0.87 | ~$10.81 | ~$14.93 | available |
 | 74 | `galark.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
 | 75 | `stode.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
