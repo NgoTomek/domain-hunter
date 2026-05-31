@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-05-31 11:30 UTC · 82,300 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-05-31 11:45 UTC · 82,344 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -54,7 +54,7 @@ _Updated 2026-05-31 11:30 UTC · 82,300 names (showing top 1,000) — auto-updat
 | 46 | `spen.sh` | 0.89 | ~$31.20 | ~$46.65 | available |
 | 47 | `stagu.xyz` | 0.89 | ~$2.04 | ~$12.98 | available |
 | 48 | `stagi.app` | 0.89 | ~$10.81 | ~$14.93 | available |
-| 49 | `meral.sh` | 0.89 | ~$31.20 | ~$46.65 | available |
+| 49 | `meral.app` | 0.89 | ~$10.81 | ~$14.93 | available |
 | 50 | `codeh.xyz` | 0.89 | ~$2.04 | ~$12.98 | available |
 | 51 | `codeg.me` | 0.89 | ~$8.80 | ~$17.27 | available |
 | 52 | `codep.dev` | 0.89 | ~$10.81 | ~$12.87 | available |
@@ -91,7 +91,7 @@ _Updated 2026-05-31 11:30 UTC · 82,300 names (showing top 1,000) — auto-updat
 | 83 | `brid.dev` | 0.88 | ~$10.81 | ~$12.87 | available |
 | 84 | `stic.sh` | 0.88 | ~$31.20 | ~$46.65 | available |
 | 85 | `coron.dev` | 0.88 | ~$10.81 | ~$12.87 | available |
-| 86 | `magon.sh` | 0.88 | ~$31.20 | ~$46.65 | available |
+| 86 | `magon.app` | 0.88 | ~$10.81 | ~$14.93 | available |
 | 87 | `coreal.me` | 0.88 | ~$8.80 | ~$17.27 | available |
 | 88 | `stalo.xyz` | 0.88 | ~$2.04 | ~$12.98 | available |
 | 89 | `seron.dev` | 0.88 | ~$10.81 | ~$12.87 | available |
