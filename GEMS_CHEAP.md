@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 05:02 UTC · 85,042 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 05:17 UTC · 85,088 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -250,7 +250,7 @@ _Updated 2026-06-01 05:02 UTC · 85,042 names (showing top 1,000) — auto-updat
 | 242 | `beat.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 243 | `sparu.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 244 | `sunal.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
-| 245 | `sunel.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
+| 245 | `sunel.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 246 | `bridi.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 247 | `atomc.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 248 | `wrent.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
@@ -262,7 +262,7 @@ _Updated 2026-06-01 05:02 UTC · 85,042 names (showing top 1,000) — auto-updat
 | 254 | `coralo.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 255 | `rolar.app` | 0.84 | ~$10.81 | ~$14.93 | available |
 | 256 | `raken.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
-| 257 | `magen.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
+| 257 | `magen.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 258 | `coken.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 259 | `codid.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 260 | `cosus.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
@@ -840,7 +840,7 @@ _Updated 2026-06-01 05:02 UTC · 85,042 names (showing top 1,000) — auto-updat
 | 832 | `stope.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 833 | `keron.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 834 | `herave.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 835 | `pilone.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 835 | `pilone.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 836 | `crani.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 837 | `crano.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 838 | `crega.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |

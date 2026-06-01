@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 05:02 UTC · 85,872 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 05:17 UTC · 85,920 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -327,7 +327,7 @@ _Updated 2026-06-01 05:02 UTC · 85,872 names (showing top 1,000) — auto-updat
 | 319 | `beat.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 320 | `sparu.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 321 | `sunal.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
-| 322 | `sunel.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
+| 322 | `sunel.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 323 | `bridi.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 324 | `bride.sh` | 0.84 | ~$31.20 | ~$46.65 | available |
 | 325 | `atomc.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
@@ -340,7 +340,7 @@ _Updated 2026-06-01 05:02 UTC · 85,872 names (showing top 1,000) — auto-updat
 | 332 | `coralo.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 333 | `rolar.app` | 0.84 | ~$10.81 | ~$14.93 | available |
 | 334 | `raken.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
-| 335 | `magen.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
+| 335 | `magen.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 336 | `coken.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 337 | `cowan.sh` | 0.84 | ~$31.20 | ~$46.65 | available |
 | 338 | `codid.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
@@ -974,7 +974,7 @@ _Updated 2026-06-01 05:02 UTC · 85,872 names (showing top 1,000) — auto-updat
 | 966 | `fera.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
 | 967 | `keron.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 968 | `herave.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 969 | `pilone.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 969 | `pilone.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 970 | `crani.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 971 | `crano.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 972 | `leam.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
