@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 20:34 UTC · 87,625 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 20:49 UTC · 87,663 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -106,7 +106,7 @@ _Updated 2026-06-01 20:34 UTC · 87,625 names (showing top 1,000) — auto-updat
 | 98 | `halar.xyz` | 0.87 | ~$1.00 | ~$12.98 | available |
 | 99 | `corac.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 100 | `bral.me` | 0.87 | ~$8.80 | ~$17.27 | available |
-| 101 | `gater.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 101 | `gater.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 102 | `cane.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 103 | `feron.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
 | 104 | `steze.xyz` | 0.87 | ~$1.00 | ~$12.98 | available |
@@ -535,7 +535,7 @@ _Updated 2026-06-01 20:34 UTC · 87,625 names (showing top 1,000) — auto-updat
 | 527 | `virid.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 528 | `prine.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 529 | `brav.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 530 | `mesave.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 530 | `mesave.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 531 | `coran.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 532 | `meger.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 533 | `malar.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
@@ -664,10 +664,10 @@ _Updated 2026-06-01 20:34 UTC · 87,625 names (showing top 1,000) — auto-updat
 | 656 | `stovu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 657 | `stoze.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 658 | `stoza.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 659 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 660 | `stosa.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 661 | `stofi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 662 | `stoco.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 659 | `stoco.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 660 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 661 | `stosa.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 662 | `stofi.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 663 | `stota.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 664 | `helow.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 665 | `ferven.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
