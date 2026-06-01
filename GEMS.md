@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 14:32 UTC · 87,493 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 14:47 UTC · 87,534 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -368,7 +368,7 @@ _Updated 2026-06-01 14:32 UTC · 87,493 names (showing top 1,000) — auto-updat
 | 360 | `haloud.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 361 | `halous.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 362 | `citan.me` | 0.84 | ~$8.80 | ~$17.27 | available |
-| 363 | `spari.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
+| 363 | `spari.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 364 | `astic.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 365 | `comu.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 366 | `codc.dev` | 0.84 | ~$10.81 | ~$12.87 | available |

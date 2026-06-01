@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 14:32 UTC · 86,648 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 14:47 UTC · 86,686 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -286,7 +286,7 @@ _Updated 2026-06-01 14:32 UTC · 86,648 names (showing top 1,000) — auto-updat
 | 278 | `haloud.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 279 | `halous.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 280 | `citan.me` | 0.84 | ~$8.80 | ~$17.27 | available |
-| 281 | `spari.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
+| 281 | `spari.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 282 | `astic.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 283 | `comu.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 284 | `codc.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
