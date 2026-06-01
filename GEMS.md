@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 20:49 UTC · 88,559 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 21:04 UTC · 88,597 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -30,7 +30,7 @@ _Updated 2026-06-01 20:49 UTC · 88,559 names (showing top 1,000) — auto-updat
 | 22 | `eager.sh` | 0.91 | ~$31.20 | ~$46.65 | available |
 | 23 | `stor.sh` | 0.91 | ~$31.20 | ~$46.65 | available |
 | 24 | `comni.me` | 0.91 | ~$8.80 | ~$17.27 | available |
-| 25 | `staru.dev` | 0.91 | ~$10.81 | ~$12.87 | available |
+| 25 | `staru.me` | 0.91 | ~$8.80 | ~$17.27 | available |
 | 26 | `regal.sh` | 0.91 | ~$31.20 | ~$46.65 | available |
 | 27 | `sper.sh` | 0.91 | ~$31.20 | ~$46.65 | available |
 | 28 | `coret.dev` | 0.91 | ~$10.81 | ~$12.87 | available |
