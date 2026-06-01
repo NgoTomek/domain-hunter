@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 06:49 UTC · 86,218 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 07:04 UTC · 86,262 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -453,8 +453,8 @@ _Updated 2026-06-01 06:49 UTC · 86,218 names (showing top 1,000) — auto-updat
 | 445 | `rait.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
 | 446 | `codeci.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 447 | `codece.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 448 | `codeze.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 449 | `codecu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 448 | `codecu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 449 | `codeze.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 450 | `codeca.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 451 | `codesa.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 452 | `mesag.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
@@ -783,7 +783,7 @@ _Updated 2026-06-01 06:49 UTC · 86,218 names (showing top 1,000) — auto-updat
 | 775 | `lagate.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 776 | `surfi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 777 | `sepic.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 778 | `surfo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 778 | `surfo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 779 | `surfu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 780 | `surfe.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 781 | `cogate.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
