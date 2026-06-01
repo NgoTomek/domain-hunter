@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 05:48 UTC · 85,197 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 06:03 UTC · 85,253 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -104,7 +104,7 @@ _Updated 2026-06-01 05:48 UTC · 85,197 names (showing top 1,000) — auto-updat
 | 96 | `gater.app` | 0.87 | ~$10.81 | ~$14.93 | available |
 | 97 | `feron.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
 | 98 | `steze.xyz` | 0.87 | ~$1.00 | ~$12.98 | available |
-| 99 | `stelu.xyz` | 0.87 | ~$2.04 | ~$12.98 | available |
+| 99 | `stelu.xyz` | 0.87 | ~$1.00 | ~$12.98 | available |
 | 100 | `stesa.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 101 | `merli.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
 | 102 | `secho.xyz` | 0.87 | ~$1.00 | ~$12.98 | available |
@@ -222,7 +222,7 @@ _Updated 2026-06-01 05:48 UTC · 85,197 names (showing top 1,000) — auto-updat
 | 214 | `suber.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 215 | `ratom.app` | 0.84 | ~$10.81 | ~$14.93 | available |
 | 216 | `gaten.app` | 0.84 | ~$10.81 | ~$14.93 | available |
-| 217 | `suron.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
+| 217 | `suron.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 218 | `tider.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 219 | `breal.me` | 0.84 | ~$8.80 | ~$17.27 | available |
 | 220 | `comesa.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
@@ -233,7 +233,7 @@ _Updated 2026-06-01 05:48 UTC · 85,197 names (showing top 1,000) — auto-updat
 | 225 | `codove.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
 | 226 | `silem.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 227 | `corene.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
-| 228 | `comega.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
+| 228 | `comega.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 229 | `corega.dev` | 0.84 | ~$10.81 | ~$12.87 | available |
 | 230 | `matri.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 231 | `magle.me` | 0.84 | ~$8.80 | ~$17.27 | available |
@@ -506,7 +506,7 @@ _Updated 2026-06-01 05:48 UTC · 85,197 names (showing top 1,000) — auto-updat
 | 498 | `oper.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 499 | `soble.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 500 | `cagate.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
-| 501 | `scave.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 501 | `scave.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 502 | `solet.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 503 | `mesate.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 504 | `mesale.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
