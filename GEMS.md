@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 10:18 UTC · 86,794 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 10:33 UTC · 86,840 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -595,7 +595,7 @@ _Updated 2026-06-01 10:18 UTC · 86,794 names (showing top 1,000) — auto-updat
 | 587 | `stete.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 588 | `spega.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 589 | `pular.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
-| 590 | `codene.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 590 | `codene.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 591 | `coderu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 592 | `codero.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 593 | `codere.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
@@ -688,7 +688,7 @@ _Updated 2026-06-01 10:18 UTC · 86,794 names (showing top 1,000) — auto-updat
 | 680 | `keed.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 681 | `meat.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 682 | `wavent.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 683 | `masus.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 683 | `masus.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 684 | `mapid.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 685 | `masis.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 686 | `steni.app` | 0.82 | ~$10.81 | ~$14.93 | available |
@@ -937,10 +937,10 @@ _Updated 2026-06-01 10:18 UTC · 86,794 names (showing top 1,000) — auto-updat
 | 929 | `cobaf.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 930 | `cobac.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 931 | `coppu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 932 | `cobah.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 933 | `cobaw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 934 | `covil.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 935 | `cobav.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 932 | `cobav.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 933 | `cobah.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 934 | `cobaw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 935 | `covil.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 936 | `cobaz.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 937 | `cobak.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 938 | `cobus.me` | 0.81 | ~$8.80 | ~$17.27 | available |

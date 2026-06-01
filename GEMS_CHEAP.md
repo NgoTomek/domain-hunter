@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 10:18 UTC · 85,953 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 10:33 UTC · 85,998 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -496,7 +496,7 @@ _Updated 2026-06-01 10:18 UTC · 85,953 names (showing top 1,000) — auto-updat
 | 488 | `stete.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 489 | `spega.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 490 | `pular.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
-| 491 | `codene.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 491 | `codene.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 492 | `coderu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
 | 493 | `codero.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 494 | `codere.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
@@ -572,7 +572,7 @@ _Updated 2026-06-01 10:18 UTC · 85,953 names (showing top 1,000) — auto-updat
 | 564 | `keed.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 565 | `meat.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 566 | `wavent.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 567 | `masus.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 567 | `masus.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 568 | `mapid.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 569 | `masis.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 570 | `steni.app` | 0.82 | ~$10.81 | ~$14.93 | available |
@@ -806,10 +806,10 @@ _Updated 2026-06-01 10:18 UTC · 85,953 names (showing top 1,000) — auto-updat
 | 798 | `cobaf.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 799 | `cobac.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 800 | `coppu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 801 | `cobah.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 802 | `cobaw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 803 | `covil.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 804 | `cobav.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 801 | `cobav.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 802 | `cobah.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 803 | `cobaw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 804 | `covil.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 805 | `cobaz.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 806 | `cobak.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 807 | `cobus.me` | 0.81 | ~$8.80 | ~$17.27 | available |
@@ -977,7 +977,7 @@ _Updated 2026-06-01 10:18 UTC · 85,953 names (showing top 1,000) — auto-updat
 | 969 | `snode.app` | 0.80 | ~$10.81 | ~$14.93 | available |
 | 970 | `hagon.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 971 | `flure.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 972 | `canite.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 972 | `canite.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 973 | `calate.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 974 | `verce.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
 | 975 | `suntern.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
