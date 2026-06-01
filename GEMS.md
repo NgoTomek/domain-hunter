@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 12:20 UTC · 87,130 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 12:35 UTC · 87,176 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -24,7 +24,7 @@ _Updated 2026-06-01 12:20 UTC · 87,130 names (showing top 1,000) — auto-updat
 | 16 | `stal.xyz` | 0.92 | ~$1.00 | ~$12.98 | available |
 | 17 | `pinel.sh` | 0.92 | ~$31.20 | ~$46.65 | available |
 | 18 | `ster.sh` | 0.91 | ~$31.20 | ~$46.65 | available |
-| 19 | `matom.app` | 0.91 | ~$10.81 | ~$14.93 | available |
+| 19 | `matom.me` | 0.91 | ~$8.80 | ~$17.27 | available |
 | 20 | `quaint.sh` | 0.91 | ~$31.20 | ~$46.65 | available |
 | 21 | `aspen.sh` | 0.91 | ~$31.20 | ~$46.65 | available |
 | 22 | `eager.sh` | 0.91 | ~$31.20 | ~$46.65 | available |
