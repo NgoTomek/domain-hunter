@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 17:34 UTC · 88,026 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 17:49 UTC · 88,081 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -648,7 +648,7 @@ _Updated 2026-06-01 17:34 UTC · 88,026 names (showing top 1,000) — auto-updat
 | 640 | `coran.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 641 | `meger.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 642 | `malar.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
-| 643 | `mesage.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 643 | `mesage.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 644 | `sadow.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 645 | `matar.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 646 | `senti.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
@@ -925,7 +925,7 @@ _Updated 2026-06-01 17:34 UTC · 88,026 names (showing top 1,000) — auto-updat
 | 917 | `pule.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 918 | `bital.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 919 | `harrie.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 920 | `ferave.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 920 | `ferave.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 921 | `cresa.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 922 | `citar.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 923 | `siet.me` | 0.81 | ~$8.80 | ~$17.27 | available |
@@ -988,7 +988,7 @@ _Updated 2026-06-01 17:34 UTC · 88,026 names (showing top 1,000) — auto-updat
 | 980 | `stazu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 981 | `stana.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 982 | `stasa.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 983 | `staco.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 983 | `staco.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 984 | `stapi.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 985 | `staci.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 986 | `stasu.app` | 0.81 | ~$10.81 | ~$14.93 | available |
