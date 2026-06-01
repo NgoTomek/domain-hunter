@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 08:35 UTC · 86,506 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 08:45 UTC · 86,550 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -568,7 +568,7 @@ _Updated 2026-06-01 08:35 UTC · 86,506 names (showing top 1,000) — auto-updat
 | 560 | `lonel.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 561 | `corid.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 562 | `wover.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 563 | `corav.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 563 | `corav.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 564 | `corag.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 565 | `maron.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 566 | `frest.me` | 0.83 | ~$8.80 | ~$17.27 | available |

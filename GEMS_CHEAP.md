@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 08:35 UTC · 85,678 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 08:45 UTC · 85,723 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -472,7 +472,7 @@ _Updated 2026-06-01 08:35 UTC · 85,678 names (showing top 1,000) — auto-updat
 | 464 | `lonel.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 465 | `corid.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 466 | `wover.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 467 | `corav.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 467 | `corav.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 468 | `corag.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 469 | `maron.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 470 | `frest.me` | 0.83 | ~$8.80 | ~$17.27 | available |
