@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 19:36 UTC · 88,361 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 19:47 UTC · 88,389 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
