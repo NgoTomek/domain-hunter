@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 17:49 UTC · 87,203 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 18:05 UTC · 87,237 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -173,7 +173,7 @@ _Updated 2026-06-01 17:49 UTC · 87,203 names (showing top 1,000) — auto-updat
 | 165 | `spale.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 166 | `stono.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 167 | `stonu.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
-| 168 | `stona.app` | 0.85 | ~$10.81 | ~$14.93 | available |
+| 168 | `stona.me` | 0.85 | ~$8.80 | ~$17.27 | available |
 | 169 | `stane.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 170 | `stano.app` | 0.85 | ~$10.81 | ~$14.93 | available |
 | 171 | `fatom.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |

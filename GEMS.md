@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 17:49 UTC · 88,081 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 18:05 UTC · 88,116 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -239,7 +239,7 @@ _Updated 2026-06-01 17:49 UTC · 88,081 names (showing top 1,000) — auto-updat
 | 231 | `spale.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 232 | `stono.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 233 | `stonu.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
-| 234 | `stona.app` | 0.85 | ~$10.81 | ~$14.93 | available |
+| 234 | `stona.me` | 0.85 | ~$8.80 | ~$17.27 | available |
 | 235 | `stane.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 236 | `stano.app` | 0.85 | ~$10.81 | ~$14.93 | available |
 | 237 | `stori.sh` | 0.85 | ~$31.20 | ~$46.65 | available |
