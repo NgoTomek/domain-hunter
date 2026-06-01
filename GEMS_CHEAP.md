@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 19:21 UTC · 87,438 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 19:36 UTC · 87,479 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -498,7 +498,7 @@ _Updated 2026-06-01 19:21 UTC · 87,438 names (showing top 1,000) — auto-updat
 | 490 | `fral.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 491 | `brate.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 492 | `steta.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 493 | `stebu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 493 | `stebu.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 494 | `steda.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 495 | `stete.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 496 | `spega.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |

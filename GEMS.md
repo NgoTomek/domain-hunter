@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 19:21 UTC · 88,320 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 19:36 UTC · 88,361 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -600,7 +600,7 @@ _Updated 2026-06-01 19:21 UTC · 88,320 names (showing top 1,000) — auto-updat
 | 592 | `fral.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 593 | `brate.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 594 | `steta.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 595 | `stebu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 595 | `stebu.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 596 | `steda.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 597 | `stete.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 598 | `spega.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
