@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 23:21 UTC · 88,955 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 23:36 UTC · 88,999 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -493,10 +493,10 @@ _Updated 2026-06-01 23:21 UTC · 88,955 names (showing top 1,000) — auto-updat
 | 485 | `covem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 486 | `covef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 487 | `coveb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 488 | `covez.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 489 | `covev.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 490 | `covew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 491 | `covek.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 488 | `covek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 489 | `covez.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 490 | `covev.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 491 | `covew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 492 | `coveh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 493 | `coved.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 494 | `ranel.app` | 0.83 | ~$10.81 | ~$14.93 | available |
@@ -550,20 +550,20 @@ _Updated 2026-06-01 23:21 UTC · 88,955 names (showing top 1,000) — auto-updat
 | 542 | `steme.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 543 | `stebo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 544 | `stetu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 545 | `stemu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 546 | `stezo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 547 | `steba.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 548 | `stewe.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 549 | `steke.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 550 | `steca.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 551 | `stege.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 552 | `stefo.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 553 | `stego.me` | 0.83 | ~$8.80 | ~$17.27 | available |
-| 554 | `steco.app` | 0.83 | ~$10.81 | ~$14.93 | available |
-| 555 | `stefu.app` | 0.83 | ~$10.81 | ~$14.93 | available |
-| 556 | `stegi.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 557 | `stefi.app` | 0.83 | ~$10.81 | ~$14.93 | available |
-| 558 | `stewi.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 545 | `stewi.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 546 | `stemu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 547 | `stezo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 548 | `steba.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 549 | `stewe.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 550 | `steke.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 551 | `steca.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 552 | `stege.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 553 | `stefo.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 554 | `stego.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 555 | `steco.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 556 | `stefu.app` | 0.83 | ~$10.81 | ~$14.93 | available |
+| 557 | `stegi.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
+| 558 | `stefi.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 559 | `stecu.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 560 | `steki.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 561 | `steko.app` | 0.83 | ~$10.81 | ~$14.93 | available |
@@ -967,14 +967,14 @@ _Updated 2026-06-01 23:21 UTC · 88,955 names (showing top 1,000) — auto-updat
 | 959 | `coppo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 960 | `cobap.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 961 | `cobab.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 962 | `cobaf.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 963 | `cobac.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 964 | `coppu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 965 | `cobav.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 966 | `cobaz.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 967 | `cobah.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 968 | `cobaw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 969 | `covil.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 962 | `covil.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 963 | `cobaf.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 964 | `cobac.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 965 | `coppu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 966 | `cobav.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 967 | `cobaz.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 968 | `cobah.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 969 | `cobaw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 970 | `cobak.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 971 | `cobus.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 972 | `cobat.me` | 0.81 | ~$8.80 | ~$17.27 | available |
