@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 22:35 UTC · 87,876 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 22:50 UTC · 87,919 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -882,13 +882,13 @@ _Updated 2026-06-01 22:35 UTC · 87,876 names (showing top 1,000) — auto-updat
 | 874 | `frene.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 875 | `galel.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 876 | `galeb.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 877 | `galef.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 878 | `galeg.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 879 | `galez.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 880 | `galep.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 881 | `galew.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 882 | `galeh.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 883 | `galek.me` | 0.80 | ~$8.80 | ~$17.27 | available |
+| 877 | `galek.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 878 | `galef.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 879 | `galeg.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 880 | `galez.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 881 | `galep.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 882 | `galew.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 883 | `galeh.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 884 | `galer.app` | 0.80 | ~$10.81 | ~$14.93 | available |
 | 885 | `ralar.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 886 | `ravene.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
