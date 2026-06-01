@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 12:04 UTC · 86,251 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 12:20 UTC · 86,299 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -733,11 +733,11 @@ _Updated 2026-06-01 12:04 UTC · 86,251 names (showing top 1,000) — auto-updat
 | 725 | `statu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 726 | `staku.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 727 | `stawo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 728 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 729 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 730 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 731 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 732 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 728 | `stava.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 729 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 730 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 731 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 732 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 733 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 734 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 735 | `stabe.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
@@ -778,7 +778,7 @@ _Updated 2026-06-01 12:04 UTC · 86,251 names (showing top 1,000) — auto-updat
 | 770 | `iridge.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 771 | `vinal.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 772 | `pule.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 773 | `bital.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 773 | `bital.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 774 | `harrie.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 775 | `ferave.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 776 | `cresa.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
