@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 07:34 UTC · 86,336 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 07:50 UTC · 86,373 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -385,14 +385,14 @@ _Updated 2026-06-01 07:34 UTC · 86,336 names (showing top 1,000) — auto-updat
 | 377 | `sura.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
 | 378 | `seet.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
 | 379 | `cosle.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 380 | `comew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 381 | `comeb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 382 | `coson.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 383 | `comem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 384 | `comep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 385 | `comef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 386 | `comek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 387 | `comez.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 380 | `comez.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 381 | `comew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 382 | `comeb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 383 | `coson.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 384 | `comem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 385 | `comep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 386 | `comef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 387 | `comek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 388 | `comeh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 389 | `cosun.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 390 | `corow.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
@@ -895,7 +895,7 @@ _Updated 2026-06-01 07:34 UTC · 86,336 names (showing top 1,000) — auto-updat
 | 887 | `stoki.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 888 | `stoli.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 889 | `iridge.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 890 | `vinal.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 890 | `vinal.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 891 | `pule.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 892 | `bital.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 893 | `harrie.app` | 0.81 | ~$10.81 | ~$14.93 | available |
