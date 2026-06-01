@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 19:48 UTC · 87,506 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 20:03 UTC · 87,547 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -105,7 +105,7 @@ _Updated 2026-06-01 19:48 UTC · 87,506 names (showing top 1,000) — auto-updat
 | 97 | `corec.app` | 0.87 | ~$10.81 | ~$14.93 | available |
 | 98 | `halar.xyz` | 0.87 | ~$1.00 | ~$12.98 | available |
 | 99 | `corac.me` | 0.87 | ~$8.80 | ~$17.27 | available |
-| 100 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 100 | `bral.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 101 | `gater.app` | 0.87 | ~$10.81 | ~$14.93 | available |
 | 102 | `cane.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 103 | `feron.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
@@ -120,7 +120,7 @@ _Updated 2026-06-01 19:48 UTC · 87,506 names (showing top 1,000) — auto-updat
 | 112 | `molar.me` | 0.86 | ~$8.80 | ~$17.27 | available |
 | 113 | `tiden.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 114 | `coreg.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 115 | `reeze.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 115 | `reeze.me` | 0.86 | ~$8.80 | ~$17.27 | available |
 | 116 | `prave.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 117 | `meady.me` | 0.86 | ~$8.80 | ~$17.27 | available |
 | 118 | `veral.me` | 0.86 | ~$8.80 | ~$17.27 | available |
