@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 14:16 UTC · 86,617 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 14:17 UTC · 86,618 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -52,7 +52,7 @@ _Updated 2026-06-01 14:16 UTC · 86,617 names (showing top 1,000) — auto-updat
 | 44 | `copal.me` | 0.88 | ~$8.80 | ~$17.27 | available |
 | 45 | `cleam.xyz` | 0.88 | ~$1.00 | ~$12.98 | available |
 | 46 | `stago.dev` | 0.88 | ~$10.81 | ~$12.87 | available |
-| 47 | `con.app` | 0.88 | ~$10.81 | ~$14.93 | available |
+| 47 | `con.me` | 0.88 | ~$8.80 | ~$17.27 | available |
 | 48 | `cital.me` | 0.88 | ~$8.80 | ~$17.27 | available |
 | 49 | `suble.me` | 0.88 | ~$8.80 | ~$17.27 | available |
 | 50 | `seral.me` | 0.88 | ~$8.80 | ~$17.27 | available |
