@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 15:18 UTC · 86,769 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 15:33 UTC · 86,804 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -339,8 +339,8 @@ _Updated 2026-06-01 15:18 UTC · 86,769 names (showing top 1,000) — auto-updat
 | 331 | `mesah.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 332 | `mesav.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 333 | `mesaz.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 334 | `mesac.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 335 | `mesak.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
+| 334 | `mesak.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 335 | `mesac.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 336 | `modec.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 337 | `coma.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 338 | `sital.me` | 0.83 | ~$8.80 | ~$17.27 | available |

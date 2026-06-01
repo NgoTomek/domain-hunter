@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 15:18 UTC · 87,622 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 15:33 UTC · 87,657 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -429,8 +429,8 @@ _Updated 2026-06-01 15:18 UTC · 87,622 names (showing top 1,000) — auto-updat
 | 421 | `mesah.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 422 | `mesav.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 423 | `mesaz.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 424 | `mesac.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 425 | `mesak.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
+| 424 | `mesak.me` | 0.83 | ~$8.80 | ~$17.27 | available |
+| 425 | `mesac.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 426 | `caron.sh` | 0.83 | — | — | available |
 | 427 | `modec.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 428 | `coma.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
