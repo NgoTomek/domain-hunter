@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 07:04 UTC · 85,434 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 07:19 UTC · 85,470 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -691,7 +691,7 @@ _Updated 2026-06-01 07:04 UTC · 85,434 names (showing top 1,000) — auto-updat
 | 683 | `magale.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 684 | `spape.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 685 | `hetal.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 686 | `rapine.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 686 | `rapine.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 687 | `sunip.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 688 | `sunet.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 689 | `sunic.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |

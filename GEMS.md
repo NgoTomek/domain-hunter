@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 07:04 UTC · 86,262 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 07:19 UTC · 86,298 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -816,7 +816,7 @@ _Updated 2026-06-01 07:04 UTC · 86,262 names (showing top 1,000) — auto-updat
 | 808 | `magale.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 809 | `spape.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 810 | `hetal.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 811 | `rapine.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 811 | `rapine.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 812 | `sunip.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 813 | `sunet.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 814 | `sunic.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
