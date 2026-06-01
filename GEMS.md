@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 11:03 UTC · 86,909 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 11:19 UTC · 86,948 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -858,11 +858,11 @@ _Updated 2026-06-01 11:03 UTC · 86,909 names (showing top 1,000) — auto-updat
 | 850 | `stacu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 851 | `statu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 852 | `staku.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 853 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 854 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 855 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 856 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 857 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 853 | `stawo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 854 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 855 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 856 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 857 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 858 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 859 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 860 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |
