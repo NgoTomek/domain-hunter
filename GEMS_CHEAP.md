@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 15:48 UTC · 86,850 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 16:03 UTC · 86,887 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -99,10 +99,10 @@ _Updated 2026-06-01 15:48 UTC · 86,850 names (showing top 1,000) — auto-updat
 | 91 | `corev.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 92 | `coreh.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 93 | `corez.me` | 0.87 | ~$8.80 | ~$17.27 | available |
-| 94 | `coref.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 95 | `corer.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
-| 96 | `corec.app` | 0.87 | ~$10.81 | ~$14.93 | available |
-| 97 | `corew.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 94 | `corew.me` | 0.87 | ~$8.80 | ~$17.27 | available |
+| 95 | `coref.app` | 0.87 | ~$10.81 | ~$14.93 | available |
+| 96 | `corer.dev` | 0.87 | ~$10.81 | ~$12.87 | available |
+| 97 | `corec.app` | 0.87 | ~$10.81 | ~$14.93 | available |
 | 98 | `halar.xyz` | 0.87 | ~$1.00 | ~$12.98 | available |
 | 99 | `corac.me` | 0.87 | ~$8.80 | ~$17.27 | available |
 | 100 | `bral.app` | 0.87 | ~$10.81 | ~$14.93 | available |
