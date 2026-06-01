@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 13:51 UTC · 86,536 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 14:06 UTC · 86,589 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -382,14 +382,14 @@ _Updated 2026-06-01 13:51 UTC · 86,536 names (showing top 1,000) — auto-updat
 | 374 | `serent.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 375 | `vitan.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 376 | `opaz.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 377 | `covep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 378 | `covem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 379 | `covef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 380 | `coveb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 381 | `covez.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 382 | `covev.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 383 | `covew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 384 | `coveg.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 377 | `coveg.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 378 | `covep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 379 | `covem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 380 | `covef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 381 | `coveb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 382 | `covez.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 383 | `covev.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 384 | `covew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 385 | `covek.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 386 | `coveh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 387 | `coved.app` | 0.83 | ~$10.81 | ~$14.93 | available |

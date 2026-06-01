@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 13:51 UTC · 87,370 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 14:06 UTC · 87,424 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -474,14 +474,14 @@ _Updated 2026-06-01 13:51 UTC · 87,370 names (showing top 1,000) — auto-updat
 | 466 | `serent.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 467 | `vitan.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 468 | `opaz.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 469 | `covep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 470 | `covem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 471 | `covef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 472 | `coveb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 473 | `covez.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 474 | `covev.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 475 | `covew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 476 | `coveg.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 469 | `coveg.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 470 | `covep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 471 | `covem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 472 | `covef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 473 | `coveb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 474 | `covez.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 475 | `covev.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 476 | `covew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 477 | `covek.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 478 | `coveh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 479 | `coved.app` | 0.83 | ~$10.81 | ~$14.93 | available |
