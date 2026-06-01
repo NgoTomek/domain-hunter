@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 10:03 UTC · 85,915 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 10:18 UTC · 85,953 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -481,7 +481,7 @@ _Updated 2026-06-01 10:03 UTC · 85,915 names (showing top 1,000) — auto-updat
 | 473 | `maron.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 474 | `frest.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 475 | `covec.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 476 | `covel.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 476 | `covel.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 477 | `scate.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 478 | `tealo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 479 | `waver.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
