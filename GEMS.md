@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 09:48 UTC · 86,713 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 10:03 UTC · 86,755 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -619,7 +619,7 @@ _Updated 2026-06-01 09:48 UTC · 86,713 names (showing top 1,000) — auto-updat
 | 611 | `mesale.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 612 | `valem.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 613 | `reral.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 614 | `frove.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 614 | `frove.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 615 | `helar.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 616 | `flime.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 617 | `stenu.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |

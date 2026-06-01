@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 09:48 UTC · 85,871 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 10:03 UTC · 85,915 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -517,7 +517,7 @@ _Updated 2026-06-01 09:48 UTC · 85,871 names (showing top 1,000) — auto-updat
 | 509 | `mesale.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 510 | `valem.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 511 | `reral.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 512 | `frove.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 512 | `frove.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 513 | `helar.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 514 | `flime.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 515 | `stenu.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
@@ -995,14 +995,14 @@ _Updated 2026-06-01 09:48 UTC · 85,871 names (showing top 1,000) — auto-updat
 | 987 | `mesun.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 988 | `merlu.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 989 | `merla.me` | 0.80 | ~$8.80 | ~$17.27 | available |
-| 990 | `metic.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 991 | `silone.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 992 | `gagate.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 993 | `merte.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 994 | `merre.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 995 | `merda.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 996 | `merro.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 997 | `merve.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 998 | `merul.app` | 0.80 | ~$10.81 | ~$14.93 | available |
-| 999 | `merri.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 1000 | `melet.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 990 | `merlo.me` | 0.80 | ~$8.80 | ~$17.27 | available |
+| 991 | `metic.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 992 | `silone.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 993 | `gagate.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 994 | `merte.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 995 | `merre.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 996 | `merda.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 997 | `merro.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 998 | `merve.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
+| 999 | `merul.app` | 0.80 | ~$10.81 | ~$14.93 | available |
+| 1000 | `merri.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
