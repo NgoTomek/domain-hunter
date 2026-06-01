@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 06:18 UTC · 86,129 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 06:33 UTC · 86,174 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -267,7 +267,7 @@ _Updated 2026-06-01 06:18 UTC · 86,129 names (showing top 1,000) — auto-updat
 | 259 | `brism.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 260 | `brisp.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 261 | `cresh.dev` | 0.85 | ~$10.81 | ~$12.87 | available |
-| 262 | `stalu.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
+| 262 | `stalu.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 263 | `spure.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 264 | `sagate.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 265 | `crisk.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
@@ -514,21 +514,21 @@ _Updated 2026-06-01 06:18 UTC · 86,129 names (showing top 1,000) — auto-updat
 | 506 | `steka.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 507 | `steci.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 508 | `stedo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 509 | `stedu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 510 | `stezu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 511 | `stepe.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 512 | `steva.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 513 | `steme.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 514 | `stebo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 515 | `stetu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 516 | `stewi.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 517 | `stemu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 518 | `stezo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 519 | `stehi.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 520 | `steho.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 521 | `stevu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 522 | `stesu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 523 | `stewu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 509 | `stewu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 510 | `stedu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 511 | `stezu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 512 | `stepe.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 513 | `steva.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 514 | `steme.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 515 | `stebo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 516 | `stetu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 517 | `stewi.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 518 | `stemu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 519 | `stezo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 520 | `stehi.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 521 | `steho.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 522 | `stevu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 523 | `stesu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 524 | `steba.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 525 | `stewe.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 526 | `steke.me` | 0.83 | ~$8.80 | ~$17.27 | available |
@@ -836,19 +836,19 @@ _Updated 2026-06-01 06:18 UTC · 86,129 names (showing top 1,000) — auto-updat
 | 828 | `stahi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 829 | `stawe.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 830 | `stahe.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 831 | `stafe.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 832 | `stawa.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 833 | `stazi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 834 | `staso.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 835 | `staza.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 836 | `stafu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 837 | `stamu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 838 | `staba.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 839 | `stacu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 840 | `statu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 841 | `staku.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 842 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 843 | `stapu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 831 | `stapu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 832 | `stafe.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 833 | `stawa.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 834 | `stazi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 835 | `staso.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 836 | `staza.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 837 | `stafu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 838 | `stamu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 839 | `staba.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 840 | `stacu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 841 | `statu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 842 | `staku.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 843 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 844 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 845 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 846 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
