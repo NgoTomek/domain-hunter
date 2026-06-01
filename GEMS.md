@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 12:35 UTC · 87,176 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 12:50 UTC · 87,219 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -852,19 +852,19 @@ _Updated 2026-06-01 12:35 UTC · 87,176 names (showing top 1,000) — auto-updat
 | 844 | `stafe.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 845 | `stawa.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 846 | `stazi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 847 | `staso.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 848 | `staza.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 849 | `stafu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 850 | `stamu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 851 | `staba.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 852 | `stacu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 853 | `statu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 854 | `staku.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 855 | `stawo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 856 | `stava.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 857 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 858 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 859 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 847 | `stabu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 848 | `staso.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 849 | `staza.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 850 | `stafu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 851 | `stamu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 852 | `staba.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 853 | `stacu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 854 | `statu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 855 | `staku.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 856 | `stawo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 857 | `stava.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 858 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 859 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 860 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 861 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 862 | `staka.me` | 0.81 | ~$8.80 | ~$17.27 | available |
