@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 05:32 UTC · 85,146 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 05:48 UTC · 85,197 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -604,8 +604,8 @@ _Updated 2026-06-01 05:32 UTC · 85,146 names (showing top 1,000) — auto-updat
 | 596 | `spane.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 597 | `spame.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 598 | `sunta.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 599 | `sunla.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 600 | `sunlo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 599 | `sunlo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 600 | `sunla.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 601 | `sunle.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 602 | `spano.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 603 | `sunlu.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
@@ -638,15 +638,15 @@ _Updated 2026-06-01 05:32 UTC · 85,146 names (showing top 1,000) — auto-updat
 | 630 | `stose.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 631 | `stodu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 632 | `stohi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 633 | `stozo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 634 | `stohu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 635 | `stovu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 636 | `stocu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 637 | `stoho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 638 | `stofu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 639 | `stoze.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 640 | `stohe.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 641 | `stovo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 633 | `stovo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 634 | `stozo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 635 | `stohu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 636 | `stovu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 637 | `stocu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 638 | `stoho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 639 | `stofu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 640 | `stoze.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 641 | `stohe.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 642 | `stozu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 643 | `stoza.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 644 | `stoca.app` | 0.81 | ~$10.81 | ~$14.93 | available |
@@ -719,14 +719,14 @@ _Updated 2026-06-01 05:32 UTC · 85,146 names (showing top 1,000) — auto-updat
 | 711 | `stafu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 712 | `stamu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 713 | `staba.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 714 | `statu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 715 | `staku.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 716 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 717 | `stapu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 718 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 719 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 720 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 721 | `stacu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 714 | `stacu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 715 | `statu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 716 | `staku.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 717 | `stavu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 718 | `stapu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 719 | `stahu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 720 | `stabu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 721 | `staho.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 722 | `stawo.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 723 | `stava.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 724 | `stama.me` | 0.81 | ~$8.80 | ~$17.27 | available |
