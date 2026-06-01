@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 04:01 UTC · 85,696 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 04:16 UTC · 85,738 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -169,7 +169,7 @@ _Updated 2026-06-01 04:01 UTC · 85,696 names (showing top 1,000) — auto-updat
 | 161 | `silet.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 162 | `braven.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
 | 163 | `cret.sh` | 0.86 | ~$31.20 | ~$46.65 | available |
-| 164 | `brime.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
+| 164 | `brime.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 165 | `corald.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 166 | `mart.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
 | 167 | `matal.me` | 0.86 | ~$8.80 | ~$17.27 | available |
@@ -271,7 +271,7 @@ _Updated 2026-06-01 04:01 UTC · 85,696 names (showing top 1,000) — auto-updat
 | 263 | `sagate.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 264 | `crisk.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 265 | `crism.me` | 0.85 | ~$8.80 | ~$17.27 | available |
-| 266 | `pilow.xyz` | 0.85 | ~$2.04 | ~$12.98 | available |
+| 266 | `pilow.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 267 | `golet.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 268 | `rega.sh` | 0.85 | — | — | available |
 | 269 | `stali.app` | 0.84 | ~$10.81 | ~$14.93 | available |
@@ -596,7 +596,7 @@ _Updated 2026-06-01 04:01 UTC · 85,696 names (showing top 1,000) — auto-updat
 | 588 | `caple.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 589 | `capid.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 590 | `zesty.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
-| 591 | `primu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 591 | `primu.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 592 | `sunion.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 593 | `pivory.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 594 | `covale.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
