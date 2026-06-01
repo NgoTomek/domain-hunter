@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 11:19 UTC · 86,114 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 11:34 UTC · 86,155 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -306,15 +306,15 @@ _Updated 2026-06-01 11:19 UTC · 86,114 names (showing top 1,000) — auto-updat
 | 298 | `spir.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
 | 299 | `cosle.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 300 | `comez.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 301 | `comew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 302 | `comeb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 303 | `coson.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 304 | `comem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 305 | `comep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 306 | `cosun.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 307 | `comef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 308 | `comek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 309 | `comeh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 301 | `comeh.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 302 | `comew.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 303 | `comeb.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 304 | `coson.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 305 | `comem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 306 | `comep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 307 | `cosun.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 308 | `comef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 309 | `comek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 310 | `corow.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 311 | `comev.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 312 | `comec.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
@@ -678,7 +678,7 @@ _Updated 2026-06-01 11:19 UTC · 86,114 names (showing top 1,000) — auto-updat
 | 670 | `coreze.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 671 | `clale.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 672 | `car.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 673 | `shadu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 673 | `shadu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 674 | `siger.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 675 | `feralo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 676 | `nectal.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
