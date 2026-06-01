@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 06:03 UTC · 86,086 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 06:18 UTC · 86,129 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -179,7 +179,7 @@ _Updated 2026-06-01 06:03 UTC · 86,086 names (showing top 1,000) — auto-updat
 | 171 | `seel.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
 | 172 | `seep.sh` | 0.86 | ~$31.20 | ~$46.65 | available |
 | 173 | `siron.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
-| 174 | `corale.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
+| 174 | `corale.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 175 | `cob.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 176 | `cov.sh` | 0.86 | ~$31.20 | ~$46.65 | available |
 | 177 | `steri.me` | 0.86 | ~$8.80 | ~$17.27 | available |
@@ -191,8 +191,8 @@ _Updated 2026-06-01 06:03 UTC · 86,086 names (showing top 1,000) — auto-updat
 | 183 | `lagon.me` | 0.86 | ~$8.80 | ~$17.27 | available |
 | 184 | `radow.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
 | 185 | `cosar.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
-| 186 | `cosmu.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
-| 187 | `codow.xyz` | 0.86 | ~$2.04 | ~$12.98 | available |
+| 186 | `codow.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
+| 187 | `cosmu.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 188 | `cosme.sh` | 0.86 | ~$31.20 | ~$46.65 | available |
 | 189 | `stero.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 190 | `steru.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
@@ -506,27 +506,27 @@ _Updated 2026-06-01 06:03 UTC · 86,086 names (showing top 1,000) — auto-updat
 | 498 | `stese.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 499 | `steza.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 500 | `stesi.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 501 | `stewo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 502 | `stepo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 503 | `stefe.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 504 | `stehe.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 505 | `steka.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 506 | `steci.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 507 | `stedo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 508 | `stedu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 509 | `stezu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 510 | `stepe.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 511 | `steva.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 512 | `steme.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 513 | `stebo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 514 | `stetu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 515 | `stewi.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 516 | `stemu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 517 | `stezo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 518 | `stehi.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 519 | `steho.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 520 | `stevu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 521 | `stehu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 501 | `stehu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 502 | `stewo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 503 | `stepo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 504 | `stefe.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 505 | `stehe.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 506 | `steka.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 507 | `steci.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 508 | `stedo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 509 | `stedu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 510 | `stezu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 511 | `stepe.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 512 | `steva.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 513 | `steme.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 514 | `stebo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 515 | `stetu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 516 | `stewi.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 517 | `stemu.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 518 | `stezo.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 519 | `stehi.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 520 | `steho.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 521 | `stevu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 522 | `stesu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 523 | `stewu.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 524 | `steba.me` | 0.83 | ~$8.80 | ~$17.27 | available |
