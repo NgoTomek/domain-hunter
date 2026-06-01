@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 08:05 UTC · 85,585 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 08:20 UTC · 85,633 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
