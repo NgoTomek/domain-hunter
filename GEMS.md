@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 07:50 UTC · 86,373 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 08:05 UTC · 86,412 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -391,10 +391,10 @@ _Updated 2026-06-01 07:50 UTC · 86,373 names (showing top 1,000) — auto-updat
 | 383 | `coson.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 384 | `comem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 385 | `comep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 386 | `comef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 387 | `comek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 388 | `comeh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 389 | `cosun.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 386 | `cosun.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 387 | `comef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 388 | `comek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 389 | `comeh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 390 | `corow.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 391 | `comev.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 392 | `comec.dev` | 0.83 | ~$10.81 | ~$12.87 | available |

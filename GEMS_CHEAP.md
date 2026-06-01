@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 07:50 UTC · 85,546 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 08:05 UTC · 85,585 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -307,10 +307,10 @@ _Updated 2026-06-01 07:50 UTC · 85,546 names (showing top 1,000) — auto-updat
 | 299 | `coson.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 300 | `comem.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 301 | `comep.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 302 | `comef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 303 | `comek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
-| 304 | `comeh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
-| 305 | `cosun.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 302 | `cosun.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 303 | `comef.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 304 | `comek.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
+| 305 | `comeh.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 306 | `corow.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 307 | `comev.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 308 | `comec.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
