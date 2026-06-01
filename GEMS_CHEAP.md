@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 06:33 UTC · 85,343 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 06:49 UTC · 85,389 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -261,7 +261,7 @@ _Updated 2026-06-01 06:33 UTC · 85,343 names (showing top 1,000) — auto-updat
 | 253 | `silow.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 254 | `coralo.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 255 | `rolar.app` | 0.84 | ~$10.81 | ~$14.93 | available |
-| 256 | `raken.xyz` | 0.84 | ~$2.04 | ~$12.98 | available |
+| 256 | `raken.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 257 | `magen.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 258 | `coken.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
 | 259 | `codid.xyz` | 0.84 | ~$1.00 | ~$12.98 | available |
@@ -505,7 +505,7 @@ _Updated 2026-06-01 06:33 UTC · 85,343 names (showing top 1,000) — auto-updat
 | 497 | `melta.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 498 | `oper.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 499 | `soble.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 500 | `cagate.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 500 | `cagate.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 501 | `scave.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 502 | `solet.dev` | 0.82 | ~$10.81 | ~$12.87 | available |
 | 503 | `mesate.me` | 0.82 | ~$8.80 | ~$17.27 | available |
