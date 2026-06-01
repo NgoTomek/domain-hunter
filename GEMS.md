@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 09:02 UTC · 86,599 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 09:17 UTC · 86,639 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -409,7 +409,7 @@ _Updated 2026-06-01 09:02 UTC · 86,599 names (showing top 1,000) — auto-updat
 | 401 | `comal.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 402 | `coric.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 403 | `comit.sh` | 0.83 | ~$31.20 | ~$46.65 | available |
-| 404 | `harde.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 404 | `harde.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 405 | `hardi.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 406 | `mesal.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 407 | `mesat.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
@@ -626,7 +626,7 @@ _Updated 2026-06-01 09:02 UTC · 86,599 names (showing top 1,000) — auto-updat
 | 618 | `carden.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
 | 619 | `canno.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 620 | `canne.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 621 | `cannu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 621 | `cannu.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 622 | `siver.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 623 | `virid.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 624 | `carle.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
@@ -726,7 +726,7 @@ _Updated 2026-06-01 09:02 UTC · 86,599 names (showing top 1,000) — auto-updat
 | 718 | `softy.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
 | 719 | `fastic.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 720 | `canit.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 721 | `calow.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 721 | `calow.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 722 | `spime.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 723 | `spane.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 724 | `spame.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |

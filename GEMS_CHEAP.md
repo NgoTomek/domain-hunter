@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 09:02 UTC · 85,765 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 09:17 UTC · 85,800 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -321,7 +321,7 @@ _Updated 2026-06-01 09:02 UTC · 85,765 names (showing top 1,000) — auto-updat
 | 313 | `corce.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 314 | `comal.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 315 | `coric.app` | 0.83 | ~$10.81 | ~$14.93 | available |
-| 316 | `harde.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
+| 316 | `harde.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 317 | `hardi.app` | 0.83 | ~$10.81 | ~$14.93 | available |
 | 318 | `mesal.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 319 | `mesat.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
@@ -522,7 +522,7 @@ _Updated 2026-06-01 09:02 UTC · 85,765 names (showing top 1,000) — auto-updat
 | 514 | `stenu.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 515 | `canno.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 516 | `canne.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
-| 517 | `cannu.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 517 | `cannu.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 518 | `siver.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 519 | `virid.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 520 | `prine.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
@@ -604,7 +604,7 @@ _Updated 2026-06-01 09:02 UTC · 85,765 names (showing top 1,000) — auto-updat
 | 596 | `sunode.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 597 | `fastic.me` | 0.81 | ~$8.80 | ~$17.27 | available |
 | 598 | `canit.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 599 | `calow.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 599 | `calow.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 600 | `spime.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 601 | `spane.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 602 | `spame.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
@@ -873,9 +873,9 @@ _Updated 2026-06-01 09:02 UTC · 85,765 names (showing top 1,000) — auto-updat
 | 865 | `galeg.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 866 | `galez.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 867 | `galep.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 868 | `galeh.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
-| 869 | `galeb.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
-| 870 | `galew.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
+| 868 | `galew.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 869 | `galeh.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
+| 870 | `galeb.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
 | 871 | `galer.app` | 0.80 | ~$10.81 | ~$14.93 | available |
 | 872 | `ralar.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 873 | `ravene.xyz` | 0.80 | ~$2.04 | ~$12.98 | available |
