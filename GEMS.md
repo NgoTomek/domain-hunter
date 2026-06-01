@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 16:03 UTC · 87,753 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 16:19 UTC · 87,811 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -230,7 +230,7 @@ _Updated 2026-06-01 16:03 UTC · 87,753 names (showing top 1,000) — auto-updat
 | 222 | `storo.me` | 0.85 | ~$8.80 | ~$17.27 | available |
 | 223 | `stowe.sh` | 0.85 | ~$31.20 | ~$46.65 | available |
 | 224 | `loney.ai` | 0.85 | — | — | available |
-| 225 | `shate.app` | 0.85 | ~$10.81 | ~$14.93 | available |
+| 225 | `shate.me` | 0.85 | ~$8.80 | ~$17.27 | available |
 | 226 | `suaven.xyz` | 0.85 | ~$1.00 | ~$12.98 | available |
 | 227 | `aton.sh` | 0.85 | ~$31.20 | ~$46.65 | available |
 | 228 | `moder.sh` | 0.85 | ~$31.20 | ~$46.65 | available |
@@ -585,7 +585,7 @@ _Updated 2026-06-01 16:03 UTC · 87,753 names (showing top 1,000) — auto-updat
 | 577 | `wover.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 578 | `corav.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 579 | `corag.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 580 | `maron.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
+| 580 | `maron.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 581 | `frest.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 582 | `covec.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 583 | `covel.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
@@ -681,7 +681,7 @@ _Updated 2026-06-01 16:03 UTC · 87,753 names (showing top 1,000) — auto-updat
 | 673 | `canic.me` | 0.82 | ~$8.80 | ~$17.27 | available |
 | 674 | `canet.app` | 0.82 | ~$10.81 | ~$14.93 | available |
 | 675 | `opaque.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
-| 676 | `covene.xyz` | 0.82 | ~$2.04 | ~$12.98 | available |
+| 676 | `covene.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 677 | `flet.sh` | 0.82 | ~$31.20 | ~$46.65 | available |
 | 678 | `keral.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
 | 679 | `sidge.xyz` | 0.82 | ~$1.00 | ~$12.98 | available |
@@ -968,41 +968,41 @@ _Updated 2026-06-01 16:03 UTC · 87,753 names (showing top 1,000) — auto-updat
 | 960 | `coppi.io` | 0.81 | ~$28.12 | ~$51.80 | available |
 | 961 | `covid.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
 | 962 | `coresa.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 963 | `cometa.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
-| 964 | `fracle.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 965 | `fervent.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
-| 966 | `spage.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 967 | `pragon.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 968 | `fresa.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 969 | `puren.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 970 | `sunu.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 971 | `serli.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 972 | `spalo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 973 | `slent.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 974 | `secove.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 975 | `stadu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 976 | `stanu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 977 | `stazu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 978 | `stana.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 979 | `stasa.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 980 | `staco.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 981 | `stapi.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 982 | `staci.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
-| 983 | `stasu.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 984 | `stada.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
-| 985 | `tidel.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 986 | `teron.me` | 0.81 | ~$8.80 | ~$17.27 | available |
-| 987 | `heraw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 988 | `herow.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 989 | `stoto.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 990 | `stope.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 991 | `beryl.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
-| 992 | `fera.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
-| 993 | `keron.app` | 0.81 | ~$10.81 | ~$14.93 | available |
-| 994 | `herave.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 995 | `pilone.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 996 | `crani.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 997 | `crano.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 998 | `leam.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
-| 999 | `crega.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 1000 | `crene.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 963 | `corela.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 964 | `cometa.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
+| 965 | `fracle.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 966 | `fervent.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
+| 967 | `spage.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 968 | `pragon.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 969 | `fresa.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 970 | `puren.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 971 | `sunu.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 972 | `serli.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 973 | `spalo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 974 | `slent.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 975 | `secove.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 976 | `stadu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 977 | `stanu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 978 | `stazu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 979 | `stana.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 980 | `stasa.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 981 | `staco.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 982 | `stapi.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 983 | `staci.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
+| 984 | `stasu.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 985 | `stada.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
+| 986 | `tidel.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 987 | `teron.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 988 | `heraw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 989 | `herow.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 990 | `stoto.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 991 | `stope.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 992 | `beryl.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
+| 993 | `fera.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
+| 994 | `keron.app` | 0.81 | ~$10.81 | ~$14.93 | available |
+| 995 | `herave.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 996 | `pilone.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 997 | `crani.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 998 | `crano.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 999 | `leam.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
+| 1000 | `crega.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
