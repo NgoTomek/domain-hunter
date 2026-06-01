@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-01 21:49 UTC · 87,758 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 22:05 UTC · 87,800 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -761,7 +761,7 @@ _Updated 2026-06-01 21:49 UTC · 87,758 names (showing top 1,000) — auto-updat
 | 753 | `copine.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 754 | `gatal.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 755 | `cometi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 756 | `cometu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 756 | `cometu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 757 | `cometo.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 758 | `heam.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 759 | `herce.me` | 0.81 | ~$8.80 | ~$17.27 | available |
@@ -984,7 +984,7 @@ _Updated 2026-06-01 21:49 UTC · 87,758 names (showing top 1,000) — auto-updat
 | 976 | `lager.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
 | 977 | `sunelm.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 978 | `ciris.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
-| 979 | `priml.me` | 0.80 | ~$8.80 | ~$17.27 | available |
+| 979 | `priml.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 980 | `photo.dev` | 0.80 | ~$10.81 | ~$12.87 | available |
 | 981 | `merale.xyz` | 0.80 | ~$1.00 | ~$12.98 | available |
 | 982 | `snode.app` | 0.80 | ~$10.81 | ~$14.93 | available |

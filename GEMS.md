@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-01 21:49 UTC · 88,711 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-01 22:05 UTC · 88,753 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -908,7 +908,7 @@ _Updated 2026-06-01 21:49 UTC · 88,711 names (showing top 1,000) — auto-updat
 | 900 | `copine.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 901 | `gatal.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 902 | `cometi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 903 | `cometu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
+| 903 | `cometu.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 904 | `cometo.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 905 | `heam.dev` | 0.81 | ~$10.81 | ~$12.87 | available |
 | 906 | `heli.sh` | 0.81 | ~$31.20 | ~$46.65 | available |
