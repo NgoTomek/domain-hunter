@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-02 02:20 UTC · 89,434 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-02 02:35 UTC · 89,470 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -191,7 +191,7 @@ _Updated 2026-06-02 02:20 UTC · 89,434 names (showing top 1,000) — auto-updat
 | 183 | `cober.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
 | 184 | `seel.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
 | 185 | `seep.sh` | 0.86 | ~$31.20 | ~$46.65 | available |
-| 186 | `siron.dev` | 0.86 | ~$10.81 | ~$12.87 | available |
+| 186 | `siron.me` | 0.86 | ~$8.80 | ~$17.27 | available |
 | 187 | `corale.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 188 | `cob.xyz` | 0.86 | ~$1.00 | ~$12.98 | available |
 | 189 | `cov.sh` | 0.86 | ~$31.20 | ~$46.65 | available |
