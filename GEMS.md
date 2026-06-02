@@ -1,6 +1,6 @@
 # Gems found by domain-hunter
 
-_Updated 2026-06-02 00:06 UTC · 89,092 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-02 00:21 UTC · 89,121 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -396,7 +396,7 @@ _Updated 2026-06-02 00:06 UTC · 89,092 names (showing top 1,000) — auto-updat
 | 388 | `corave.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 389 | `stral.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 390 | `ferne.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 391 | `maper.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
+| 391 | `maper.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 392 | `seaf.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 393 | `seek.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 394 | `seef.app` | 0.83 | ~$10.81 | ~$14.93 | available |

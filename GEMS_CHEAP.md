@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-02 00:06 UTC · 88,131 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-02 00:21 UTC · 88,163 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -305,7 +305,7 @@ _Updated 2026-06-02 00:06 UTC · 88,131 names (showing top 1,000) — auto-updat
 | 297 | `corave.xyz` | 0.83 | ~$2.04 | ~$12.98 | available |
 | 298 | `stral.xyz` | 0.83 | ~$1.00 | ~$12.98 | available |
 | 299 | `ferne.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
-| 300 | `maper.dev` | 0.83 | ~$10.81 | ~$12.87 | available |
+| 300 | `maper.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 301 | `seaf.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 302 | `seek.me` | 0.83 | ~$8.80 | ~$17.27 | available |
 | 303 | `seef.app` | 0.83 | ~$10.81 | ~$14.93 | available |
