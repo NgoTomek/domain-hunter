@@ -1,6 +1,6 @@
 # Cheap gems (≤ $12/yr)
 
-_Updated 2026-06-02 02:35 UTC · 88,482 names (showing top 1,000) — auto-updated by GitHub Actions._
+_Updated 2026-06-02 02:50 UTC · 88,516 names (showing top 1,000) — auto-updated by GitHub Actions._
 
 `~` = TLD base rate (premium unverified). **Availability can change — always re-check before buying.**
 
@@ -679,10 +679,10 @@ _Updated 2026-06-02 02:35 UTC · 88,482 names (showing top 1,000) — auto-updat
 | 671 | `feraw.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 672 | `helit.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 673 | `lagate.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 674 | `sepic.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 675 | `surfo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
-| 676 | `surfu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
-| 677 | `surfi.me` | 0.81 | ~$8.80 | ~$17.27 | available |
+| 674 | `surfi.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 675 | `sepic.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 676 | `surfo.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
+| 677 | `surfu.xyz` | 0.81 | ~$2.04 | ~$12.98 | available |
 | 678 | `surfe.app` | 0.81 | ~$10.81 | ~$14.93 | available |
 | 679 | `cogate.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
 | 680 | `nital.xyz` | 0.81 | ~$1.00 | ~$12.98 | available |
